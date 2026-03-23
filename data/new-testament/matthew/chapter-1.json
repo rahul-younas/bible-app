@@ -1,0 +1,26 @@
+{
+  "book": "Matthew",
+  "chapter": 1,
+  "verses": [
+    {
+      "verse": 1,
+      "urdu": "یہ یسوع مسیح کی نسل نامہ ہے، جو داؤد کے بیٹے اور ابراہام کے بیٹے ہیں۔",
+      "english": "This is the genealogy of Jesus the Messiah, the son of David, the son of Abraham."
+    },
+    {
+      "verse": 2,
+      "urdu": "ابراہام سے اسحاق پیدا ہوا، اسحاق سے یعقوب پیدا ہوا۔",
+      "english": "Abraham was the father of Isaac, Isaac the father of Jacob."
+    },
+    {
+      "verse": 3,
+      "urdu": "یعقوب سے یہوداہ اور اس کے بھائی پیدا ہوئے۔",
+      "english": "Jacob the father of Judah and his brothers."
+    },
+    {
+      "verse": 4,
+      "urdu": "یہوداہ سے فارص اور زارح پیدا ہوئے۔",
+      "english": "Judah the father of Perez and Zerah."
+    }
+  ]
+}

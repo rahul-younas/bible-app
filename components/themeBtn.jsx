@@ -8,6 +8,19 @@ import { Button } from "@/components/ui/button"
 
 export function ModeToggle() {
   const { theme, setTheme, systemTheme } = useTheme()
+  const [mounted, setMounted] = React.useState(false)
+
+  React.useEffect(() => {
+    setMounted(true)
+  }, [])
+
+  if (!mounted) {
+    return (
+      <Button variant="outline" size="icon">
+        <span className="sr-only">Toggle theme</span>
+      </Button>
+    )
+  }
 
   // Determine current theme
   const currentTheme = theme === "system" ? systemTheme : theme

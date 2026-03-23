@@ -1,6 +1,7 @@
 import './globals.css';
 import { Noto_Nastaliq_Urdu, Inter } from 'next/font/google';
 import { ThemeProvider } from '@/components/theme-provider';
+import Navbar from '@/components/Navbar';
 
 const urduFont = Noto_Nastaliq_Urdu({
   subsets: ['arabic'],
@@ -21,7 +22,7 @@ export const metadata = {
 
 export default function RootLayout({ children }) {
   return (
-    <html lang="ur" dir="rtl" suppressHydrationWarning>
+    <html suppressHydrationWarning>
       <body className={`${inter.variable} ${urduFont.variable}`}>
         <ThemeProvider
           attribute="class"
@@ -29,6 +30,7 @@ export default function RootLayout({ children }) {
           enableSystem
           disableTransitionOnChange
         >
+          <Navbar />
           {children}
         </ThemeProvider>
       </body>

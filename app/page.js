@@ -1,10 +1,18 @@
-import { ModeToggle } from "@/components/themeBtn"; 
+import { ModeToggle } from "@/components/themeBtn";
+import Link from "next/link";
+import { Button } from "@/components/ui/button"
+import Navbar from "@/components/Navbar";
 
-export default function Home() {
+export default async function Home() {
+
   return (
-    <div className="flex gap-x-2">
-        <h1 className="text-2xl font-bold">Genesis</h1>
-        <span className="urdu">پیدائیش</span>
-    </div>
+    <> 
+      <div className="flex justify-center my-10">
+
+        <Link href={'/bible'}>
+          <Button className={'text-2xl'}>Let&apos;s Read</Button>
+        </Link>
+      </div>
+    </>
   );
 }
