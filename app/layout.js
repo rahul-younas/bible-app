@@ -1,7 +1,6 @@
 import './globals.css';
 import { Noto_Nastaliq_Urdu, Inter } from 'next/font/google';
 import { ThemeProvider } from '@/components/theme-provider';
-import Navbar from '@/components/Navbar';
 import Breadcrumbs from '@/components/Breadcrumbs';
 
 const urduFont = Noto_Nastaliq_Urdu({
