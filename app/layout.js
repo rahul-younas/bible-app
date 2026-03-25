@@ -2,6 +2,7 @@ import './globals.css';
 import { Noto_Nastaliq_Urdu, Inter } from 'next/font/google';
 import { ThemeProvider } from '@/components/theme-provider';
 import Navbar from '@/components/Navbar';
+import Breadcrumbs from '@/components/Breadcrumbs';
 
 const urduFont = Noto_Nastaliq_Urdu({
   subsets: ['arabic'],
@@ -16,8 +17,9 @@ const inter = Inter({
 
 
 export const metadata = {
-  title: 'Urdu Next.js App',
-  description: 'Displaying Urdu text in Next.js App Router',
+  title: "Catholic Urdu & English Bible App",
+  description: "This is my English and Urdu Catholic Bible App",
+  manifest: "/manifest.json",
 };
 
 export default function RootLayout({ children }) {
@@ -30,7 +32,8 @@ export default function RootLayout({ children }) {
           enableSystem
           disableTransitionOnChange
         >
-          <Navbar />
+          {/* <Navbar /> */}
+          <Breadcrumbs />
           {children}
         </ThemeProvider>
       </body>

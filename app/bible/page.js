@@ -16,6 +16,7 @@ const StartReading = () => {
                     <span className=' py-3'>New Testament</span>
                 </Button>
             </Link>
+            <Link href="/" className='underline text-lg'>Go to Homepage</Link>
         </div>
     )
 }

@@ -1,0 +1,100 @@
+{
+  "book": "matthew",
+  "chapter": 10,
+  "sections": [
+    {
+      "title_urdu": "ابتدائی نسب نامہ",
+      "title_english": "The Early Genealogy",
+      "start": 1,
+      "end": 10
+    },
+    {
+      "title_urdu": "داؤد کے بعد کی نسل",
+      "title_english": "The Line After David",
+      "start": 11,
+      "end": 16
+    }
+  ],
+  "verses": [
+    {
+      "verse": 1,
+      "urdu": "یسُوع مسیح اِبنِ داؤد اِبنِ اِبراہیم کا نسب نامہ۔",
+      "english": "This is the genealogy of Jesus the Messiah, the son of David, the son of Abraham."
+    },
+    {
+      "verse": 2,
+      "urdu": "ابراہام سے اسحاق پیدا ہوا، اسحاق سے یعقوب پیدا ہوا۔",
+      "english": "Abraham was the father of Isaac, and Isaac the father of Jacob."
+    },
+    {
+      "verse": 3,
+      "urdu": "یعقوب سے یہوداہ اور اس کے بھائی پیدا ہوئے۔",
+      "english": "Jacob was the father of Judah and his brothers."
+    },
+    {
+      "verse": 4,
+      "urdu": "یہوداہ سے فارص اور زارح پیدا ہوئے۔",
+      "english": "Judah was the father of Perez and Zerah."
+    },
+    {
+      "verse": 5,
+      "urdu": "فارص سے حصرون پیدا ہوا، اور حصرون سے ارام۔",
+      "english": "Perez was the father of Hezron, and Hezron the father of Aram."
+    },
+    {
+      "verse": 6,
+      "urdu": "ارام سے عمیناداب پیدا ہوا۔",
+      "english": "Aram was the father of Amminadab."
+    },
+    {
+      "verse": 7,
+      "urdu": "عمیناداب سے نحشون پیدا ہوا۔",
+      "english": "Amminadab was the father of Nahshon."
+    },
+    {
+      "verse": 8,
+      "urdu": "نحشون سے سلمون پیدا ہوا۔",
+      "english": "Nahshon was the father of Salmon."
+    },
+    {
+      "verse": 9,
+      "urdu": "سلمون سے بوعز پیدا ہوا۔",
+      "english": "Salmon was the father of Boaz."
+    },
+    {
+      "verse": 10,
+      "urdu": "بوعز سے عوبید پیدا ہوا۔",
+      "english": "Boaz was the father of Obed."
+    },
+    {
+      "verse": 11,
+      "urdu": "عوبید سے یسی پیدا ہوا۔",
+      "english": "Obed was the father of Jesse."
+    },
+    {
+      "verse": 12,
+      "urdu": "یسی سے داؤد بادشاہ پیدا ہوا۔",
+      "english": "Jesse was the father of King David."
+    },
+    {
+      "verse": 13,
+      "urdu": "داؤد سے سلیمان پیدا ہوا۔",
+      "english": "David was the father of Solomon."
+    },
+    {
+      "verse": 14,
+      "urdu": "سلیمان سے رحبعام پیدا ہوا۔",
+      "english": "Solomon was the father of Rehoboam."
+    },
+    {
+      "verse": 15,
+      "urdu": "رحبعام سے ابیاہ پیدا ہوا۔",
+      "english": "Rehoboam was the father of Abijah."
+    },
+    {
+      "verse": 16,
+      "urdu": "ابیاہ سے آسا پیدا ہوا۔",
+      "english": "Abijah was the father of Asa."
+    }
+  ]
+}
