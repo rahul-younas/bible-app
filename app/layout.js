@@ -16,9 +16,9 @@ const inter = Inter({
 
 
 export const metadata = {
-  title: "Catholic Urdu & English Bible App",
-  description: "This is my English and Urdu Catholic Bible App",
-  manifest: "/manifest.json",
+  title: "Urdu & English Catholic Bible",
+  description: "Read the Holy Bible in English and Urdu with a simple, easy-to-use app. Switch languages effortlessly and explore Scripture anytime for daily reading and reflection.",
+  manifest: "/manifest.json?v=2",
 };
 
 export default function RootLayout({ children }) {
