@@ -1,11 +1,11 @@
 {
-  "name": "Bible",
-  "short_name": "UE Bible",
-  "description": "This is my English and Urdu Catholic Bible App",
+  "name": "Urdu & English Catholic Bible",
+  "short_name": "Catholic Bible",
+  "description": "Read the Holy Bible in English and Urdu with a simple, easy-to-use app. Switch languages effortlessly and explore Scripture anytime for daily reading and reflection.",
   "start_url": "/",
   "display": "standalone",
-  "background_color": "#ffffff",
-  "theme_color": "#000000",
+  "background_color": "#000000",
+  "theme_color": "#FFFFFF",
   "icons": [
     {
       "src": "/icon-192.png",
