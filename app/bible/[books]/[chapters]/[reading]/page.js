@@ -53,7 +53,7 @@ export default async function ChapterPage({ params }) {
               {section.title_english}
             </h3>
 
-            <p className="leading-snug text-xl text-justify">
+            <p className="leading-snug text-lg text-justify">
               {getVersesInRange(section.start, section.end).map((v) => (
                 <span key={v.verse}>
                   <strong className="text-cyan-500 mr-2">{v.verse}.</strong>
