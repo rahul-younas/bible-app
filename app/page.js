@@ -20,7 +20,7 @@ export default async function Home() {
             />
             <div className="flex flex-col">
               <span className="text-xs tracking-widest uppercase text-muted-foreground">
-                Saint Anglican Catholic Church
+                Anglican Catholic Church
               </span>
               <span className="text-sm font-medium">
                 Urdu & English Bible Reading
@@ -34,18 +34,24 @@ export default async function Home() {
       <main className="mx-auto w-[90%] max-w-6xl">
         <section className="relative overflow-hidden rounded-2xl border border-border bg-card">
           <div className="absolute inset-0 opacity-30 bg-gradient-to-br from-cyan-200 via-transparent to-indigo-200 dark:from-cyan-900/40 dark:to-indigo-900/40" />
-          <div className="relative px-6 py-12 md:px-12 md:py-16 flex flex-col items-center text-center gap-6">
+          <div className="relative px-6 py-12 md:px-12 md:py-16 flex flex-col items-center text-center gap-3">
             <Image
               src="/logo.png"
               alt="Church Logo"
               width={96}
               height={96}
               priority
-              className="rounded-lg shadow-sm"
+              className="rounded-lg shadow-sm mb-5"
             />
+            <h3 className="text-xl font-bold leading-tight">
+                Urdu & English
+            </h3>
             <h1 className="text-3xl md:text-5xl font-bold leading-tight">
-              Saint Mary the Virgin Anglican Catholic Church
+              Catholic Bible
             </h1>
+            <p className="text-xl text-muted-foreground">
+              Saint Mary the Virgin Anglican Catholic Church
+            </p>
             <p className="text-base md:text-lg text-muted-foreground">
               Rev. Father Amir Bashir
             </p>
