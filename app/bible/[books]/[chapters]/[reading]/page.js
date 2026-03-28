@@ -49,7 +49,7 @@ export default async function ChapterPage({ params }) {
       <div>
         {chapterData.sections.map((section, i) => (
           <div key={i} className="mb-6">
-            <h3 className="text-xl underline font-bold mb-2">
+            <h3 className="text-xl english underline font-bold mb-2">
               {section.title_english}
             </h3>
 
