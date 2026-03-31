@@ -3,6 +3,7 @@
 import Link from 'next/link';
 import { usePathname } from 'next/navigation';
 import { Button } from "@/components/ui/button";
+import { useState } from 'react'
 
 export default function Chapters() {
 
@@ -1339,7 +1340,7 @@ export default function Chapters() {
 
   // Get the correct book list dynamically
   const chapters = allBooks[pathKey] || [];
-
+  const [activeButton, setActiveButton] = useState(null)
 
   return (
     <div className="flex flex-wrap justify-center md:justify-right gap-4 my-3">
@@ -1350,11 +1351,20 @@ export default function Chapters() {
           className="w-[97%] sm:w-1/2 md:w-[55%] lg:w-[48%]"
         >
           <Button
+            onClick={() => setActiveButton(index)}
+            disabled={activeButton === index}
             variant="secondary"
             className="w-full text-2xl md:text-4xl py-15 md:py-20 flex flex-col items-center"
           >
-            <span className="urdu text-center">{chapter.urdu}</span>
-            <span className="text-center">{chapter.english}</span>
+            {activeButton === index ? (
+              "Loading..."
+            ) : (
+              <>
+                <span className="urdu text-center">{chapter.urdu}</span>
+                <span className="text-center">{chapter.english}</span>
+              </>
+            )}
+
           </Button>
         </Link>
       ))}

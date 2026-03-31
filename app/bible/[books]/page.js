@@ -3,9 +3,11 @@
 import Link from 'next/link';
 import { usePathname } from 'next/navigation';
 import { Button } from "@/components/ui/button";
+import { useState } from 'react'
 
 export default function Chapters() {
 
+    const [activeButton, setActiveButton] = useState(null)
 
     const oldTestamentBooks = [
         { urdu: 'تکوِین', english: 'Genesis', href: '/bible/old-testament/genesis', title: 'توریت' },
@@ -129,11 +131,20 @@ export default function Chapters() {
                                 className="w-[97%] sm:w-1/2 md:w-[55%] lg:w-[48%]"
                             >
                                 <Button
+                                    onClick={() => setActiveButton(book.english)}
+                                    disabled={activeButton === book.english}
                                     variant="secondary"
                                     className="w-full text-2xl md:text-4xl py-15 md:py-20 flex flex-col items-center"
                                 >
-                                    <span className="urdu text-center">{book.urdu}</span>
-                                    <span className="text-center">{book.english}</span>
+                                    {activeButton === book.english ? (
+                                        "Loading..."
+                                    ) : (
+                                        <>
+                                            <span className="urdu text-center">{book.urdu}</span>
+                                            <span className="text-center">{book.english}</span>
+                                        </>
+                                    )}
+
                                 </Button>
                             </Link>
                         ))}

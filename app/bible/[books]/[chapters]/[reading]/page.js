@@ -8,7 +8,7 @@ export default async function ChapterPage({ params }) {
   try {
     data = await import(`@/data/${books}/${chapters}/${reading}.json`);
   } catch (error) {
-    return <ComingSoon/>;
+    return <ComingSoon />;
   }
 
   const chapterData = data.default;
@@ -20,7 +20,7 @@ export default async function ChapterPage({ params }) {
   };
 
   return (
-    <div className="mx-auto py-5 w-[90%] max-w-4xl flex flex-col gap-6">
+    <div className="mx-auto py-5 w-[90%] max-w-4xl flex flex-col gap-3">
       <h1 className="text-xl md:text-2xl font-bold text-center mb-6 capitalize">
         {chapterData.book} - Chapter {chapterData.chapter}
       </h1>
@@ -28,7 +28,7 @@ export default async function ChapterPage({ params }) {
       {/* Urdu */}
       <div>
         {chapterData.sections.map((section, i) => (
-          <div key={i} className="mb-6">
+          <div key={i}>
             <h3 className="text-xl urdu underline font-bold text-right mb-2">
               {section.title_urdu}
             </h3>
@@ -45,15 +45,20 @@ export default async function ChapterPage({ params }) {
         ))}
       </div>
 
+      <div className="w-full h-1 bg-gray-500"></div>
+
       {/* English */}
-      <div>
+      <div className="mt-2">
+        <h5 className="text-[10px] md:text-lg font-bold text-center mb-2 capitalize text-cyan-500">
+          New Revised Standard Version Catholic Edition (NRSVCE)
+        </h5>
         {chapterData.sections.map((section, i) => (
-          <div key={i} className="mb-6">
-            <h3 className="text-xl english underline font-bold mb-2">
+          <div key={i}>
+            <h3 className="text-lg english font-bold mb-4 mt-2">
               {section.title_english}
             </h3>
 
-            <p className="leading-snug text-lg text-justify">
+            <p className="leading-snug text-md md:text-lg text-justify">
               {getVersesInRange(section.start, section.end).map((v) => (
                 <span key={v.verse}>
                   <strong className="text-cyan-500 mr-2">{v.verse}.</strong>
