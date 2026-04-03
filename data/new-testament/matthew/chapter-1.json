@@ -1,20 +1,32 @@
 {
   "book": "matthew",
   "chapter": 1,
-  "sections": [
-    {
-      "title_urdu": "مسیح کا نسب نامہ",
-      "title_english": "The Early Genealogy",
-      "start": 1,
-      "end": 17
-    },
-    {
-      "title_urdu": "یسُوع مسیح کی پیدائش",
-      "title_english": "The Birth of Jesus the Messiah",
-      "start": 18,
-      "end": 25
-    }
-  ],
+  "sections": {
+    "urdu": [
+      {
+        "title": "مسیح کا نسب نامہ",
+        "start": 1,
+        "end": 17
+      },
+      {
+        "title": "یسُوع مسیح کی پیدائش",
+        "start": 18,
+        "end": 25
+      }
+    ],
+    "english": [
+      {
+        "title": "The Genealogy of Jesus the Messiah",
+        "start": 1,
+        "end": 17
+      },
+      {
+        "title": "The Birth of Jesus the Messiah",
+        "start": 18,
+        "end": 25
+      }
+    ]
+  },
   "verses": [
     {
       "verse": 1,
@@ -53,23 +65,23 @@
     },
     {
       "verse": 8,
-      "urdu": "اَور آسا سے یو شا فاط پیدا ہُوا۔ اَور یو شا فاط سے یورام پیدا ہُوا۔ اَور یورام سے عُزی یاہ پیدا ہُوا ",
+      "urdu": "اَور آسا سے یو شا فاط پیدا ہُوا۔ اَور یو شا فاط سے یورام  پیدا ہُوا۔ اَور یورام سے عُزی یاہ  پیدا ہُوا ",
       "english": "and Asaph the father of Jehoshaphat, and Jehoshaphat the father of Joram, and Joram the father of Uzziah, "
     },
     {
       "verse": 9,
-      "urdu": "اور عُزی یاہ سے یو تام پیدا ہُوا۔ اَوریو تام سے آحاز پیدا ہُوا۔ اَور آحاز سے حِزقی یاہ پیدا ہُوا",
-      "english": "and Uzziah the father of Jotham, and Jotham the father of Ahaz, and Ahaz the father of Hezekiah,"
+      "urdu": "اور عُزی یاہ سے یو تام  پیدا ہُوا۔ اَوریو تام سے آحاز   پیدا ہُوا۔ اَور آحاز سے حِزقی یاہ  پیدا ہُوا",
+      "english": "and Uzziah the father of Jotham, and Jotham the father of Ahaz, and Ahaz the father of Hezekiah, "
     },
     {
       "verse": 10,
-      "urdu": "اَور حِزقی یا ہ سے مَنسّے پیدا ہُوااَور مَنسّے سے آمون پیدا ہُوا۔اَور آمون سے یوشی یاہ پیدا ہُوا",
+      "urdu": "اَور حِزقی یا ہ سے مَنسّے پیدا ہُوااَور مَنسّے سے آمون پیدا ہُوا۔اَور آمون سے یوشی یاہ  پیدا ہُوا",
       "english": "and Hezekiah the father of Manasseh, and Manasseh the father of Amos, and Amos the father of Josiah, "
     },
     {
       "verse": 11,
       "urdu": "اور یوشی یاہ سے یِکن یاہ اَور اُس کے بھائی جَلاوطن ہو کر بابل جانے کے زمانے میں پیدا ہُوئے",
-      "english": "and Josiah the father of Jechoniah and his brothers, at the time of the deportation to Babylon."
+      "english": "and Josiah the father of Jechoniah and his brothers, at the time of the deportation to Babylon. "
     },
     {
       "verse": 12,
@@ -94,7 +106,7 @@
     {
       "verse": 16,
       "urdu": "اَور یَعقُوب سے یُوسف پیدا ہُوا۔ جو اُس مریم کا شوہر تھا جس سے یسُوع پیدا ہُوا۔ جو مسیح کہلاتا ہے۔",
-      "english": "and Jacob the father of Joseph the husband of Mary, who bore Jesus, who is called the Messiah. "
+      "english": "and Jacob the father of Joseph the husband of Mary, of whom Jesus was born, who is called the Messiah. "
     },
     {
       "verse": 17,
@@ -104,12 +116,12 @@
     {
       "verse": 18,
       "urdu": "اَب یسُوع مسیح کی پیدائش یُوں ہُوئی۔ کہ جب اُس کی ماں مریم یُوسف کے ساتھ بِیاہی گئی۔ تو اُن کے اِکٹّھے ہو نے سے پہلے وہ رُوحُ القُدس سے حامِلہ پائی گئی۔ ",
-      "english": "Now the birth of Jesus the Messiah took place in this way. When his mother Mary had been engaged to Joseph, but before they lived together, she was found to be pregnant from the Holy Spirit. "
+      "english": "Now the birth of Jesus the Messiah took place in this way. When his mother Mary had been engaged to Joseph, but before they lived together, she was found to be with child from the Holy Spirit. "
     },
     {
       "verse": 19,
       "urdu": "تب اُس کے شوہر یُوسف نے جو راستباز تھا اَور اُسے رُسوا کرنا نہیں چاہتا تھا۔ اِرادہ کِیا کہ اُسے چُپکے سے چھوڑدے",
-      "english": "Her husband Joseph, being a righteous man and unwilling to expose her to public disgrace, planned to divorce her quietly. "
+      "english": "Her husband Joseph, being a righteous man and unwilling to expose her to public disgrace, planned to dismiss her quietly. "
     },
     {
       "verse": 20,
@@ -124,22 +136,22 @@
     {
       "verse": 22,
       "urdu": "یہ سب کُچھ ہُوا تا کہ جو جو خُداوند نے نبی کی معرفت کہا تھا پُوا ہو کہ",
-      "english": "All this took place to fulfill what had been spoken by the Lord through the prophet:"
+      "english": "All this took place to fulfill what had been spoken by the Lord through the prophet: "
     },
     {
       "verse": 23,
       "urdu": "دیکھو کُنواری حامِلہ ہوگی ۔اَور اُس سے بیٹا ہوگا۔اَور اُس کا نام عما نوئیل رکھیں گے۔ جس کا ترجمہ ہَے خُدا ہمارے ساتھ ہَے",
-      "english": "“Look, the virgin shall become pregnant and give birth to a son, and they shall name him Emmanuel,” which means, “God is with us.” "
+      "english": "“Look, the virgin shall conceive and bear a son,  and they shall name him Emmanuel,” which means, “God is with us.” "
     },
     {
       "verse": 24,
       "urdu": "تب یُوسف نے نِیند سے اُٹھ کر ویسا ہی کِیا جیسا خُداوند کے فرِشتے نے اُس سے فرمایا تھا۔ اَور اپنی بیوی کو اپنے پاس لے آیا",
-      "english": "When Joseph awoke from sleep, he did as the angel of the Lord commanded him; he took her as his wife "
+      "english": "When Joseph awoke from sleep, he did as the angel of the Lord commanded him; he took her as his wife, "
     },
     {
       "verse": 25,
       "urdu": "اَور اُسے نہ ناجانا۔ جب تک کہ وہ بیٹا نہ جنی اَور اُس نے اُس کا نام یسُوع رکھّا+",
-      "english": "but had no marital relations with her until she had given birth to a son, and he named him Jesus."
+      "english": "but had no marital relations with her until she had borne a son; and he named him Jesus."
     }
   ]
 }

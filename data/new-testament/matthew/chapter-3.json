@@ -1,20 +1,32 @@
 {
   "book": "matthew",
   "chapter": 3,
-  "sections": [
-    {
-      "title_urdu": "یُوحنّا اِصطِباغی کی مُنادی",
-      "title_english": "The Proclamation of John the Baptist",
-      "start": 1,
-      "end": 12
-    },
-    {
-      "title_urdu": "اِصطِباغِ مسیح",
-      "title_english": "The Baptism of Jesus",
-      "start": 13,
-      "end": 17
-    }
-  ],
+  "sections": {
+    "urdu": [
+      {
+      "title": "یُوحنّااِصطِباغی کی مُنادی",
+        "start": 1,
+        "end": 12
+      },
+      {
+      "title": "اِصطِباغِ مسیح",
+        "start": 13,
+        "end": 17
+      }
+    ],
+    "english": [
+      {
+      "title": "The Proclamation of John the Baptist",
+        "start": 1,
+        "end": 12
+      },
+      {
+      "title": "The Baptism of Jesus",
+        "start": 13,
+        "end": 17
+      }
+    ]
+  },
   "verses": [
     {
       "verse": 1,
@@ -29,7 +41,7 @@
     {
       "verse": 3,
       "urdu": "کہ یہ وہی ہَے جس کا ذِکر اِشعیا نبی کی معرفت کِیا گیا۔ پُکارنے والے کی آواز۔ بِیانان میں۔ خُداوند کی راہ کو تیّار کرو۔ اُس کی شاہراہ کو سِیدھا بناؤ",
-      "english": "This is the one of whom the prophet Isaiah spoke when he said, “The voice of one crying out in the wilderness: ‘Prepare the way of the Lord; make his paths straight.’ ”"
+      "english": "This is the one of whom the prophet Isaiah spoke when he said, “The voice of one crying out in the wilderness: ‘Prepare the way of the Lord, make his paths straight.’ ” "
     },
     {
       "verse": 4,
@@ -39,42 +51,42 @@
     {
       "verse": 5,
       "urdu": "تب یُروشلیِم اَور سارا یہُودیہ اَوراُردن کے آس پاس کا سارا علاقہ اُس کے پاس نِکل کر آتے",
-      "english": "Then Jerusalem and all Judea and all the region around the Jordan were going out to him, "
+      "english": "Then the people of Jerusalem and all Judea were going out to him, and all the region along the Jordan, "
     },
     {
       "verse": 6,
       "urdu": "اَور اپنے گُناہوں کا اِقرار کرتے اَور دریائے اُردن میں اُس سے بپتسمہ پاتے تھے",
-      "english": "and they were baptized by him in the River Jordan, confessing their sins. "
+      "english": "and they were baptized by him in the river Jordan, confessing their sins. "
     },
     {
       "verse": 7,
       "urdu": "لیکن جب اُس نے دیکھا کہ بُہت سے فریسی اَور صدُوقی بپتسمہ پانے کے لئے آئے ہَیں تو اُن سے کہا۔اَے اَفعی کی اولاد!تُجھے آنے والے غضب سے بھا گنا کِس نے جتایا؟",
-      "english": "But when he saw many of the Pharisees and Sadducees coming for his baptism, he said to them, “You brood of vipers! Who warned you to flee from the coming wrath? "
+      "english": "But when he saw many Pharisees and Sadducees coming for baptism, he said to them, “You brood of vipers! Who warned you to flee from the wrath to come? "
     },
     {
       "verse": 8,
       "urdu": "اِس لئے توبہ کے لائق پَھل لاؤ",
-      "english": "Therefore, bear fruit worthy of repentance, "
+      "english": "Bear fruit worthy of repentance."
     },
     {
       "verse": 9,
       "urdu": "اپنے دِل میں گُمان مت کرو کہ اِبراہیم ہمارا باپ ہَے۔ کیونکہ مَیں تُم سے کہتا ہُوں کہ خُدا اِنہی پتھّروں سے اِبراہیم کے لئے اولاد پیدا کر سکتا ہَے",
-      "english": "and do not presume to say to yourselves, ‘We have Abraham as our ancestor,’ for I tell you, God is able from these stones to raise up children to Abraham. "
+      "english": "Do not presume to say to yourselves, ‘We have Abraham as our ancestor’; for I tell you, God is able from these stones to raise up children to Abraham. "
     },
     {
       "verse": 10,
       "urdu": "اَور درختوں کی جڑ پر اَب بھی کُلہاڑا رکھّا ہُوا ہَے۔پس ہر ایک درخت جو اچھّا پھَل نہیں لاتا کاٹا اَور آگ میں ڈالا جائے گا",
-      "english": "Even now the ax is lying at the root of the trees; therefore every tree that does not bear good fruit will be cut down and thrown into the fire. "
+      "english": "Even now the ax is lying at the root of the trees; every tree therefore that does not bear good fruit is cut down and thrown into the fire. "
     },
     {
       "verse": 11,
       "urdu": "مَیں تو تُمہیں توبہ کے لئے پانی سے بپتسمہ دیتا ہُوں۔ لیکن جو میرے بعد آتا ہَے۔ وہ مُجھ سے قَوی تر ہَے۔ کہ مَیں اُسکی جُوتیاں اُٹھانے کے بھی لائق نہیں ہُوں۔ وہ تُمہیں رُوحُ القُدس اَور آگ سے بپتسمہ دے گا",
-      "english": "“I baptize you with water for repentance, but the one who is coming after me is more powerful than I, and I am not worthy to carry his sandals. He will baptize you with the Holy Spirit and fire. "
+      "english": "“I baptize you with water for repentance, but one who is more powerful than I is coming after me; I am not worthy to carry his sandals. He will baptize you with the Holy Spirit and fire. "
     },
     {
       "verse": 12,
       "urdu": "اُس کا چھاج اُس کے ہاتھ میں ہَے اَور وہ اپنے کَھلیان کو خُوب صاف کرے گا۔ اَور اپنے گیہُوں کو کھتّے میں جمع کرے گا۔ پر بُھوسے کو اُس آگ میں جَلائے گا جو بُجھتی نہیں",
-      "english": "His winnowing fork is in his hand, and he will clear his threshing floor and will gather his wheat into the granary, but the chaff he will burn with unquenchable fire.” "
+      "english": "His winnowing fork is in his hand, and he will clear his threshing floor and will gather his wheat into the granary; but the chaff he will burn with unquenchable fire.” "
     },
     {
       "verse": 13,
@@ -89,17 +101,17 @@
     {
       "verse": 15,
       "urdu": "یسُوع نے جَواب میں اُس سے کہا۔ اَب ہونے دے کیونکہ ہمیں مُناسِب ہَے کہ یُونہی ساری راستی پُوری کریں۔ تب اُس نے ہونے دِیا",
-      "english": "But Jesus answered him, “Let it be so now, for it is proper for us in this way to fulfill all righteousness.” Then he consented. "
+      "english": "But Jesus answered him, “Let it be so now; for it is proper for us in this way to fulfill all righteousness.” Then he consented. "
     },
     {
       "verse": 16,
       "urdu": "اَور یسُوع بپتسمہ پا کر فی الفور پانی سے نِکل کر اُوپر آیا۔اَور دیکھو اُس کے لئے آسمان کُھل گیا اور اُس نے خُدا کے رُوح کو کبُوتر کی مانند اُترتے اَور اپنے اُوپر آتے دیکھا",
-      "english": "And when Jesus had been baptized, just as he came up from the water, suddenly the heavens were opened to him and he saw God’s Spirit descending like a dove and alighting on him. "
+      "english": "And when Jesus had been baptized, just as he came up from the water, suddenly the heavens were opened to him and he saw the Spirit of God descending like a dove and alighting on him. "
     },
     {
       "verse": 17,
       "urdu": "اَور دیکھو آسمان سے ایک آواز یہ کہتی ہُوئی آئی کہ ” یہ میرا  بیٹا ہَے۔ المحبُوب جس سے مَیں خُوش ہُوں “+",
-      "english": " And a voice from the heavens said, “This is my Son, the Beloved, with whom I am well pleased.” "
+      "english": "And a voice from heaven said, “This is my Son, the Beloved, with whom I am well pleased.” "
     }
   ]
 }

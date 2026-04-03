@@ -13,10 +13,10 @@ export default async function Home() {
             <Image
               src="/logo.png"
               alt="Saint Anglican Catholic Church Logo"
-              width={56}
-              height={56}
+              width={35}
+              height={35}
               priority
-              className="rounded-md"
+              className="rounded-md h-auto w-auto"
             />
             <div className="flex flex-col">
               <span className="text-xs tracking-widest uppercase text-muted-foreground">
@@ -41,7 +41,7 @@ export default async function Home() {
               width={96}
               height={96}
               priority
-              className="rounded-lg shadow-sm mb-5"
+              className="rounded-lg shadow-sm mb-5 w-auto h-auto"
             />
             <h3 className="text-xl font-bold leading-tight">
                 Urdu & English
