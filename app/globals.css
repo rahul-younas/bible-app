@@ -84,6 +84,11 @@
   --radius-4xl: calc(var(--radius) * 2.6);
 }
 
+* {
+  tab-size: 4;
+  -moz-tab-size: 4;
+}
+
 .urdu {
   font-family: var(--font-urdu);
   direction: rtl;

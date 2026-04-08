@@ -1,3 +1,4 @@
+
 import ComingSoon from "@/components/ComingSoon";
 
 export default async function ChapterPage({ params }) {
@@ -20,7 +21,7 @@ export default async function ChapterPage({ params }) {
   };
 
   return (
-    <div className="mx-auto py-5 w-[90%] max-w-4xl flex flex-col gap-3">
+    <div className="mx-auto py-5 w-[92%] max-w-4xl flex flex-col gap-3">
       <h1 className="text-lg bg-white text-black md:text-2xl font-bold w-3/4 mx-auto rounded-md text-center mb-2 capitalize">
         {chapterData.book} - Chapter {chapterData.chapter}
       </h1>
@@ -33,11 +34,14 @@ export default async function ChapterPage({ params }) {
               {section.title}
             </h3>
 
-            <p className="urdu text-lg md:text-xl whitespace-pre-wrap leading-snug text-justify">
+            <p className="urdu text-lg md:text-xl whitespace-pre-wrap leading-snug">
               {getVersesInRange(section.start, section.end).map((v) => (
-                <span key={v.verse}>
+                <span key={v.verse} dir="rtl">
                   <strong className="text-cyan-500 ml-2">{v.verse}.</strong>
-                  {v.urdu}{" "}
+                  {v.urdu}{""}
+                  {v.verse !== chapterData.verses[chapterData.verses.length - 1].verse && (
+                    <span className="ml-2 english text-lg">O̲</span>
+                  )}
                 </span>
               ))}
             </p>
@@ -58,11 +62,11 @@ export default async function ChapterPage({ params }) {
               {section.title}
             </h3>
 
-            <p className="leading-snug text-md whitespace-pre-wrap md:text-lg text-justify">
+            <p className="leading-snug text-sm whitespace-pre-wrap md:text-lg text-justify">
               {getVersesInRange(section.start, section.end).map((v) => (
                 <span key={v.verse}>
                   <strong className="text-cyan-500 mr-2">{v.verse}.</strong>
-                  {v.english}{" "}
+                  {v.english}
                 </span>
               ))}
             </p>
