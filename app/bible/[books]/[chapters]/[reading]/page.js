@@ -27,40 +27,68 @@ export default async function ChapterPage({ params }) {
       </h1>
 
       {/* Urdu */}
+      {/* Urdu */}
       <div>
-        {chapterData.sections.urdu.map((section, i) => (
-          <div key={i}>
-            <h3 className="text-xl urdu underline font-bold text-right mb-3">
-              {section.title}
-            </h3>
+        {chapterData.sections.urdu.map((section, i) => {
+          const verses = getVersesInRange(section.start, section.end);
 
-            <p className="urdu text-lg md:text-xl whitespace-pre-wrap leading-snug">
-              {getVersesInRange(section.start, section.end).map((v) => {
-                const isMultiline = v.urdu.includes("\n");
+          // ✅ Group verses into paragraphs
+          const groupedVerses = [];
+          let currentGroup = [];
 
-                return (
-                  <span
-                    key={v.verse}
+          verses.forEach((v) => {
+            const isParagraphStart = v.urdu.startsWith("\n");
+
+            if (isParagraphStart && currentGroup.length > 0) {
+              groupedVerses.push(currentGroup);
+              currentGroup = [];
+            }
+
+            currentGroup.push(v);
+          });
+
+          if (currentGroup.length > 0) {
+            groupedVerses.push(currentGroup);
+          }
+
+          return (
+            <div key={i}>
+              <h3 className="text-lg md:text-2xl urdu underline font-bold text-right mb-3">
+                {section.title}
+              </h3>
+
+              {/* ✅ Render paragraphs */}
+              <div className="urdu text-lg md:text-xl leading-snug">
+                {groupedVerses.map((group, idx) => (
+                  <p
+                    key={idx}
                     dir="rtl"
-                    className={isMultiline ? "block mb-1" : ""}
+                    className="mb-3 whitespace-pre-wrap"
                   >
-                    <strong className="text-cyan-500 ml-2 align-super text-sm md:text-lg">
-                      {v.verse}.
-                    </strong>
+                    {group.map((v) => (
+                      <span key={v.verse} dir="rtl">
+                        <strong className="text-cyan-500 ml-2 align-super text-sm md:text-lg">
+                          {v.verse}.
+                        </strong>
 
-                    {isMultiline
-                      ? v.urdu.replace(/^\s+/, "") // remove leading tabs/newlines
-                      : v.urdu}
+                        <span className="inline">
+                          {v.urdu.replace(/^\s+/, "")}
+                        </span>
 
-                    {v.verse !== chapterData.verses[chapterData.verses.length - 1].verse && (
-                      <span className="ml-2 english text-lg">O̲</span>
-                    )}
-                  </span>
-                );
-              })}
-            </p>
-          </div>
-        ))}
+                        {v.verse !==
+                          chapterData.verses[chapterData.verses.length - 1].verse && (
+                            <span className="mx-2 inline-block ltr english text-lg">
+                              O̲
+                            </span>
+                          )}
+                      </span>
+                    ))}
+                  </p>
+                ))}
+              </div>
+            </div>
+          );
+        })}
       </div>
 
       <div className="w-full h-1 bg-gray-500"></div>
