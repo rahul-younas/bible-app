@@ -35,15 +35,29 @@ export default async function ChapterPage({ params }) {
             </h3>
 
             <p className="urdu text-lg md:text-xl whitespace-pre-wrap leading-snug">
-              {getVersesInRange(section.start, section.end).map((v) => (
-                <span key={v.verse} dir="rtl">
-                  <strong className="text-cyan-500 ml-2">{v.verse}.</strong>
-                  {v.urdu}{""}
-                  {v.verse !== chapterData.verses[chapterData.verses.length - 1].verse && (
-                    <span className="ml-2 english text-lg">O̲</span>
-                  )}
-                </span>
-              ))}
+              {getVersesInRange(section.start, section.end).map((v) => {
+                const isMultiline = v.urdu.includes("\n");
+
+                return (
+                  <span
+                    key={v.verse}
+                    dir="rtl"
+                    className={isMultiline ? "block mb-1" : ""}
+                  >
+                    <strong className="text-cyan-500 ml-2 align-super text-sm md:text-lg">
+                      {v.verse}.
+                    </strong>
+
+                    {isMultiline
+                      ? v.urdu.replace(/^\s+/, "") // remove leading tabs/newlines
+                      : v.urdu}
+
+                    {v.verse !== chapterData.verses[chapterData.verses.length - 1].verse && (
+                      <span className="ml-2 english text-lg">O̲</span>
+                    )}
+                  </span>
+                );
+              })}
             </p>
           </div>
         ))}
@@ -65,7 +79,7 @@ export default async function ChapterPage({ params }) {
             <p className="leading-snug text-sm whitespace-pre-wrap md:text-lg text-justify">
               {getVersesInRange(section.start, section.end).map((v) => (
                 <span key={v.verse}>
-                  <strong className="text-cyan-500 mr-2">{v.verse}.</strong>
+                  <strong className="text-cyan-500 mr-2 align-super text-[12px] md:text-sm">{v.verse}.</strong>
                   {v.english}
                 </span>
               ))}
