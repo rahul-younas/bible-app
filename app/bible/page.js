@@ -39,7 +39,7 @@ const StartReading = () => {
           className="w-full text-2xl md:text-4xl py-15 md:py-20 flex flex-col"
         >
           {activeButton === "new" ? (
-            "Loading..."
+            "Loading Scriptures..."
           ) : (
             <>
               <span className='urdu'>عہد نامہ جدید</span>

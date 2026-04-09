@@ -4,7 +4,7 @@ import { Button } from "@/components/ui/button";
 import Image from "next/image";
 
 export default async function Home() {
-
+  
   return (
     <div className="min-h-screen bg-background text-foreground">
       <header className="w-full">
@@ -44,7 +44,7 @@ export default async function Home() {
               className="rounded-lg shadow-sm mb-5 w-auto h-auto"
             />
             <h3 className="text-xl font-bold leading-tight">
-                Urdu & English
+              Urdu & English
             </h3>
             <h1 className="text-3xl md:text-5xl font-bold leading-tight">
               Catholic Bible

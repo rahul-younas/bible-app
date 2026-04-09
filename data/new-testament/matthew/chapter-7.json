@@ -1,0 +1,205 @@
+{
+  "book": "matthew",
+  "chapter": 3,
+  "sections": {
+    "urdu": [
+      {
+        "title": "اِنجیلی طرزِعمل",
+        "start": 1,
+        "end": 29
+      }
+    ],
+    "english": [
+      {
+        "title": "Judging Others",
+        "start": 1,
+        "end": 5
+      },
+      {
+        "title": "Profaning the Holy",
+        "start": 6,
+        "end": 6
+      },
+      {
+        "title": "Ask, Search, Knock",
+        "start": 7,
+        "end": 11
+      },
+      {
+        "title": "The Golden Rule",
+        "start": 12,
+        "end": 12
+      },
+      {
+        "title": "The Narrow Gate",
+        "start": 13,
+        "end": 14
+      },
+      {
+        "title": "A Tree and Its Fruit",
+        "start": 15,
+        "end": 20
+      },
+      {
+        "title": "Concerning Self-Deception",
+        "start": 21,
+        "end": 23
+      },
+      {
+        "title": "Hearers and Doers",
+        "start": 24,
+        "end": 29
+      }
+    ]
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "urdu": "عیب نہ لگاؤ تاکہ تُم پر عیب نہ لگایا جائے",
+      "english": "“Do not judge, so that you may not be judged. "
+    },
+    {
+      "verse": 2,
+      "urdu": "کیونکہ جس طرح تُم عیب لگاتے ہو۔ اُسی طرح تُم پر بھی عیب لگایا جائے گا۔اَور جس پیمانے سے تُم ناپتے ہو اُسی سے تُمہارے واسطے بھی ناپا جائے گا",
+      "english": "For with the judgment you make you will be judged, and the measure you give will be the measure you get. "
+    },
+    {
+      "verse": 3,
+      "urdu": "اَور اُس تِنکے کو جو تیرے بھائی کی آنکھ میں ہے تُو کیوں دیکھتا ہَے اَور اُس شہتیر کا خیال نہیں کرتا جو تیری اپنی آنکھ میں ہَے؟",
+      "english": "Why do you see the speck in your neighbor’s eye, but do not notice the log in your own eye? "
+    },
+    {
+      "verse": 4,
+      "urdu": "یا کیوں کر تُو اپنے بھائی سے کہہ سکتا ہَے کہ ٹھہر مَیں اُس تِنکے کو جو تیری آنکھ میں ہَے نِکال دُوں۔ اَور دیکھ خُود تیری آنکھ میں شہتیر ہَے؟",
+      "english": "Or how can you say to your neighbor,[b] ‘Let me take the speck out of your eye,’ while the log is in your own eye? "
+    },
+    {
+      "verse": 5,
+      "urdu": "اَے رِیاکار پہلے شہتیر کو اپنی آنکھ سے نِکال۔ تب اُس تِنکے کو اپنے بھائی کی آنکھ سے اچھّی طرح دیکھ کر نِکال سکے گا",
+      "english": "You hypocrite, first take the log out of your own eye, and then you will see clearly to take the speck out of your neighbor’s eye."
+    },
+    {
+      "verse": 6,
+      "urdu": "\nپاک چیز کُتّوں کو مت دو۔ اَور اپنے موتی سُوروں کے آگے نہ ڈالو ایسا نہ ہو کہ وہ اُنہیں پامال کریں۔ اَور پِھر کر تُمہیں پھاڑیں",
+      "english": "“Do not give what is holy to dogs; and do not throw your pearls before swine, or they will trample them under foot and turn and maul you. "
+    },
+    {
+      "verse": 7,
+      "urdu": "مانگو تو تُمہیں دِیا جائے گا۔ ڈُھونڈو تو تُم پاؤ گے۔ کھٹکھٹاؤ تو تُمہارے واسطے کھولا جائیگا",
+      "english": "“Ask, and it will be given you; search, and you will find; knock, and the door will be opened for you. "
+    },
+    {
+      "verse": 8,
+      "urdu": "کیونکہ جو کوئی مانگتا ہَے اُسے مِلتا ہَے۔ اَور جو کوئی ڈُھونڈتا ہَے وہ پاتا ہَے۔ اَور جو کوئی کھٹکھٹاتا ہَے اُس کے واسطے کھولا جائے گا",
+      "english": "For everyone who asks receives, and everyone who searches finds, and for everyone who knocks, the door will be opened. "
+    },
+    {
+      "verse": 9,
+      "urdu": "یا تُم میں سے کون شخص ہَے۔ کہ اگر اُس کا بیٹا اُس سے روٹی مانگے تو وہ اُسے پتّھر دے؟",
+      "english": "Is there anyone among you who, if your child asks for bread, will give a stone? "
+    },
+    {
+      "verse": 10,
+      "urdu": "یا اگر مچھلی مانگے تو اُسے سانپ دے؟",
+      "english": "Or if the child asks for a fish, will give a snake? "
+    },
+    {
+      "verse": 11,
+      "urdu": "پس جبکہ تُم جو بُرے ہو اپنے بچّوں کو اچھّی چیزیں دینی جانتے ہو تو کِتنا زیادہ تُمہارا باپ جو آسمان پر ہَے اُنہیں جو اُس سے مانگتے ہَیں اچھّی چیزیں نہ دے گا؟",
+      "english": "If you then, who are evil, know how to give good gifts to your children, how much more will your Father in heaven give good things to those who ask him! "
+    },
+    {
+      "verse": 12,
+      "urdu": "پس جو کچھ تُم چاہتے ہو کہ لوگ تُمہارے ساتھ کریں۔ وہی تُم بھی اُن کے ساتھ کرو۔ کیونکہ تورات اَور صحائف انبِیاء کا خُلاصہ یہی ہَے",
+      "english": "“In everything do to others as you would have them do to you; for this is the law and the prophets."
+    },
+    {
+      "verse": 13,
+      "urdu": "\nتنگ دروازے سے داخِل ہو۔ کیونکہ چوڑا ہَے وہ دروازہ اَور کُشادہ ہَے وہ راستہ جو ہلاکت کو پُہنچاتا ہَے۔ اَور بُہت ہَیں جو اُس سے داخِل ہوتے ہَیں",
+      "english": "“Enter through the narrow gate; for the gate is wide and the road is easy[d] that leads to destruction, and there are many who take it. "
+    },
+    {
+      "verse": 14,
+      "urdu": "وہ دروازہ کیسا تنگ اَور وہ راستہ کیسا سُکڑا ہَے جو حیات کو پُہنچاتا ہَے۔ اَور تھوڑے ہَیں جو اُسے پاتے ہَیں",
+      "english": "For the gate is narrow and the road is hard that leads to life, and there are few who find it. "
+    },
+    {
+      "verse": 15,
+      "urdu": "\nجُھوٹے نبیوں سے خبرداررہو۔ جو تُمہارے پاس بھیڑوں کے بھیس میں آتے ہَیں مگر باطِن میں پھاڑنے والے بھیڑئیے ہَیں",
+      "english": "“Beware of false prophets, who come to you in sheep’s clothing but inwardly are ravenous wolves. "
+    },
+    {
+      "verse": 16,
+      "urdu": "تُم اُنہیں اُن کے پَھلوں سے پہچان لو گے۔ کیا خاردار جھاڑیوں سے انگُور یا اُونٹ کٹاروں سے اِنجیر توڑتے ہَیں؟",
+      "english": "You will know them by their fruits. Are grapes gathered from thorns, or figs from thistles? "
+    },
+    {
+      "verse": 17,
+      "urdu": "اِسی طرح ہر ایک اچھّا درخت اچھّا پَھل لاتا اَور ردّی درخت بُرا پَھل لاتا ہَے",
+      "english": "In the same way, every good tree bears good fruit, but the bad tree bears bad fruit. "
+    },
+    {
+      "verse": 18,
+      "urdu": "اچھّا درخت بُرا پَھل نہیں لا سکتا نہ ردّی درخت اچھّا پَھل لا سکتا ہَے",
+      "english": "A good tree cannot bear bad fruit, nor can a bad tree bear good fruit. "
+    },
+    {
+      "verse": 19,
+      "urdu": "جو درخت اچھّا پَھل نہیں لاتا وہ کاٹا اَور آگ میں ڈالا جاتا ہَے",
+      "english": "Every tree that does not bear good fruit is cut down and thrown into the fire. "
+    },
+    {
+      "verse": 20,
+      "urdu": "پس اُن کے پَھلوں سے تُم اُنہیں پہچان لو گے",
+      "english": "Thus you will know them by their fruits. "
+    },
+    {
+      "verse": 21,
+      "urdu": "\nنہ ہر ایک جو مُجھے خُداوند خُداوند کہتا ہَے۔ آسمان کی بادشاہی میں داخِل ہوگا مگر وہی جو میرے آسمانی باپ کی مرضی پو چلتا ہَے",
+      "english": "“Not everyone who says to me, ‘Lord, Lord,’ will enter the kingdom of heaven, but only the one who does the will of my Father in heaven. "
+    },
+    {
+      "verse": 22,
+      "urdu": "اُس دن بُہتیرے مُجھ سے کہیں گے اَے خُداوند اَے خُداوند!کیا ہم سے تیرے نام سے نُبوّت نہیں کی؟ اَور تیرے نام سے بَدرُوحوں کو نہیں نِکالا؟ اَور تیرے نام سے بُہت سے مُعجزات نہیں کِئے؟",
+      "english": "On that day many will say to me, ‘Lord, Lord, did we not prophesy in your name, and cast out demons in your name, and do many deeds of power in your name?’ "
+    },
+    {
+      "verse": 23,
+      "urdu": "تب مَیں اُن سے صاف کہُوں گا کہ میری تُم سے کبھی واقفیّت نہ تھی اَے بَدکارو میرے سامنے سے چلے جاؤ",
+      "english": "Then I will declare to them, ‘I never knew you; go away from me, you evildoers.’ "
+    },
+    {
+      "verse": 24,
+      "urdu": "\nپس جو کوئی میرے یہ باتیں سُنتا اَور اُن پر عمل کرتا ہَے وہ اُس عقلمند آدمی کی مانند ٹھہرے گا جس نے چٹان پر اپنا گھر بنایا",
+      "english": "“Everyone then who hears these words of mine and acts on them will be like a wise man who built his house on rock. "
+    },
+    {
+      "verse": 25,
+      "urdu": "اَور مِینہ برسا اَور سیلاب آیا اَور آندھیاں چلِیں اَور اُس گھر سے ٹکرائے۔ مگر وہ نہ گِرا۔ کیونکہ اُس کی بُنیاد چٹان پر رکھّی گئی تھی",
+      "english": "The rain fell, the floods came, and the winds blew and beat on that house, but it did not fall, because it had been founded on rock. "
+    },
+    {
+      "verse": 26,
+      "urdu": "لیکن جو کوئی میری یہ باتیں سُنتا ہَے اَور اُن پر عمل نہیں کرتا۔ وہ اُس بے وقُوف آدمی کی مانند ٹھہرے گا جس نے اپنا گھر ریت پر بنایا",
+      "english": "And everyone who hears these words of mine and does not act on them will be like a foolish man who built his house on sand. "
+    },
+    {
+      "verse": 27,
+      "urdu": "اَور مِینہ برسا۔ اَور سیلاب آیا۔ اَور آندھیاں چلِیں۔ اَور اُس گھر کو صدمہ پُہنچایا اَور وہ گِر پڑا۔ اَور اُس کا گِرنا ہَولناک ہُؤا",
+      "english": "The rain fell, and the floods came, and the winds blew and beat against that house, and it fell—and great was its fall!”\n\n"
+    },
+    {
+      "verse": 28,
+      "urdu": "اَور ایسا ہُؤا کہ جب یسُوع یہ باتیں ختم کر چُکا۔ تو ہجُوم اُس کی تعلیم سے حیران ہُؤا",
+      "english": "Now when Jesus had finished saying these things, the crowds were astounded at his teaching, "
+    },
+    {
+      "verse": 29,
+      "urdu": "کیونکہ وہ اُن کے فقیہوں کی طرح نہیں بلکہ صاحبِ اِختیار کی طرح اُنہیں تعلیم دیتا تھا +",
+      "english": "for he taught them as one having authority, and not as their scribes. "
+    }
+  ]
+}
+
+
+

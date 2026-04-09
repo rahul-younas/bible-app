@@ -1343,28 +1343,23 @@ export default function Chapters() {
   const [activeButton, setActiveButton] = useState(null)
 
   return (
-    <div className="flex flex-wrap justify-center md:justify-right gap-4 my-3">
+    <div className="w-full px-1 mx-auto grid gap-4 my-3 grid-cols-[repeat(auto-fit,minmax(160px,1fr))] md:grid-cols-3">
       {chapters.map((chapter, index) => (
-        <Link
-          key={index}
-          href={chapter.href}
-          className="w-[97%] sm:w-1/2 md:w-[55%] lg:w-[48%]"
-        >
+        <Link key={index} href={chapter.href}>
           <Button
             onClick={() => setActiveButton(index)}
             disabled={activeButton === index}
             variant="secondary"
-            className="w-full text-2xl md:text-4xl py-15 md:py-20 flex flex-col items-center"
+            className="w-full text-lg md:text-4xl py-15 md:py-20 flex flex-col items-center"
           >
             {activeButton === index ? (
-              "Loading..."
+              "Gathering Verses..."
             ) : (
               <>
                 <span className="urdu text-center">{chapter.urdu}</span>
                 <span className="text-center">{chapter.english}</span>
               </>
             )}
-
           </Button>
         </Link>
       ))}

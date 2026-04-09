@@ -117,34 +117,32 @@ export default function Chapters() {
 
                     {/* Heading */}
                     <div className='flex justify-center items-center'>
-                        <h2 className="text-3xl bg-white urdu text-black py-4 px-15 rounded-sm md:text-5xl font-bold text-center mx-auto mb-4">
+                        <h2 className="text-2xl bg-white urdu text-black py-4 px-15 rounded-sm md:text-3xl font-bold text-center mx-auto mb-4">
                             {group.title}
                         </h2>
                     </div>
 
                     {/* Cards */}
-                    <div className="w-full flex flex-wrap justify-center gap-4">
+                    <div className="grid gap-4 my-3 grid-cols-[repeat(auto-fit,minmax(160px,1fr))] md:grid-cols-3">
                         {group.items.map((book) => (
                             <Link
                                 key={book.english}
                                 href={book.href}
-                                className="w-[97%] sm:w-1/2 md:w-[55%] lg:w-[48%]"
                             >
                                 <Button
                                     onClick={() => setActiveButton(book.english)}
                                     disabled={activeButton === book.english}
                                     variant="secondary"
-                                    className="w-full text-2xl md:text-4xl py-15 md:py-20 flex flex-col items-center"
+                                    className="w-full text-lg md:text-2xl py-10 md:py-15 flex flex-col items-center"
                                 >
                                     {activeButton === book.english ? (
-                                        "Loading..."
+                                        "Gathering Chapters..."
                                     ) : (
                                         <>
                                             <span className="urdu text-center">{book.urdu}</span>
                                             <span className="text-center">{book.english}</span>
                                         </>
                                     )}
-
                                 </Button>
                             </Link>
                         ))}

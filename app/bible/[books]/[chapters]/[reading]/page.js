@@ -27,7 +27,6 @@ export default async function ChapterPage({ params }) {
       </h1>
 
       {/* Urdu */}
-      {/* Urdu */}
       <div>
         {chapterData.sections.urdu.map((section, i) => {
           const verses = getVersesInRange(section.start, section.end);
@@ -77,9 +76,7 @@ export default async function ChapterPage({ params }) {
 
                         {v.verse !==
                           chapterData.verses[chapterData.verses.length - 1].verse && (
-                            <span className="mx-2 inline-block ltr english text-lg">
-                              O̲
-                            </span>
+                            <span className="ml-2 inline-block ltr english text-lg">O̲</span>
                           )}
                       </span>
                     ))}
