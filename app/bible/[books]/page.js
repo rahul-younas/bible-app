@@ -136,7 +136,7 @@ export default function Chapters() {
                                     className="w-full text-lg md:text-2xl py-10 md:py-15 flex flex-col items-center"
                                 >
                                     {activeButton === book.english ? (
-                                        "Gathering Chapters..."
+                                        "Loading Chapters..."
                                     ) : (
                                         <>
                                             <span className="urdu text-center">{book.urdu}</span>
