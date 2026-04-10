@@ -133,14 +133,14 @@ export default function Chapters() {
                                     onClick={() => setActiveButton(book.english)}
                                     disabled={activeButton === book.english}
                                     variant="secondary"
-                                    className="w-full text-lg md:text-2xl py-10 md:py-15 flex flex-col items-center"
+                                    className="w-full text-lg md:text-2xl py-12 md:py-15 flex flex-col items-center"
                                 >
                                     {activeButton === book.english ? (
                                         "Loading Chapters..."
                                     ) : (
                                         <>
-                                            <span className="urdu text-center">{book.urdu}</span>
-                                            <span className="text-center">{book.english}</span>
+                                            <span className="">{book.english}</span>
+                                            <span className="urdu">{book.urdu}</span>
                                         </>
                                     )}
                                 </Button>

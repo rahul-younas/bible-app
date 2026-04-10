@@ -18,14 +18,14 @@ const StartReading = () => {
           onClick={() => handleClick("old")}
           disabled={activeButton === "old"}
           variant="secondary"
-          className="w-full text-2xl md:text-4xl py-15 md:py-20 flex flex-col"
+          className="w-full text-xl md:text-3xl py-15 md:py-20 flex flex-col"
         >
           {activeButton === "old" ? (
             "Loading..."
           ) : (
             <>
-              <span className="urdu">عہد نامہ عتیق</span>
               <span>Old Testament</span>
+              <span className="urdu">عہد نامہ عتیق</span>
             </>
           )}
         </Button>
@@ -36,14 +36,14 @@ const StartReading = () => {
           onClick={() => handleClick("new")}
           disabled={activeButton === "new"}
           variant="secondary"
-          className="w-full text-2xl md:text-4xl py-15 md:py-20 flex flex-col"
+          className="w-full text-xl md:text-3xl py-15 md:py-20 flex flex-col"
         >
           {activeButton === "new" ? (
             "Loading Scriptures..."
           ) : (
             <>
+              <span>New Testament</span>
               <span className='urdu'>عہد نامہ جدید</span>
-              <span className='py-3'>New Testament</span>
             </>
           )}
         </Button>
