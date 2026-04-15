@@ -27,16 +27,16 @@
      items.push({ href, label: formatLabel(segments[i]) })
    }
    return (
-     <nav aria-label="Breadcrumb" className="mx-auto w-full px-2 md:px-5 max-w-6xl py-2 rounded-lg mt-5 sticky top-1 bg-black">
-       <ol className="flex items-center gap-1 text-white text-sm">
+     <nav aria-label="Breadcrumb" className="mx-auto w-full px-2 md:px-5 max-w-6xl py-3 rounded-lg sticky top-0 bg-black">
+       <ol className="flex items-center gap-1 text-white text-[12px] md:text-base">
          {items.map((item, idx) => {
            const isLast = idx === items.length - 1
            return (
              <li key={item.href} className="flex items-center gap-1 font-semibold">
                {isLast ? (
-                 <span className="font-medium text-sm md:text-base text-white">{item.label}</span>
+                 <span className="font-medium text-[12px] md:text-base text-white">{item.label}</span>
                ) : (
-                 <Link href={item.href} className="hover:text-white underline transition-colors">
+                 <Link href={item.href} className="hover:text-white transition-colors">
                    {item.label}
                  </Link>
                )}
