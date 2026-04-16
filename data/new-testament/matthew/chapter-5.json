@@ -1,26 +1,6 @@
 {
   "book": "matthew",
   "chapter": 5,
-  "sections": [
-    {
-      "title_urdu": "پہاڑی وعظ",
-      "title_english": "Introduction to the Sermon on the Mount",
-      "start": 1,
-      "end": 2
-    },
-    {
-      "title_urdu": "مُبارَک بادیاں",
-      "title_english": "The Beatitudes",
-      "start": 3,
-      "end": 16
-    },
-    {
-      "title_urdu": "اِکمالِ شریعت",
-      "title_english": "The Fulfillment of the Law",
-      "start": 17,
-      "end": 48
-    }
-  ],
   "sections": {
     "urdu": [
       {
@@ -115,7 +95,7 @@
     },
     {
       "verse": 6,
-      "urdu": "\nSPہَیں وہ جو راستی کے بُھوکے اَور پِیاسے ہَیں۔ کیونکہ وہ آسُودہ ہوں گےO̲EP\n",
+      "urdu": "\nSPمُبارَک ہَیں وہ جو راستی کے بُھوکے اَور   پِیاسے ہَیں۔ کیونکہ وہ آسُودہ ہوں گےO̲EP\n",
       "english": "\nSP“Blessed are those who hunger and thirst for righteousness, for they will be filled.EP\n"
     },
     {
@@ -135,7 +115,7 @@
     },
     {
       "verse": 10,
-      "urdu": "\nSPہَیں وہ جو راستی کے سبب سے ستائے گئے ہَیں- کہونکہ آسمان کی بادشاہی اُنہی کی ہَےO̲EP\n",
+      "urdu": "\nSPمُبارَک ہَیں وہ جو راستی کے سبب سے ستائے گئے ہَیں- کہونکہ آسمان کی بادشاہی اُنہی کی ہَےO̲EP\n",
       "english": "\nSP“Blessed are those who are persecuted for righteousness’ sake, for theirs is the kingdom of heaven.EP\n"
     },
     {

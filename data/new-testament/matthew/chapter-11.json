@@ -1,0 +1,207 @@
+{
+  "book": "matthew",
+  "chapter": 11,
+  "sections": {
+    "urdu": [
+      {
+        "title": "یُوحنّا اِصطِباغی کا پیغام",
+        "start": 1,
+        "end": 6
+      },
+      {
+        "title": "یُوحنّا اِصطِباغی کا تعریف",
+        "start": 7,
+        "end": 19
+      },
+      {
+        "title": "بے اعتقادوں پر افسوس",
+        "start": 20,
+        "end": 24
+      },
+      {
+        "title": "حلِیم مُبارَک ہیں",
+        "start": 25,
+        "end": 30
+      }
+    ],
+    "english": [
+      {
+        "title": "",
+        "start": 1,
+        "end": 1
+      },
+      {
+        "title": "Messengers from John the Baptist",
+        "start": 2,
+        "end": 6
+      },
+      {
+        "title": "Jesus Praises John the Baptist",
+        "start": 7,
+        "end": 19
+      },
+      {
+        "title": "Woes to Unrepentant Cities",
+        "start": 20,
+        "end": 24
+      },
+      {
+        "title": "Jesus Thanks His Father",
+        "start": 25,
+        "end": 30
+      }
+    ]
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "urdu": "اَور جب یسُوؔع اپنے بارہ شاگِردوں ک ہِدایت کر چُکا۔ تو وہاں سے روانہ ہُؤا۔ تاکہ اُن کے شہروں میں تعلیم دے اَور مُنادی کرےO̲",
+      "english": "Now when Jesus had finished instructing his twelve disciples, he went on from there to teach and proclaim his message in their cities."
+    },
+    {
+      "verse": 2,
+      "urdu": "اَب یُوحنّا نے قید خانہ میں مسؔیح کے کاموں کا بیان سُن کر اپنے شاگِردوں کی معرفت اُس سے پُچھوا بھیجاO̲",
+      "english": "When John heard in prison what the Messiah was doing, he sent word by his disciples "
+    },
+    {
+      "verse": 3,
+      "urdu": "کہ کیا جو آنے والا ہَے۔ تُو ہی ہَے یا ہم کِسی اَور کی راہ دیکھیں؟O̲",
+      "english": "and said to him, “Are you the one who is to come, or are we to wait for another?” "
+    },
+    {
+      "verse": 4,
+      "urdu": "یسُوؔع نے جَواب میں اُن سے کہا۔ جو کچھ تُم سُنتے اَور دیکھتے ہو جا کر یُوحنّا سے بیان کروO̲",
+      "english": "Jesus answered them, “Go and tell John what you hear and see: "
+    },
+    {
+      "verse": 5,
+      "urdu": "کہ اندھے دیکھتے اَور لنگڑے چلتے ہَیں۔ کوڑھی پاک صاف کِئے جاتے اَور بہرے سُنتے ہَیں۔ مُردو زِندہ کِئے جاتے ہَیں اَور مِسکِینوں کو خُوشخبری دی جاتی ہَےO̲",
+      "english": "the blind receive their sight, the lame walk, the lepers are cleansed, the deaf hear, the dead are raised, and the poor have good news brought to them. "
+    },
+    {
+      "verse": 6,
+      "urdu": "اَور مُبارَک ہَے وہ جو میرے سبب سے ٹھوکر نہ کھائےO̲",
+      "english": "And blessed is anyone who takes no offense at me.”"
+    },
+    {
+      "verse": 7,
+      "urdu": "اَور جب وہ چلے گئے۔ تو یسُوؔع یُوحنّا کی بابت ہجُوم سے کہنے لگا۔ کہ تُم بِیابان میں کیا دیکھنے گئے؟ کیا ہَوا سے ہِلتے ہُوئے سرکنڈے کو؟O̲",
+      "english": "As they went away, Jesus began to speak to the crowds about John: “What did you go out into the wilderness to look at? A reed shaken by the wind? "
+    },
+    {
+      "verse": 8,
+      "urdu": "تو پَھر کیا دیکھنے گئے؟ کیا مہِین پوشاک پہنے ہُوئے آدمی کو؟ دیکھو جو مہِین پوشاک پہنتے ہَیں وہ شاہی گھروں میں ہوتے ہَیںO̲",
+      "english": "What then did you go out to see? Someone dressed in soft robes? Look, those who wear soft robes are in royal palaces. "
+    },
+    {
+      "verse": 9,
+      "urdu": "پِھر تُم کیا دیکھنے گئے؟ کیا ایک نبی کو؟ ہاں مَیں تُم سے کہتا ہُوں بلکہ نبی سے بھی بڑے کوO̲",
+      "english": "What then did you go out to see? A prophet? Yes, I tell you, and more than a prophet. "
+    },
+    {
+      "verse": 10,
+      "urdu": "یہ وہی ہَے جس کی بابت لِکھا ہَے کہ\nSPدیکھو میں اپنا پیامبر تیرے آگے بھیجتا ہُوں۔\nجو تیرے آگے تیری راہ تیّار کرے گاO̲EP\n",
+      "english": "This is the one about whom it is written,\n\nSP‘See, I am sending my messenger ahead of you,\n\twho will prepare your way before you.’EP\n\n"
+    },
+    {
+      "verse": 11,
+      "urdu": "مَیں تُم سے سچ کہتا ہُوں۔ کہ جو عورتوں سے پیدا ہُوئے ہَیں اُن میں یُوحنّا اِصطِباغی سے بڑا کوئی نہیں ہُؤا۔ لیکن جو آسمان کی بادشاہی میں چھوٹا ہَے وہ اُس سے بڑا ہَےO̲",
+      "english": "Truly I tell you, among those born of women no one has arisen greater than John the Baptist; yet the least in the kingdom of heaven is greater than he. "
+    },
+    {
+      "verse": 12,
+      "urdu": "یُوحنّا اِصطِباغی کے دِنوں سے اِس وقت تک آسمان کی بادشاہی پر زور کِیا جا رہا ہَے۔ اَور زورآور اُسے چِھین لیتے ہَیںO̲",
+      "english": "From the days of John the Baptist until now the kingdom of heaven has suffered violence, and the violent take it by force. "
+    },
+    {
+      "verse": 13,
+      "urdu": "کیونکہ تمام صحائفِ انبِیاء اَور تورات نے یُوحنّا تک یہ نبُوّت کیO̲",
+      "english": "For all the prophets and the law prophesied until John came; "
+    },
+    {
+      "verse": 14,
+      "urdu": "اَور اگر تُم قبُول کرنا چاہو تو وہ اِلیاس جو آنے والا تھا یہی ہَےO̲",
+      "english": "and if you are willing to accept it, he is Elijah who is to come. "
+    },
+    {
+      "verse": 15,
+      "urdu": "جس کے کان ہوں وہ سُن لےO̲\n",
+      "english": "Let anyone with ears listen!\n\n"
+    },
+    {
+      "verse": 16,
+      "urdu": "SP\tEPلیکن مَیں اِس زمانہ کے لوگوں کو کِس سے تشبیہہ دُوں وہ اُن بچّوں کی مانند ہَیں۔ جو بازاروں میں بیٹھے ہُوئے اپنے ساتھیوں کو پُکار کر کہتے ہَیں کہO̲\n",
+      "english": "“But to what will I compare this generation? It is like children sitting in the marketplaces and calling to one another,\n\n"
+    },
+    {
+      "verse": 17,
+      "urdu": "SPہم نے تُمہارے لئے بانسلی بجائی۔ پر تُم نہ ناچے۔\nہم نے نالہ کِیا۔ پر تُم نے چھاتی نہ پِیٹیO̲EP\n",
+      "english": "\nSP‘We played the flute for you, and you did not dance;\n\twe wailed, and you did not mourn.’EP\n\n"
+    },
+    {
+      "verse": 18,
+      "urdu": "کیونکہ یُوحنّا نہ کھاتا آیا اَور نہ پِیتا۔ اَور لاگ کہتے ہَیں کہ اُس میں بَد رُوح ہَےO̲",
+      "english": "For John came neither eating nor drinking, and they say, ‘He has a demon’; "
+    },
+    {
+      "verse": 19,
+      "urdu": "اِبنِ اِنسان کھاتا پِیتا آیا۔ اَور لوگ کہتے ہَیں کہ دیکھو۔ کھاؤُ اَور شرابی۔ محصِّلوں اَور گُنہگاروں کا یار۔ مگر حِکمَت اپنے کاموں سے راست ٹھہرتی ہَےO̲",
+      "english": "the Son of Man came eating and drinking, and they say, ‘Look, a glutton and a drunkard, a friend of tax collectors and sinners!’ Yet wisdom is vindicated by her deeds.”"
+    },
+    {
+      "verse": 20,
+      "urdu": "اُس وقت وہ اُن شہروں کو ملامت کرنے لگا جِن میں اُس کے اکثر مُعجزے ظاہر ہُوئے تھے کیونکہ اُنہوں نے توبہ نہ کی تھیO̲",
+      "english": "Then he began to reproach the cities in which most of his deeds of power had been done, because they did not repent. "
+    },
+    {
+      "verse": 21,
+      "urdu": "اے کُورَزِؔین تُجھ پر افسوس۔ اَے بَیت صؔیدا تُجھ پر افسوس۔ کیونکہ یہ مُعجزے جو تُم میں کِئے گئے۔ اگر صُؔور اَور صیدُوؔن میں کِئے جاتے تو وہ ٹاٹ اوڑھ کر اَور خاک میں بیٹھ کر کب کی توبہ کر لیتےO̲",
+      "english": "“Woe to you, Chorazin! Woe to you, Bethsaida! For if the deeds of power done in you had been done in Tyre and Sidon, they would have repented long ago in sackcloth and ashes. "
+    },
+    {
+      "verse": 22,
+      "urdu": "پس مَیں تُم سے کہتا ہُوں کہ صُؔور اَور صیدُوؔن کا حال عدالت کے دن تُمہارے حال سے زیادہ قابِلِ برداشت ہوگاO̲",
+      "english": "But I tell you, on the day of judgment it will be more tolerable for Tyre and Sidon than for you. "
+    },
+    {
+      "verse": 23,
+      "urdu": "اَور اَے کفر نؔحُوم کیا تُو آسمان تک بُلند کِیا جائے گا؟ تُو عالمِ اَسفل تک اُترے گا۔ کیونکہ یہ مُعجزے جو تُجھ میں کِئے گئے۔ اگر سدُؔوم میں کِئے جاتے تو وہ آج تک قائم رہتاO̲",
+      "english": "And you, Capernaum,\n\nSPwill you be exalted to heaven?\n\tNo, you will be brought down to Hades.EP\n\nFor if the deeds of power done in you had been done in Sodom, it would have remained until this day. "
+    },
+    {
+      "verse": 24,
+      "urdu": "لیکن مَیں تُم سے کہتا ہُوں کہ عدالت کے دِن سدُؔوم کے مُلک کا حال تیرے حال سے زیادہ قابِلِ برداشت ہوگاO̲",
+      "english": "But I tell you that on the day of judgment it will be more tolerable for the land of Sodom than for you.”"
+    },
+    {
+      "verse": 25,
+      "urdu": "اُس وقت یسُوؔع کہنے لگا۔ کہ اَے باپ آسمان اَور زمین کے خُداوند مَیں تیرا شُکر کرتا ہُوں کہ تُو نے اِن باتوں کو داناؤں اَور عقلمندوں سے چُھپایا اَور چھوٹوں پر ظاہر کِیاO̲",
+      "english": "At that time Jesus said, “I thank you, Father, Lord of heaven and earth, because you have hidden these things from the wise and the intelligent and have revealed them to infants; "
+    },
+    {
+      "verse": 26,
+      "urdu": "ہاں اَے باپ کیونکہ تُجھے ایسا ہی پسند آیاO̲",
+      "english": "yes, Father, for such was your gracious will. "
+    },
+    {
+      "verse": 27,
+      "urdu": "میرے باپ سے سب کُچھ مُجھے سونپا گیا اَور کوئی بیٹے کو نہیں جانتا سِوائے باپ کے اَور کوئی باپ کو نہیں جانتا سِوائے بیٹے کے اَور اُس کے جس پر بیٹا ظاہر کرنا چاہےO̲\n",
+      "english": "All things have been handed over to me by my Father; and no one knows the Son except the Father, and no one knows the Father except the Son and anyone to whom the Son chooses to reveal him.\n\n"
+    },
+    {
+      "verse": 28,
+      "urdu": "SP\tEPاَے سب تھکے ماندو اَور بوجھ سے دبے ہُوؤ۔ میرے پاس آؤ۔ مَیں تُمہیں آرام دُوں گاO̲",
+      "english": "“Come to me, all you that are weary and are carrying heavy burdens, and I will give you rest. "
+    },
+    {
+      "verse": 29,
+      "urdu": "میرا جُؤا اُٹھالو۔ اَور مُجھ سے سِیکھو۔ کیونکہ مَیں حلیم اَور دِل کا فروتن ہُوں۔ تو تُم اپنی جانوں کے لئے آرام پاؤ گےO̲",
+      "english": "Take my yoke upon you, and learn from me; for I am gentle and humble in heart, and you will find rest for your souls. "
+    },
+    {
+      "verse": 30,
+      "urdu": "کیونکہ میرا جُؤا نرم اَور میرا بوجھ ہلکا ہَے +",
+      "english": "For my yoke is easy, and my burden is light.”"
+    }
+  ]
+}

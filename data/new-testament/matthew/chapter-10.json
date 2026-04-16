@@ -1,0 +1,262 @@
+{
+  "book": "matthew",
+  "chapter": 10,
+  "sections": {
+    "urdu": [
+      {
+        "title": "",
+        "start": 1,
+        "end": 4
+      },
+      {
+        "title": "ہدایاتِ رسالت",
+        "start": 5,
+        "end": 42
+      }
+    ],
+    "english": [
+      {
+        "title": "The Twelve Apostles",
+        "start": 1,
+        "end": 4
+      },
+      {
+        "title": "The Mission of the Twelve",
+        "start": 5,
+        "end": 15
+      },
+      {
+        "title": "Coming Persecutions",
+        "start": 16,
+        "end": 25
+      },
+      {
+        "title": "Whom to Fear",
+        "start": 26,
+        "end": 33
+      },
+      {
+        "title": "Not Peace, but a Sword",
+        "start": 34,
+        "end": 39
+      },
+      {
+        "title": "Rewards",
+        "start": 40,
+        "end": 42
+      }
+    ]
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "urdu": "پِھر اُس نے اپنے بارہ شاگِردوں کو پاس بُلا کر اُنہیں ناپاک رُوحوں پر اِختیار بخشا۔ کہ اُنہیں نِکالیں اَور ہر طرح کی بیماری اَور ہر طرح کی کمزوری کو دُور کریںO̲",
+      "english": "Then Jesus summoned his twelve disciples and gave them authority over unclean spirits, to cast them out, and to cure every disease and every sickness. "
+    },
+    {
+      "verse": 2,
+      "urdu": "اَور بارہ رُسولوں کے نام یہ ہَیں۔\nSP\tEPپہلا شمعُون جو پطرس کہلاتا ہَے۔ اَور اُس کا بھائی اندریاس۔ یَعقُوب بِن زبدی اَور اُس کا بھائی یُوحنّاO̲",
+      "english": "These are the names of the twelve apostles: first, Simon, also known as Peter, and his brother Andrew; James son of Zebedee, and his brother John; "
+    },
+    {
+      "verse": 3,
+      "urdu": "فیلبُوس اَور بَرتلمائی۔ توما اَور متّی محِصّل۔ یَعقُوب بِن حلفائی اَور تدّائیO̲",
+      "english": "Philip and Bartholomew; Thomas and Matthew the tax collector; James son of Alphaeus, and Thaddaeus; "
+    },
+    {
+      "verse": 4,
+      "urdu": "شمعُون قانوی اَور یہُودہ اِسخریوطی جس نے اُسے پکڑوابھی دِیاO̲",
+      "english": "Simon the Cananaean, and Judas Iscariot, the one who betrayed him.\n"
+    },
+    {
+      "verse": 5,
+      "urdu": "اِن بارہ کو یسُوؔع نے بھیجا۔ اَور اُنہیں حُکم دے کر کہا۔ کہ غیر قوموں کی طرف نہ جانا اَور سامریوں کے کِسی شہر میں داخِل نہ ہوناO̲",
+      "english": "These twelve Jesus sent out with the following instructions: “Go nowhere among the Gentiles, and enter no town of the Samaritans, "
+    },
+    {
+      "verse": 6,
+      "urdu": "بلکہ اِسرائیل کے گھرانے کی کھوئی ہُوئی بھیڑوں کے پاس جاناO̲",
+      "english": "but go rather to the lost sheep of the house of Israel. "
+    },
+    {
+      "verse": 7,
+      "urdu": "اَور چلتے چلتے یہ مُنادی کرنا کہ آسمان کی بادشاہی نزدیک آگئی ہَےO̲",
+      "english": "As you go, proclaim the good news, ‘The kingdom of heaven has come near.’ "
+    },
+    {
+      "verse": 8,
+      "urdu": "بیماروں کو اچھّا کرنا۔ مُردوں کو جِلانا۔ کوڑھیوں کو پاک صاف کرنا۔ بَد رُوحوں کو نِکالنا۔ مُفت تُم نے پایا۔ مُفت ہی تُم دیناO̲",
+      "english": "Cure the sick, raise the dead, cleanse the lepers, cast out demons. You received without payment; give without payment. "
+    },
+    {
+      "verse": 9,
+      "urdu": "نہ سونا نہ چاندی نہ تانبا اپنے کَمربند میں رکھناO̲",
+      "english": "Take no gold, or silver, or copper in your belts, "
+    },
+    {
+      "verse": 10,
+      "urdu": "نہ رستے کے لئے تھیلی نہ دو کُرتے نہ جُوتے نہ لاٹھی لینا۔ کیونکہ مزدُور اپنے خُوراک کا حَقدار ہَےO̲",
+      "english": "no bag for your journey, or two tunics, or sandals, or a staff; for laborers deserve their food. "
+    },
+    {
+      "verse": 11,
+      "urdu": "اَور جس شہر یا گاؤں میں داخِل ہو دریافت کرنا کہ وہاں کون لائق ہَے۔ اَور جب تک وہاں سے نہ نِکلو وَہیں رہناO̲",
+      "english": "Whatever town or village you enter, find out who in it is worthy, and stay there until you leave. "
+    },
+    {
+      "verse": 12,
+      "urdu": "اَور گھر میں داخِل ہوتے وقت اُسے سلام کہناO̲",
+      "english": "As you enter the house, greet it. "
+    },
+    {
+      "verse": 13,
+      "urdu": "اگر وہ گھر لائق ہو تو تُمہارا سلام اُسے پُہنچے گا۔ اَور اگر لائق نہیں تو تُمہارا سلام تُمہارے پاس واپس آ جائے گاO̲",
+      "english": "If the house is worthy, let your peace come upon it; but if it is not worthy, let your peace return to you. "
+    },
+    {
+      "verse": 14,
+      "urdu": "اَور جو کوئی تُمہیں قبُول نہ کرے اَور تُمہاری باتیں نہ سُنے تو اُس گھر یا اُس شہر سے نِکلتے ہی اپنے پاؤں کی گَرد جھاڑ دوO̲",
+      "english": "If anyone will not welcome you or listen to your words, shake off the dust from your feet as you leave that house or town. "
+    },
+    {
+      "verse": 15,
+      "urdu": "مَیں تُم سے سچ کہتا ہُوں کہ عدالت کے دن سدُوم اَور عمُورہ کے علاقے کا حال اُس شہر کی نِسبت زِیادہ قابِلِ برداشت ہوگاO̲\n",
+      "english": "Truly I tell you, it will be more tolerable for the land of Sodom and Gomorrah on the day of judgment than for that town."
+    },
+    {
+      "verse": 16,
+      "urdu": "SP\nEPدیکھو مَیں تُمہیں بھیروں کی مانند بھیڑیوں میں بھیجتا ہُوں۔ پس تُم سانپوں کی طرح ہوشیار اور کبُوتروں کی مانند بھولے ہوO̲",
+      "english": "“See, I am sending you out like sheep into the midst of wolves; so be wise as serpents and innocent as doves. "
+    },
+    {
+      "verse": 17,
+      "urdu": "مگر آدمیوں سے خبردارہو۔ کیونکہ وہ تُمہیں مجالِس کے حوالے کریں گے اَور اپنے عِبادَت خانوں میں تُمہیں کوڑے ماریں گےO̲",
+      "english": "Beware of them, for they will hand you over to councils and flog you in their synagogues; "
+    },
+    {
+      "verse": 18,
+      "urdu": "اَور تُم میری خاطِر حاکِموں اَور بادشاہوں کے سامنے حاضِر کِئے جاؤ گے۔ تاکہ اُن کے اَور غیر قوموں کے لئے گواہی ہوO̲",
+      "english": "and you will be dragged before governors and kings because of me, as a testimony to them and the Gentiles. "
+    },
+    {
+      "verse": 19,
+      "urdu": "لیکن جب وہ تُمہیں پکڑوائیں۔ تو فِکر نہ کرو۔ کہ ہم کِس طرح کہیں یا کیا کہیں کیونکہ جو کُچھ تُمہیں کہنا ہوگا سواُسی گھڑی تُمہیں بتایا جائے گاO̲",
+      "english": " When they hand you over, do not worry about how you are to speak or what you are to say; for what you are to say will be given to you at that time; "
+    },
+    {
+      "verse": 20,
+      "urdu": "کیونکہ بالنے والے تُم نہیں۔ بلکہ تُمہارے باپ کا رُوح تُم میں بولنے والا ہوگاO̲",
+      "english": "for it is not you who speak, but the Spirit of your Father speaking through you. "
+    },
+    {
+      "verse": 21,
+      "urdu": "بھائی کو بھائی اَور بچّے کو باپ قتل کے لئے حوالے کرے گا۔ اےور بچّے ماں باپ کی مُخالِفت میں اُٹھیں گے اَور اُنہیں مَروا ڈالیں گےO̲",
+      "english": "Brother will betray brother to death, and a father his child, and children will rise against parents and have them put to death; "
+    },
+    {
+      "verse": 22,
+      "urdu": "اَور میرے نام کے باعِث سب لوگ تُم سے کِینہ رکھیں گے۔ مگر جو آخِر تک ثابت قدم رہے گا وہی نجات پائے گاO̲\n",
+      "english": "and you will be hated by all because of my name. But the one who endures to the end will be saved. "
+    },
+    {
+      "verse": 23,
+      "urdu": "SP\tEPلیکن جب لوگ تُمہیں کِسی شہر میں ستائیں تو کِسی اَور میں بھاگ جاؤ مَیں تُم سے سچ کہتا ہُوں۔ کہ تُم اِسرائیل کے شہروں میں نہ پِھر چُکو گے کہ اِبنِ انسان آجائے گاO̲\n",
+      "english": "When they persecute you in one town, flee to the next; for truly I tell you, you will not have gone through all the towns of Israel before the Son of Man comes.\n"
+    },
+    {
+      "verse": 24,
+      "urdu": "SP\tEPشاگِرد اپنے اُستاد سے بڑا نہیں ہوتا اَور نہ غُلام اپمے آقا سےO̲",
+      "english": "“A disciple is not above the teacher, nor a slave above the master; "
+    },
+    {
+      "verse": 25,
+      "urdu": "شاگِرد کے لئے یہ کافی ہَے کہ اپنے اُستا کی۔ اَور غُلام کے لئے یہ کہ اپنے آقا کی مانند ہو۔ جب اُنہوں نے گھر کے مالِک کو بَعلَ زبُول کہا۔ تو کِتنا زیادہ اُس کے گھروالوں کو نہ کہیں گے؟O̲",
+      "english": "it is enough for the disciple to be like the teacher, and the slave like the master. If they have called the master of the house Beelzebul, how much more will they malign those of his household!"
+    },
+    {
+      "verse": 26,
+      "urdu": "اِس لئے اُن سے مت ڈرو۔ کیونکہ کوئی چیز ڈھپی نہیں جو کھولی نہ جائے گی اَور نہ چُھپی ہَے جو جانی نہ جائے گیO̲",
+      "english": "“So have no fear of them; for nothing is covered up that will not be uncovered, and nothing secret that will not become known. "
+    },
+    {
+      "verse": 27,
+      "urdu": "جو کُچھ مَیں تُمہیں اندھیرے میں کہتا ہُوں اُجالے میں کہو۔ اَور جو کُچھ تُم کان میں سُنتے ہو۔ کوٹھوں پر اُس کی مُنادی کروO̲",
+      "english": "What I say to you in the dark, tell in the light; and what you hear whispered, proclaim from the housetops. "
+    },
+    {
+      "verse": 28,
+      "urdu": "اَور اُن سے مت ڈرو جو بدن کو قتل کرتے ہَیں پر جان کو قتل نہیں کر سکتے بلکہ اُسی سے ڈرو۔ جو جان اَور بدن دونوں کو جہنّم میں ہلاک کر سکتا ہَےO̲",
+      "english": "Do not fear those who kill the body but cannot kill the soul; rather fear him who can destroy both soul and body in hell. "
+    },
+    {
+      "verse": 29,
+      "urdu": "کیا پیسے کی دو چڑیاں نہیں بِکتیں؟ اَور اُن میں سے ایک بھی تُمہارے باپ کی مرضی کے بغیر زمین پر نہیں گِرتیO̲",
+      "english": "Are not two sparrows sold for a penny? Yet not one of them will fall to the ground apart from your Father. "
+    },
+    {
+      "verse": 30,
+      "urdu": "بلکہ تُمہارے سر کے بال بھی سب گِنے ہُوئے ہَیںO̲",
+      "english": "And even the hairs of your head are all counted. "
+    },
+    {
+      "verse": 31,
+      "urdu": "پس مت ڈرو۔ تُم بُہت چڑیوں سے زیادہ قدر رکھتے ہوO̲\n",
+      "english": "So do not be afraid; you are of more value than many sparrows.\n"
+    },
+    {
+      "verse": 32,
+      "urdu": "SP\tEPاِس لئے جو کوئی آدمیوں کے آگے میرا اِقرار کرے گا۔ مَیں بھی اپنے باپ کے آگے جو آسمان پر ہَے اُس کا اِقرار کرُوں گاO̲",
+      "english": "“Everyone therefore who acknowledges me before others, I also will acknowledge before my Father in heaven; "
+    },
+    {
+      "verse": 33,
+      "urdu": "مگر جو کوئی آدمیوں کے آگے میرا اِنکار کرے گا مَیں بھی اپنے باپ کے آگے جو آسمان پر ہَے اُس کا اِنکار کرُوں گاO̲\n",
+      "english": "but whoever denies me before others, I also will deny before my Father in heaven."
+    },
+    {
+      "verse": 34,
+      "urdu": "SP\tEPیہ مت سمجھو۔ کہ مَیں زمین پر صُلح کرانے آیا ہُوں صُلح کرانے نہیں بلکہ تلوار چلوانے آیا ہُوںO̲",
+      "english": "“Do not think that I have come to bring peace to the earth; I have not come to bring peace, but a sword.\n"
+    },
+    {
+      "verse": 35,
+      "urdu": "کیونکہ مَیں اِس لئے آیا ہُوں کہ آدمی کو اُس کے باپ سے اَور بیٹی کو اُس کی ماں سے اَور بہُو کو اُس کی ساس سے جُدا کراؤںO̲",
+      "english": "\nSPFor I have come to set a man against his father,\nand a daughter against her mother,\nand a daughter-in-law against her mother-in-law;EP\n"
+    },
+    {
+      "verse": 36,
+      "urdu": "اَور آدمی کے دُشمن اُس کے گھر والے ہوں گےO̲",
+      "english": "\nSPand one’s foes will be members of one’s own household.EP\n\n"
+    },
+    {
+      "verse": 37,
+      "urdu": "جو کوئی باپ یا ماں کو مُجھ سے زیادہ پیار کرتا ہَے وہ میرے لائق نہیں۔ اَور جو کوئی بیٹے یا بیٹی کو مُجھ سے زیادہ پیار کرتا ہَے وہ میرے لائق نہیںO̲",
+      "english": "Whoever loves father or mother more than me is not worthy of me; and whoever loves son or daughter more than me is not worthy of me; "
+    },
+    {
+      "verse": 38,
+      "urdu": "اَور جو کوئی اپنی صلِیب نہ اُٹھائے اَور میرے پیچھے نہ ہو لے۔ وہ میرے لائق نہیںO̲",
+      "english": "and whoever does not take up the cross and follow me is not worthy of me. "
+    },
+    {
+      "verse": 39,
+      "urdu": "جو کوئی اپنی جان بچاتا ہَے۔ اُسے کھوئے گا۔ لیکن جو میرے خاطر اپنی جان کھوتا ہَے اُسے بچائے گاO̲\n",
+      "english": "Those who find their life will lose it, and those who lose their life for my sake will find it."
+    },
+    {
+      "verse": 40,
+      "urdu": "SP\tEPجو تُمہیں قبُول کرتا ہَے وہ مُجھے قبُول کرتا ہَے۔ اَور جو مُجھے قبُول کرتا ہَے وہ اُسے قبُول کرتا ہَے جس نے مُجھے بھیجاO̲",
+      "english": "“Whoever welcomes you welcomes me, and whoever welcomes me welcomes the one who sent me. "
+    },
+    {
+      "verse": 41,
+      "urdu": "جو کوئی نبی کے نام سے نبی کو قبُول کرتا ہَے وہ راستباز کا اَجر پائے گاO̲",
+      "english": "Whoever welcomes a prophet in the name of a prophet will receive a prophet’s reward; and whoever welcomes a righteous person in the name of a righteous person will receive the reward of the righteous; "
+    },
+    {
+      "verse": 42,
+      "urdu": "اَور جو شاگِرد کے نام سے اِن چھوٹوں میں سے کِسی کو صِرف ایک پیالہ ٹھنڈا پانی ہی پلائے مَیں تُم سے سچ کہتا ہُوں کہ وہ اپنا اَجر ہر گز نہ کھوئے گا +",
+      "english": "and whoever gives even a cup of cold water to one of these little ones in the name of a disciple—truly I tell you, none of these will lose their reward.”"
+    }
+  ]
+}
