@@ -71,7 +71,7 @@ export default async function ChapterPage({ params }) {
               return (
                 <span key={v.verse} dir="rtl">
                   <strong className="text-cyan-500 mx-2 align-super text-sm md:text-lg">
-                    {v.verse}.
+                    {v.verse}
                   </strong>
                   {raw}
                 </span>
@@ -81,7 +81,7 @@ export default async function ChapterPage({ params }) {
             return (
               <span key={v.verse}>
                 <strong className="text-cyan-500 mr-2 align-super text-[12px] md:text-sm">
-                  {v.verse}.
+                  {v.verse}
                 </strong>
                 {raw}
               </span>
@@ -107,7 +107,7 @@ export default async function ChapterPage({ params }) {
                     className="text-cyan-500 mx-2 text-sm md:text-lg align-top inline-block"
                     style={{ width: numberWidth, marginRight: `-${numberWidth}` }}
                   >
-                    {v.verse}.
+                    {v.verse}
                   </strong>
 
                   {segments.map((seg, idx) =>
@@ -129,7 +129,7 @@ export default async function ChapterPage({ params }) {
             return (
               <span key={v.verse} dir="rtl">
                 <strong className="text-cyan-500 mx-2 align-super text-sm md:text-lg">
-                  {v.verse}.
+                  {v.verse}
                 </strong>
 
                 {segments.map((seg, idx) =>
@@ -162,7 +162,7 @@ export default async function ChapterPage({ params }) {
                   className="text-cyan-500 mr-2 text-[12px] md:text-sm align-top inline-block"
                   style={{ width: numberWidth, marginLeft: `-${numberWidth}` }}
                 >
-                  {v.verse}.
+                  {v.verse}
                 </strong>
 
                 {segments.map((seg, idx) =>
@@ -185,7 +185,7 @@ export default async function ChapterPage({ params }) {
           return (
             <span key={v.verse}>
               <strong className="text-cyan-500 mr-2 align-super text-[12px] md:text-sm">
-                {v.verse}.
+                {v.verse}
               </strong>
 
               {segments.map((seg, idx) =>

@@ -1,0 +1,322 @@
+{
+  "book": "matthew",
+  "chapter": 12,
+  "sections": {
+    "urdu": [
+      {
+        "title": "اِبنِ اِنسان سبت کا مالِک",
+        "start": 1,
+        "end": 21
+      },
+      {
+        "title": "فریسیوں کی کُفر گوئی",
+        "start": 22,
+        "end": 37
+      },
+      {
+        "title": "یُونسؔ نبی کا نِشان",
+        "start": 38,
+        "end": 45
+      },
+      {
+        "title": "یسُوؔع کے رِشتہ دار",
+        "start": 46,
+        "end": 50
+      }
+    ],
+    "english": [
+      {
+        "title": "Plucking Grain on the Sabbath",
+        "start": 1,
+        "end": 8
+      },
+      {
+        "title": "The Man with a Withered Hand",
+        "start": 9,
+        "end": 14
+      },
+      {
+        "title": "God’s Chosen Servant",
+        "start": 15,
+        "end": 21
+      },
+      {
+        "title": "Jesus and Beelzebul",
+        "start": 22,
+        "end": 32
+      },
+      {
+        "title": "A Tree and Its Fruit",
+        "start": 33,
+        "end": 37
+      },
+      {
+        "title": "The Sign of Jonah",
+        "start": 38,
+        "end": 42
+      },
+      {
+        "title": "The Return of the Unclean Spirit",
+        "start": 43,
+        "end": 45
+      },
+      {
+        "title": "The True Kindred of Jesus",
+        "start": 46,
+        "end": 50
+      }
+    ]
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "urdu": "اُس وقت یسُوؔع سبت کے دِن کھیتوں میں سے جا رہا تھا۔ اَور اُس کے شاگِرد بُھوکے تھے۔ اَور وہ بالیں توڑ توڑ کر کھانے لگےO̲",
+      "english": "At that time Jesus went through the grainfields on the sabbath; his disciples were hungry, and they began to pluck heads of grain and to eat. "
+    },
+    {
+      "verse": 2,
+      "urdu": "تب فریسیوں نے دیکھ کر اُس سے کہا۔ دیکھ تیرے شاگِرد وہ کام کرتے ہَیں۔ جو سبت کے دِن کرنا رَوا نہیںO̲",
+      "english": "When the Pharisees saw it, they said to him, “Look, your disciples are doing what is not lawful to do on the sabbath.” "
+    },
+    {
+      "verse": 3,
+      "urdu": "اُس نے اُن سے کہا۔ کیا تُم نے وہ نہیں پڑھاجو داؔؤد نے کِیا۔ جب وہ اَور اُس کے ساتھی بُھوکے تھے؟O̲",
+      "english": "He said to them, “Have you not read what David did when he and his companions were hungry? "
+    },
+    {
+      "verse": 4,
+      "urdu": "وہ کیونکر خُدا کے گھر میں گیا۔ اَور نَذَر کی روٹیاں کھائیں۔ جِن کا کھانا اُسے اَور اُس کے ساتھیوں کو روانہ تھا۔ مگر فَقط کاہِنوں کو؟O̲",
+      "english": "He entered the house of God and ate the bread of the Presence, which it was not lawful for him or his companions to eat, but only for the priests. "
+    },
+    {
+      "verse": 5,
+      "urdu": "اَور کیا تُم نے توراؔت میں نہیں پڑھا؟ کہ کاہِن سبت کے دِن ہَیکل میں سبت کو پاک نہیں رکھتے۔ تو بھی بے قصُور رہتے ہَیںO̲",
+      "english": "Or have you not read in the law that on the sabbath the priests in the temple break the sabbath and yet are guiltless? "
+    },
+    {
+      "verse": 6,
+      "urdu": "پس مَیں تُم سے کہتا ہُوں کہ یہاں وہ ہَے جو ہَیکل سے بھی بڑا ہَےO̲",
+      "english": "I tell you, something greater than the temple is here. "
+    },
+    {
+      "verse": 7,
+      "urdu": "لیکن اگر تُم اُس کے معنی جانتے کہ ” مَیں قُربانی نہیں۔ بلکہ رحم پسند کرتا ہُوں۔“ تو تُم بے قصُوروں کو قصُور وار نہ ٹھہراتےO̲",
+      "english": "But if you had known what this means, ‘I desire mercy and not sacrifice,’ you would not have condemned the guiltless. "
+    },
+    {
+      "verse": 8,
+      "urdu": "کیونکہ اِبنِ اِنسان سبت کا بھی مالِک ہَےO̲\n",
+      "english": "For the Son of Man is lord of the sabbath.”"
+    },
+    {
+      "verse": 9,
+      "urdu": "SP\tEPاَور وہاں سے روانہ ہو کر اُن کی عِبادَت خانہ میں گیاO̲",
+      "english": "He left that place and entered their synagogue; "
+    },
+    {
+      "verse": 10,
+      "urdu": "اَور دیکھو وہاں ایک شخص تھا جس کا ہاتھ سُوکھا ہُوا تھا۔ تب اُنہوں نے اِس ارادے سے کہ اُس پر اِلزام لگائیں۔ اُس سے پُوچھا کہ کیا سبت کے دِن شِفا دینا رَوا ہَے؟O̲",
+      "english": "a man was there with a withered hand, and they asked him, “Is it lawful to cure on the sabbath?” so that they might accuse him. "
+    },
+    {
+      "verse": 11,
+      "urdu": "اُس نے اُن سے کہا کہ تُم میں سے ایسا کون ہَے۔ کہ جس کے پاس ایک ہی بھیڑ ہو۔ اَور وہ سبت کے دِن گڑھے میں گر جائے تو وہ اُسے پکڑ کر نہ نکالےO̲",
+      "english": "He said to them, “Suppose one of you has only one sheep and it falls into a pit on the sabbath; will you not lay hold of it and lift it out? "
+    },
+    {
+      "verse": 12,
+      "urdu": "پس آدمی بھیڑ سے کِتنی زیادہ قدر رکھتا ہَے۔ اِس لئے سبت کے دِن نیکی کرنا رَوا ہَےO̲",
+      "english": "How much more valuable is a human being than a sheep! So it is lawful to do good on the sabbath.” "
+    },
+    {
+      "verse": 13,
+      "urdu": "تب اُس نے اُس شخص سے کہا۔ کہ اپنا ہاتھ بڑھا۔ تو اُس نے بڑھایا۔ اَور وہ دُوسرے کی مانند دُرست ہو گیاO̲\n",
+      "english": "Then he said to the man, “Stretch out your hand.” He stretched it out, and it was restored, as sound as the other. "
+    },
+    {
+      "verse": 14,
+      "urdu": "SP\tEPتب فریسیوں نے باہر جا کر اُس کے خلاف مشورہ کِیا۔ کہ اُسے کِس طرح ہلاک کرِیںO̲",
+      "english": "But the Pharisees went out and conspired against him, how to destroy him."
+    },
+    {
+      "verse": 15,
+      "urdu": "پر یسُوؔع یہ جانتے ہُوئے وہاں سے چلا گیا۔ اَور بہُت سے لوگ اُس کے پیچھے ہو لئے اَور اُس نے اُن سب کو شِفا بخشیO̲",
+      "english": "When Jesus became aware of this, he departed. Many crowds[a] followed him, and he cured all of them, "
+    },
+    {
+      "verse": 16,
+      "urdu": "اَور اُنہیں تاکِید کی کہ مُجھے ظاہر نہ کرناO̲",
+      "english": "and he ordered them not to make him known. "
+    },
+    {
+      "verse": 17,
+      "urdu": "تاکہ جو اِشؔعیا نبی کی معرفت کہا گیا تھا وہ پُورا ہو کہO̲\n",
+      "english": "his was to fulfill what had been spoken through the prophet Isaiah:\n\n"
+    },
+    {
+      "verse": 18,
+      "urdu": "\nSPدیکھو میرا خادم جِسے مَیں نے چُن لِیا۔\nمیرا محبُوب جس سے میری جان خُوش ہَے۔\nمَیں اپنی رُوح اُس پر ڈالُوں گا\nاَور وہ غیر قوموں پر صداقت ظاہر کرے گاO̲EP\n",
+      "english": "\nSP“Here is my servant, whom I have chosen,\n\tmy beloved, with whom my soul is well pleased.\nI will put my Spirit upon him,\n\tand he will proclaim justice to the Gentiles.EP\n"
+    },
+    {
+      "verse": 19,
+      "urdu": "\nSPیہ نہ جھگڑا کرے گا نہ شور۔\nاَور بازاروں میں کوئی اُس کی آواز نہ سُنے گاO̲EP\n",
+      "english": "\nSPHe will not wrangle or cry aloud,\n\tnor will anyone hear his voice in the streets.EP\n"
+    },
+    {
+      "verse": 20,
+      "urdu": "\nSPیہ مَسلے ہُوئے سرکنڈے کو نہ توڑے گا۔\nاَور ٹِمٹِماتی  بتّی کو نہ بُجھائے گا۔\nجب تک کہ وہ اِنصاف کو فتح نہ بخشےO̲EP\n",
+      "english": "\nSPHe will not break a bruised reed\n\tor quench a smoldering wick\nuntil he brings justice to victory.EP\n"
+    },
+    {
+      "verse": 21,
+      "urdu": "\nSPاَور اُس کے نام پر غیر قومیں بھروسا رکھیں گیO̲EP\n",
+      "english": "\nSPAnd in his name the Gentiles will hope.”EP\n"
+    },
+    {
+      "verse": 22,
+      "urdu": "تب اُس کے پاس ایک اندھا گُونگا آسیب زَدہ لایا گیا۔ اَور اُس نے اُسے شِفا بخشی۔ چُنانچہ وہ گُونگا بولنے اَور دیکھنے لگاO̲",
+      "english": "Then they brought to him a demoniac who was blind and mute; and he cured him, so that the one who had been mute could speak and see. "
+    },
+    {
+      "verse": 23,
+      "urdu": "اَور سارا ہجُوم حیران ہو کر کہنے لگا کہ کیا یہ داؔؤد کا بیٹا ہَے؟O̲",
+      "english": "All the crowds were amazed and said, “Can this be the Son of David?” "
+    },
+    {
+      "verse": 24,
+      "urdu": "پر فریسیوں نے سُن کر کہا کہ یہ بَد رُوحوں کے سردار بَعلَ زبُول کی مدد کے بغیر بَد رُوحوں کو نہیں نِکالتاO̲",
+      "english": "But when the Pharisees heard it, they said, “It is only by Beelzebul, the ruler of the demons, that this fellow casts out the demons.” "
+    },
+    {
+      "verse": 25,
+      "urdu": "لیکن اُس نے اُن کے خیالات جانتے ہُوئے اُن سے کہا۔ ہر وہ بادشاہی جس میں پُھوٹ پڑ جاتی ہَے وِیران ہو جاتی ہَے۔ اَور ہر وہ شہر یا گھر جس میں پُھوٹ پڑ جائے قائم نہیں رہتاO̲",
+      "english": "He knew what they were thinking and said to them, “Every kingdom divided against itself is laid waste, and no city or house divided against itself will stand. "
+    },
+    {
+      "verse": 26,
+      "urdu": "اَور اگر شیطان ہی شیطان کو نِکالے تو وہ آپ ہی اپنا مُخالِف ہُؤا۔ پِھر اُس کی بادشاہی کیونکر قائم رہے گی؟O̲",
+      "english": "If Satan casts out Satan, he is divided against himself; how then will his kingdom stand? "
+    },
+    {
+      "verse": 27,
+      "urdu": "اَور اگر مَیں بَعلَ زبُول کی مدد سے بَد رُوحوں کو نِکالتا ہُوں۔ تو تُمہارے بیٹے کِس کی مدد سے نِکالتے ہَیں؟ اِس لئے وہی تُمہارے مُنصِف ہُوں گےO̲",
+      "english": "If I cast out demons by Beelzebul, by whom do your own exorcists[b] cast them out? Therefore they will be your judges. "
+    },
+    {
+      "verse": 28,
+      "urdu": "لیکن اگر مَیں خُدا کی رُوح سے بَد رُوحوں کی نِکالتا ہُوں۔ تو البتہ خُدا کی بادشاہی تُمہارے پاس آ پہُنچی ہَےO̲",
+      "english": "But if it is by the Spirit of God that I cast out demons, then the kingdom of God has come to you. "
+    },
+    {
+      "verse": 29,
+      "urdu": "یا کیوں کر کوئی کِسی زور آور کے گھر میں گُھس کر اُس کی اسباب لُوٹ سکتا ہَے۔ جب تک کہ پہلے اُس زور آور کو نہ باندھ لے۔ پِھر اُس کا گھر لُوٹ لے گاO̲",
+      "english": "Or how can one enter a strong man’s house and plunder his property, without first tying up the strong man? Then indeed the house can be plundered. "
+    },
+    {
+      "verse": 30,
+      "urdu": "جو میرے ساتھ نہیں وہ میرے خلاف ہَے۔ اَور جو میرے ساتھ جمع نہیں کرتا وہ بکھیرتا ہَےO̲\n",
+      "english": "Whoever is not with me is against me, and whoever does not gather with me scatters. "
+    },
+    {
+      "verse": 31,
+      "urdu": "SP\tEPاِس لئے مَیں تُم سے کہتا ہُوں۔ کہ آدمیوں کا ہر گُناہ اَور کُفر مُعاف کیا جائے گا۔ مگر جو کُفر رُوح کے حَق میں ہو وہ مُعاف نہ کِیا جائے گاO̲",
+      "english": "Therefore I tell you, people will be forgiven for every sin and blasphemy, but blasphemy against the Spirit will not be forgiven. "
+    },
+    {
+      "verse": 32,
+      "urdu": "اَور جو کوئی اِبنِ اِنسان کے خلاف کوئی بات کہے اُسے مُعاف کِیا جائے گا۔ مگر جو کوئی رُوحُ القُدس کے خلاف کہے اُسے مُعاف نہ کِیا جائے گا۔ نہ موجُودہ زمانے میں اَور نہ آئندہ ہی میںO̲",
+      "english": "Whoever speaks a word against the Son of Man will be forgiven, but whoever speaks against the Holy Spirit will not be forgiven, either in this age or in the age to come."
+    },
+    {
+      "verse": 33,
+      "urdu": "یا تو درخت کو اچھّا کہو اَور اُس کے پھَل کو بھی اچھّا یا درخت کو ردّی کہو اَور اُس کا پھَل بھی ردّی کیونکہ درخت پھَل ہی سے پہچانا جاتا ہَےO̲",
+      "english": "“Either make the tree good, and its fruit good; or make the tree bad, and its fruit bad; for the tree is known by its fruit. "
+    },
+    {
+      "verse": 34,
+      "urdu": "اَے اَفعی کی اولاد! تُم بُرے ہو کر کیونکر اچھّی بات کہہ سکتے ہو؟ کیونکہ جس سے دِل لبریز ہَے وہی مُنہ پر آتا ہَےO̲",
+      "english": "You brood of vipers! How can you speak good things, when you are evil? For out of the abundance of the heart the mouth speaks. "
+    },
+    {
+      "verse": 35,
+      "urdu": "اچھّا آدمی اچھے خزانے سے اچھّی چیزیں نِکالتا ہَے۔ اَور بُرا آدمی بُرے خزانے سے بُری چیزیں نِکالتا ہَےO̲",
+      "english": "The good person brings good things out of a good treasure, and the evil person brings evil things out of an evil treasure. "
+    },
+    {
+      "verse": 36,
+      "urdu": "پس مَیں تُم سے کہتا ہُوں کہ ہر ایک بے فائدہ بات جو آدمی کہیں گے وہ عدالت کے دِن اُس کا حِساب دیں گےO̲",
+      "english": "I tell you, on the day of judgment you will have to give an account for every careless word you utter; "
+    },
+    {
+      "verse": 37,
+      "urdu": "کیونکہ تُو اپنی باتوں ہی سے راستباز ٹھہرایا جائے گا اَور اپنی باتوں ہی سے گُنہگار ٹھہرایا جائے گاO̲",
+      "english": "for by your words you will be justified, and by your words you will be condemned.”"
+    },
+    {
+      "verse": 38,
+      "urdu": "تب فقیہوں اَور فریسیوں میں سے بعض اُس سے مُخاطِب ہر کر کہنے لگے کہ اَے اُستاد ہم تُجھ سے ایک نِشان دیکھنا چاہتے ہَیںO̲",
+      "english": "Then some of the scribes and Pharisees said to him, “Teacher, we wish to see a sign from you.” "
+    },
+    {
+      "verse": 39,
+      "urdu": "اُس نے اُن سے جَواب میں کہا کہ یہ بُری اَور حرام کار پُشت نِشان طلب کرتی ہَے۔ اَور یُونسؔ نبی کے نِشان کے سِوا کوئی اَور نِشان اُسے نہ دِیا جائے گاO̲",
+      "english": "But he answered them, “An evil and adulterous generation asks for a sign, but no sign will be given to it except the sign of the prophet Jonah. "
+    },
+    {
+      "verse": 40,
+      "urdu": "کیونکہ جیسے یُونسؔ تین رات دِن مچھلی کے پیٹ میں رہا ویسے ہی اِبنِ اِنسان تین رات دن تہہِ زمین میں رہے گاO̲",
+      "english": "For just as Jonah was three days and three nights in the belly of the sea monster, so for three days and three nights the Son of Man will be in the heart of the earth. "
+    },
+    {
+      "verse": 41,
+      "urdu": "نیِنؔوا کے لوگ عدالت کے دِن اِس پُشت کے ساتھ کھڑے ہو کر اُسے مُجرم ٹھہرائیں گے۔ کیونکہ اُنہوں نے یُونسؔ کی مُنادی پر توبہ کر لی۔ اَور دیکھو۔ یہاں وہ ہَے جو یُونسؔ سے بڑھ کر ہَےO̲",
+      "english": "The people of Nineveh will rise up at the judgment with this generation and condemn it, because they repented at the proclamation of Jonah, and see, something greater than Jonah is here! "
+    },
+    {
+      "verse": 42,
+      "urdu": "جنُوب کی مَلکہ عدالت کے دن اِس پُشت کے ساتھ کھڑی ہو کر اُسے مُجرم ٹھہرائے گی۔ کیونکہ وہ زمین کے کِنارے سے سُلیماؔن کی حِکمَت سُننے کو آئی۔ اَور دیکھو یہاں سُلیماؔن سے بڑھ کر ہَےO̲\n",
+      "english": "The queen of the South will rise up at the judgment with this generation and condemn it, because she came from the ends of the earth to listen to the wisdom of Solomon, and see, something greater than Solomon is here!"
+    },
+    {
+      "verse": 43,
+      "urdu": "SP\tEPجب ناپاک رُوح آدمی میں سے باہر نِکل جاتی ہَے۔ تو بے آب جگہوں میں آرام ڈُھونڈتی پِھرتی ہَے اَور نہیں پاتیO̲",
+      "english": "“When the unclean spirit has gone out of a person, it wanders through waterless regions looking for a resting place, but it finds none. "
+    },
+    {
+      "verse": 44,
+      "urdu": "تب کہتی ہَے کہ مَیں اُس گھر میں پِھر جاؤُں گی جس سے نِکلی تھی۔ اَور آکر اُسے خالی اَور جھاڑا اَور سنوارا ہُوا پاتی ہَےO̲",
+      "english": "Then it says, ‘I will return to my house from which I came.’ When it comes, it finds it empty, swept, and put in order. "
+    },
+    {
+      "verse": 45,
+      "urdu": "تب جا کر اَور سات رُوحیں جو اُس سے بَد تر ہوں۔ اپنے ساتھ لاتی اَور وہ داخِل ہو کر وہاں بستی ہَیں سو اُس آدمی کا پچھلا حال پہلے سے بھی بَدتر ہو جاتا ہَے۔ اِس شریر پُشت کا حال بھی ایسا ہی ہو گاO̲",
+      "english": "Then it goes and brings along seven other spirits more evil than itself, and they enter and live there; and the last state of that person is worse than the first. So will it be also with this evil generation.”"
+    },
+    {
+      "verse": 46,
+      "urdu": "جب وہ ہجُوم سے باتیں کر رہا تھا تو دیکھو۔ اُس کی ماں اَور بھائی باہر کھڑے تھے اَور اُس سے بات کرنا چاہتے تھےO̲",
+      "english": "While he was still speaking to the crowds, his mother and his brothers were standing outside, wanting to speak to him. "
+    },
+    {
+      "verse": 47,
+      "urdu": "تب کِسی نے اُس سے کہا کہ دیکھ تیری ماں اَور تیرے بھائی باہر کھڑے ہَیں اَور تُجھ سے بات کرنا چاہتے ہَیںO̲",
+      "english": "Someone told him, “Look, your mother and your brothers are standing outside, wanting to speak to you.” "
+    },
+    {
+      "verse": 48,
+      "urdu": "لیکن اُس نے جَواب میں خبر دینے والے سے کہا۔ کون ہَے میری ماں اَور کون ہَیں میرے بھائی؟O̲",
+      "english": "But to the one who had told him this, Jesus[d] replied, “Who is my mother, and who are my brothers?” "
+    },
+    {
+      "verse": 49,
+      "urdu": "اَور اپنا ہاتھ اپنے شاگِردوں کی طرف بڑھا کر کہا کہ دیکھو میری ماں اَور میرے بھائی!O̲",
+      "english": "And pointing to his disciples, he said, “Here are my mother and my brothers! "
+    },
+    {
+      "verse": 50,
+      "urdu": "کیونکہ جو کوئی میرے باپ کی جو آسمان پر ہَے مرضی پر چلتا ہَے۔ میرا بھائی اَور بہن اَور ماں وہی ہَے +",
+      "english": "For whoever does the will of my Father in heaven is my brother and sister and mother.”"
+    }
+  ]
+}
