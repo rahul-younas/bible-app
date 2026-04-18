@@ -24,8 +24,8 @@ const StartReading = () => {
             "Loading..."
           ) : (
             <>
-              <span>Old Testament</span>
-              <span className="urdu">عہد نامہ عتیق</span>
+              <span className='font-bold'>Old Testament</span>
+              <span className="urdu font-bold">عہد نامہ عتیق</span>
             </>
           )}
         </Button>
@@ -42,14 +42,14 @@ const StartReading = () => {
             "Loading Scriptures..."
           ) : (
             <>
-              <span>New Testament</span>
-              <span className='urdu'>عہد نامہ جدید</span>
+              <span className='font-bold'>New Testament</span>
+              <span className='urdu font-bold'>عہد نامہ جدید</span>
             </>
           )}
         </Button>
       </Link>
 
-      <Link href="/" className='underline text-sm md:text-md'>Go to Homepage</Link>
+      <p className='text-sm md:text-md'>Go to <Link href="/" className='underline text-blue-600'>Homepage</Link></p>
     </div>
   )
 }

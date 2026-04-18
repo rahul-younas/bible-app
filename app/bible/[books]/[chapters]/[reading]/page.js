@@ -1,4 +1,5 @@
 import ComingSoon from "@/components/ComingSoon";
+import Link from "next/link";
 
 export default async function ChapterPage({ params }) {
   const { books, chapters, reading } = await params;
@@ -70,7 +71,7 @@ export default async function ChapterPage({ params }) {
             if (isUrdu) {
               return (
                 <span key={v.verse} dir="rtl">
-                  <strong className="text-cyan-500 mx-2 align-super text-sm md:text-lg">
+                  <strong className="text-high-light mx-2 align-super text-sm md:text-lg">
                     {v.verse}
                   </strong>
                   {raw}
@@ -80,7 +81,7 @@ export default async function ChapterPage({ params }) {
 
             return (
               <span key={v.verse}>
-                <strong className="text-cyan-500 mr-2 align-super text-[12px] md:text-sm">
+                <strong className="text-high-light mr-2 align-super text-[12px] md:text-sm">
                   {v.verse}
                 </strong>
                 {raw}
@@ -104,7 +105,7 @@ export default async function ChapterPage({ params }) {
                   style={{ paddingRight: numberWidth }}
                 >
                   <strong
-                    className="text-cyan-500 mx-2 text-sm md:text-lg align-top inline-block"
+                    className="text-high-light mx-2 text-sm md:text-lg align-top inline-block"
                     style={{ width: numberWidth, marginRight: `-${numberWidth}` }}
                   >
                     {v.verse}
@@ -128,7 +129,7 @@ export default async function ChapterPage({ params }) {
 
             return (
               <span key={v.verse} dir="rtl">
-                <strong className="text-cyan-500 mx-2 align-super text-sm md:text-lg">
+                <strong className="text-high-light mx-2 align-super text-sm md:text-lg">
                   {v.verse}
                 </strong>
 
@@ -159,7 +160,7 @@ export default async function ChapterPage({ params }) {
                 style={{ paddingLeft: numberWidth }}
               >
                 <strong
-                  className="text-cyan-500 mr-2 text-[12px] md:text-sm align-top inline-block"
+                  className="text-high-light mr-2 text-[12px] md:text-sm align-top inline-block"
                   style={{ width: numberWidth, marginLeft: `-${numberWidth}` }}
                 >
                   {v.verse}
@@ -184,7 +185,7 @@ export default async function ChapterPage({ params }) {
           // Other marker verses keep the normal inline flow.
           return (
             <span key={v.verse}>
-              <strong className="text-cyan-500 mr-2 align-super text-[12px] md:text-sm">
+              <strong className="text-high-light mr-2 align-super text-[12px] md:text-sm">
                 {v.verse}
               </strong>
 
@@ -209,7 +210,7 @@ export default async function ChapterPage({ params }) {
 
   return (
     <div className="mx-auto py-5 w-[92%] max-w-4xl flex flex-col gap-3">
-      <h1 className="text-lg bg-white text-black md:text-2xl font-bold w-3/4 mx-auto rounded-md text-center mb-2 capitalize">
+      <h1 className="text-lg bg-background text-foreground md:text-2xl font-bold w-3/4 mx-auto rounded-md text-center mb-2 capitalize">
         {chapterData.book} - Chapter {chapterData.chapter}
       </h1>
 
@@ -234,9 +235,10 @@ export default async function ChapterPage({ params }) {
 
       {/* English */}
       <div className="mt-2">
-        <h5 className="text-[10px] md:text-lg font-bold text-center mb-2 capitalize text-cyan-500">
+        <h3 className="text-[11px] md:text-lg font-bold text-center capitalize text-high-light">
           New Revised Standard Version Catholic Edition (NRSVCE)
-        </h5>
+        </h3>
+        <h3 className="text-[11px] text-blue-500 md:text-lg text-center mb-2 ">👉 <Link href='https://www.biblegateway.com/versions/New-Revised-Standard-Version-Catholic-Edition-NRSVCE-Bible/#vinfo' className="underline">About CRSVCE</Link></h3>
 
         {chapterData.sections.english.map((section, i) => (
           <div key={i}>

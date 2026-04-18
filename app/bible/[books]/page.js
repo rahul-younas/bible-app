@@ -62,7 +62,7 @@ export default function Chapters() {
         { urdu: 'بمُطابِق متّی', english: 'Matthew', href: '/bible/new-testament/matthew', title: 'اِنجیلِ مُقدّس' },
         { urdu: 'بمُطابِق مرقس', english: 'Mark', href: '/bible/new-testament/mark', title: 'اِنجیلِ مُقدّس' },
         { urdu: 'بمُطابِق لُوقا', english: 'Luke', href: '/bible/new-testament/luke', title: 'اِنجیلِ مُقدّس' },
-        { urdu: 'بمُطابِق یُوحنا', english: 'John', href: '/bible/new-testament/john', title: 'اِنجیلِ مُقدّس' },
+        { urdu: 'بمُطابِق یُوحنّا', english: 'John', href: '/bible/new-testament/john', title: 'اِنجیلِ مُقدّس' },
         { urdu: 'رسُولوں کےاعمال', english: 'Acts', href: '/bible/new-testament/acts', title: 'اِنجیلِ مُقدّس' },
         { urdu: 'رومیوں کےنام', english: 'Romans', href: '/bible/new-testament/romans', title: 'خطوطِ پَولُوس رسُول' },
         { urdu: '۱۔قرنتیوں کے نام', english: '1 - Corinthians', href: '/bible/new-testament/1-corinthians', title: 'خطوطِ پَولُوس رسُول' },
@@ -115,15 +115,14 @@ export default function Chapters() {
             {orderedGroups.map((group) => (
                 <div key={group.title}>
 
-                    {/* Heading */}
-                    <div className='flex justify-center items-center'>
-                        <h2 className="text-2xl bg-white urdu text-black py-4 px-15 rounded-sm md:text-3xl font-bold text-center mx-auto mb-4">
+                    {/* Heading */}                  
+                        <h2 className="flex border-b-2 justify-center items-center text-2xl urdu text-foreground py-4 px-15 rounded-sm md:text-3xl font-bold mx-auto mb-4">
                             {group.title}
                         </h2>
-                    </div>
+                    
 
                     {/* Cards */}
-                    <div className="grid gap-4 my-3 grid-cols-[repeat(auto-fit,minmax(160px,1fr))] md:grid-cols-3">
+                    <div className="grid gap-3 grid-cols-[repeat(auto-fit,minmax(160px,1fr))] md:grid-cols-3">
                         {group.items.map((book) => (
                             <Link
                                 key={book.english}
@@ -139,8 +138,8 @@ export default function Chapters() {
                                         "Loading Chapters..."
                                     ) : (
                                         <>
-                                            <span className="">{book.english}</span>
-                                            <span className="urdu">{book.urdu}</span>
+                                            <span className="font-bold">{book.english}</span>
+                                            <span className="urdu font-bold">{book.urdu}</span>
                                         </>
                                     )}
                                 </Button>

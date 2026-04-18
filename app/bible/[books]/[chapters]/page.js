@@ -1356,8 +1356,8 @@ export default function Chapters() {
               "Loading Verses..."
             ) : (
               <>
-                <span>{chapter.english}</span>
-                <span className="urdu">{chapter.urdu}</span>
+                <span className='font-bold'>{chapter.english}</span>
+                <span className="urdu font-bold">{chapter.urdu}</span>
               </>
             )}
           </Button>
