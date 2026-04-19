@@ -116,7 +116,7 @@ export default function Chapters() {
                 <div key={group.title}>
 
                     {/* Heading */}                  
-                        <h2 className="flex border-b-2 justify-center items-center text-2xl urdu text-foreground py-4 px-15 rounded-sm md:text-3xl font-bold mx-auto mb-4">
+                        <h2 className="flex border-b-2 border-foreground justify-center items-center text-2xl urdu text-foreground py-4 px-15 rounded-sm md:text-3xl font-bold mx-auto mb-4">
                             {group.title}
                         </h2>
                     

@@ -48,8 +48,11 @@ const StartReading = () => {
           )}
         </Button>
       </Link>
-
-      <p className='text-sm md:text-md'>Go to <Link href="/" className='underline text-blue-600'>Homepage</Link></p>
+      <Link href="/prayers">
+        <Button className="text-base w-[150px] cursor-pointer md:text-lg px-6 py-6">
+          Catholic Prayers
+        </Button>
+      </Link>
     </div>
   )
 }

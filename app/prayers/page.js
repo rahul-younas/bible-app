@@ -24,11 +24,11 @@ export default function PrayersPage() {
       >
         <div className="mx-auto flex max-w-6xl flex-row flex-nowrap items-end gap-4 md:gap-6">
           <label className="flex w-36 shrink-0 flex-col gap-1.5 text-sm font-medium text-foreground md:w-44">
-            Language
+            Select Language
             <div className="relative">
               <select
                 aria-label="Prayer language"
-                className={`${selectClass} appearance-none pr-10`}
+                className={`${selectClass} appearance-none pr-10 bg-secondary`}
                 value={language}
                 onChange={(e) => setLanguage(e.target.value)}
               >
@@ -54,7 +54,7 @@ export default function PrayersPage() {
                     ? "Jump to prayer by Urdu title"
                     : "Jump to prayer by English title"
                 }
-                className={`${selectClass} appearance-none w-full ${jumpTitlesAreUrdu ? "pl-10 pr-3 text-right" : "pr-10 pl-3 text-left"
+                className={`${selectClass} bg-secondary appearance-none w-full ${jumpTitlesAreUrdu ? "pl-10 pr-3 text-right" : "pr-10 pl-3 text-left"
                   }`}
                 dir={jumpTitlesAreUrdu ? "rtl" : "ltr"}
                 value={jumpTo}
