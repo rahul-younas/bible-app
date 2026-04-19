@@ -7,7 +7,7 @@ export default async function ChapterPage({ params }) {
   let data;
 
   try {
-    data = await import(`@/data/${books}/${chapters}/${reading}.json`);
+    data = await import(`@/data/bible/${books}/${chapters}/${reading}.json`);
   } catch {
     return <ComingSoon />;
   }

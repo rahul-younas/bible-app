@@ -57,8 +57,13 @@ export default async function Home() {
             </p>
             <div className="flex flex-col md:flex-row items-center gap-3 pt-2">
               <Link href="/bible">
-                <Button className="text-base cursor-pointer md:text-lg px-6 py-6">
+                <Button className="text-base w-[150px] cursor-pointer md:text-lg px-6 py-6">
                   Start Reading
+                </Button>
+              </Link>
+              <Link href="/prayers">
+                <Button className="text-base w-[150px] cursor-pointer md:text-lg px-6 py-6">
+                  Catholic Prayers
                 </Button>
               </Link>
             </div>

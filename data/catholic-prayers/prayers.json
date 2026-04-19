@@ -1,0 +1,174 @@
+{
+  "category": "catholic_prayers",
+  "language_support": ["urdu", "english"],
+  "prayers": [
+    {
+      "id": 1,
+      "key": "sign_of_the_cross",
+      "title": {
+        "urdu": "صلیب کا نشان",
+        "english": "Sign of the Cross"
+      },
+      "content": {
+        "urdu": "باپ اَور بیٹے اَور رُوح القدس کے نام میں۔ آمین",
+        "english": "In the name of the Father, and of the Son, and of the Holy Spirit. Amen"
+      }
+    },
+    {
+      "id": 2,
+      "key": "morning_prayer",
+      "title": {
+        "urdu": "صبح کی دُعا",
+        "english": "Morning Prayer"
+      },
+      "content": {
+        "urdu": "اَے میرے خُدا۔ مَیں اَیمان رکھتا/ رکھتی ہوں کہ تُو یہاں حاضر و ناظر ہے مَیں تجھے سجدہ اَور اپنے سارے دِل سے پیار کرتا/ کرتی ہوں۔ تُو نے مجھے نیستی سے پیدا کیا اَور اپنے بیٹے کی موت سے چھڑاتا، اپنے رُوح القدس کے فضل سے پاک کیا۔ تُو نے گزری رات مجھ کو سلات سلامت رکھا اَور آج کا نیا دِن مجھے بخشا ہے۔ اِن اَور باقی تمام نعمتوں کے لیے جو تُو نے مجھے بخشی ہیں مَیں فروتنی سے تیرا شکر ادا کرتا/ کرتی ہوں۔ مَیں اپنے سب خیالات، باتیں، کام اَور دُکھ تیرے حضور پیش کرتا / کرتی ہوں۔ مجھے اپنا فضل بخش تاکہ مَیں تجھے ناراض نہ کروں بلکہ سب طرح سے آج تیری پاک مرضی بجا لاؤں۔ آمین",
+        "english": "O my God, I believe that you are present here. I adore you and love you with my whole heart. You have created me, saved me through the death and resurrection of your Son, and sanctified me through the grace of the Holy Spirit. You take care of me, and have granted me this new day. I thank you for these and all your gifts. Grant me your grace that I may not offend you, but may carry out your holy will throughout this day. Amen."
+      }
+    },
+    {
+      "id": 3,
+      "key": "our_father",
+      "title": {
+        "urdu": "دُعائے ربانی",
+        "english": "Our Father"
+      },
+      "content": {
+        "urdu": "اَے ہمارے باپ! تُو جو آسمان پر ہَے۔ تیرا نام پاک مانا جائے، تیری بادشاہی آئے۔ تیری مرضی جیسے آسمان پر پوری ہوتی ہَے، زمین پر بھی ہو۔ ہمارے روزینہ کی روٹی آج ہمیں دے اَور جس طرح ہم اپنے قرض داروں کو بخشتے ہیں تُو ہمارے قرض ہمیں بخش۔ ہمیں آزمائش میں نہ پڑنے دے، بلکہ بُرائی سے بچا۔ آمین",
+        "english": "Our Father, Who art in heaven, Hallowed be Thy Name. Thy Kingdom come. Thy Will be done, on earth as it is in Heaven. Give us this day our daily bread. And forgive us our trespasses, as we forgive those who trespass against us. And lead us not into temptation, but deliver us from evil. Amen."
+      }
+    },
+    {
+      "id": 4,
+      "key": "hail_mary",
+      "title": {
+        "urdu": "فرشتے کا سلام",
+        "english": "Hail Mary"
+      },
+      "content": {
+        "urdu": "سلام اَے مریم، پُر فضل! خُداوند تیرے ساتھ ہَے۔ تُو عورتوں میں مُبارک ہَے اَور مُبارک ہَے تیرے پیٹ کا پھل یسُوع۔ اَے مقدسہ مریم خُدا کی ماں! ہم گناہ گاروں کے واسطے دُعا کر۔ اَب اَور ہماری موت کے وقت۔ آمین",
+        "english": "Hail Mary, Full of Grace, The Lord is with thee. Blessed art thou among women, and blessed is the fruit of thy womb, Jesus. Holy Mary, Mother of God, pray for us sinners now, and at the hour of death. Amen."
+      }
+    },
+    {
+      "id": 5,
+      "key": "",
+      "title": {
+        "urdu": "رسولوں کا عقیدہ",
+        "english": "The Apostles' Creed"
+      },
+      "content": {
+        "urdu": "مَیں ایمان رکھتا / رکھتی ہوں خُدا قادرِ مطلق باپ پر، جو آسمان اَور زمین کا خالق ہَے اَور یسُوع مسیح پر، جو اُس کا اکلوتا بیٹا اَور ہمارا خُداوند ہَے۔ وہ رُوح القدس کی قدرت سے پیٹ میں پڑا۔ کنواری مریم سے پیدا ہوا۔ اُس نے پنطوس پیلاطوس کے عہد میں دُکھ اُٹھایا، مصلوب ہوا، مرگیا اَور دفن کیا گیا۔ برزخ میں اُترا، تیسرے روز مُردوں میں سے جی اُٹھا۔ آسمان پر چڑھ گیا، خُدا قادرِ مطلق باپ کے دہنے ہاتھ بیٹھا ہَے۔ وہاں سے وہ زندوں اَور مُردوں کی عدالت کے لیے آنے والا ہے۔ مَیں اِیمان رکھتا / رکھتی ہوں رُوح القدس پر، پاک کیتھولک کلیسیا، مقدسوں کی شراکت، گیاہوں کی معافی، جسم کے جی اُٹھنے اَور ہمیشہ کی زندگی پر۔ آمین",
+        "english": "I believe in God, the Father almighty, Creator of heaven and earth, and in Jesus Christ, his only Son, our Lord, who was conceived by the Holy Spirit, born of the Virgin Mary, suffered under Pontius Pilate, was crucified, died and was buried; he descended into hell; on the third day he rose again from the dead; he ascended into heaven, and is seated at the right hand of God the Father almighty; from there he will come to judge the living and the dead. I believe in the Holy Spirit, the holy catholic Church, the communion of saints, the forgiveness of sins, the resurrection of the body, and life everlasting. Amen."
+      }
+    },
+    {
+      "id": 6,
+      "key": "",
+      "title": {
+        "urdu": "خُدا کے دس حُکم",
+        "english": "The Ten Commandments"
+      },
+      "content": {
+        "urdu": "1- ایک خُدا کو ماننا اَور فقط اُسی کی بندگی اَور اُسی کو سجدہ کرنا۔\n2- خُداوند کا نام بے فائدہ نہ لینا۔\n3- خُداوند کا دِن پاک رکھنا اَور اُس میں بدنی محنت کا کام نہ کرنا۔\n4- ماں باپ کی عزت کرنا۔\n5- خون نہ کرنا۔\n6- زنا نہ کرنا۔\n7- چوری نہ کرنا۔\n8- جھوٹی گواہی نہ دینا۔\n9- بیگانی عورت کی آرزو نہ کرنا۔\n10- بیگانے مال کا لالچ نہ کرنا۔\n",
+        "english": "1. I am the Lord your God: You shall not have strange gods before me.\n2. You shall not take the name of the Lord, your God, in vain.\n3. Remember to keep holy the Lord's Day.\n4. Honor your father and your mother.\n5. You shall not kill.\n6. You shall not commit adultery.\n7. You shall not steal.\n8. You shall not bear false witness against your neighbor.\n9. You shall not covet your neighbor's wife.\n10. You shall not covet your neighbor's goods.\n"
+      }
+    },
+    {
+      "id": 7,
+      "key": "",
+      "title": {
+        "urdu": "سات ساکرامنٹ",
+        "english": "The Seven Sacraments"
+      },
+      "content": {
+        "urdu": "1- بپتسمہ\t2- استحکام\t3- پاکشراکت\t4- اِعتراف\n5- بیماروں کی مسَح\t6- پاک خدمت\t7- نکاح",
+        "english": "1. Baptism\t2. Confirmation\t3. Holy Eucharist\t4. Penance\n5. Anointing of the Sick\t6. Holy Orders\t7. Matrimony"
+      }
+    },
+    {
+      "id": 8,
+      "key": "",
+      "title": {
+        "urdu": "کلیسیا کے پانج حُکم",
+        "english": "The Commandments of the Catholic Church"
+      },
+      "content": {
+        "urdu": "1- اِتوار اَور ضروری عیدوں میں اَدب سے پاک ماس کی قربانی میں حاضر ہونا اَور بدنی محنت کا کام نہ کرنا۔\n2- مقررہ دِنوں میں پرہیز کرنا اَور روزہ رکھنا۔\n3- ہر برس میں کم از کم ایک دفعہ اپنے گناہوں کا اِعتراف کرنا اَور پاشکا کے وقت پاک شراکت لینا۔\n4- منع کیے ہوئے وقتوں اَور رشتوں میں شادی نہ کرنا۔\n5- پانے فادر صاحبان کی ضرورتوں میں مدد کرنا۔\n",
+        "english": "1. To hear Mass on Sundays and Holydays of Obligation.\n2. To fast and abstain on the days appointed.\n3. To confess at least once a year and To recieve the Holy Eucharist during Easter time.\n4. Not to marry persons who are not Catholics, or who are related to us within three degrees of kindred, nor privately without witnesses, nor to solemnize marriage at forbidden times.\n"
+      }
+    },
+    {
+      "id": 9,
+      "key": "",
+      "title": {
+        "urdu": "اِیمان کا عمل",
+        "english": "The Act of Faith"
+      },
+      "content": {
+        "urdu": "اَے میرے خُدا۔ مَیں نہایت ٘مضبوطی سے اُن سب پر جو تُو نے پاک کاتھولک کلیسیا کی معرفت ماننے کے لیے ظاہر کیا ہَے، اِیمان رکھتا / رکھتی ہوں کیونکہ تُو خود صداقت ہَے جو نہ فریب دے سکتا ہے اَور نہ فریب کھا سکتا ہَے۔ اِسی اِیمان میں مَیں جینا اَور مرنا چاہتا / چاہتی ہوں۔ آمین",
+        "english": "O my God, I firmly believe that you are one God in three Divine Persons, Father, Son and Holy Spirit; I believe that your Divine Son became man, and died for our sins, and that he will come again to judge the living and the dead. I believe these and all the truths, which the holy Catholic Church teaches, because you have revealed them, who can neither deceive nor be deceived."
+      }
+    },
+    {
+      "id": 10,
+      "key": "",
+      "title": {
+        "urdu": "اُمید کا عمل",
+        "english": "The Act of Hope"
+      },
+      "content": {
+        "urdu": "اَے میرے خُدا۔ مَیں نہایت استقلال سے اُمید رکھتا / رکھتی ہوں کہ اپنے گناہوں کی معافی اَور ایمانداری سے اِس زندگی میں تیری خدمت کرنے کے لیے فضل اَور دوسری میں دائمی خوشی، خُداوند یسوع مسیح کے وسیلے پاؤں، کیوںکہ تُو ہم پر بے حد مہربان اَور قادرِ مطلق اَور وعدوں کا سچا ہَے۔ اِسی اُمید میں مَیں جینا اَور مرنا چاہتا / چاہتی ہوں۔ آمین",
+        "english": "O my God, relying on your almighty power and infinite mercy and promises, I hope to obtain pardon of my sins, the help of your grace, and life everlasting, through the merits of Jesus Christ, my Lord and Redeemer. "
+      }
+    },
+    {
+      "id": 11,
+      "key": "",
+      "title": {
+        "urdu": "پیار کا عمل",
+        "english": "The Act of Love"
+      },
+      "content": {
+        "urdu": "اَے میرے خُدا۔ مَیں تجھے سارے دِل و جان سے اَور سب چیزوں سے زیادہ پیار کرتا / کرتی ہوں کیونکہ تُو بے حد مہربان اَور کام ہَے اےور تیرے پیار کی خاطر مَیں اپنے پڑوسی کو اپنی مانند پیار کرتا / کرتی ہوں۔ اِسی پیار میں مَیں جینا اَور مرنا چاہتا / چاہتی ہوں۔ آمین",
+        "english": "O my God, I love you above all things, with my whole heart and soul, because you are all good and worthy of all my love. I love my neighbor as myself for the love of you. I forgive all who have injured me, and I ask pardon of all whom I have injured."
+      }
+    },
+    {
+      "id": 12,
+      "key": "",
+      "title": {
+        "urdu": "توبہ کا عمل",
+        "english": "The Act of Repentance"
+      },
+      "content": {
+        "urdu": "اَے میرے خُدا۔ مَیں اپنے سارے دِل سے پشیمان ہوں کہ مَیں نے تیری بے حد نیکی اَور بزرگی کے خلاف گناہ کیا ہَے۔ مَیں اپنے سب گناہوں سے نفرت کرتا / کرتی ہوں کیونکہ وہ تجھ کر ناخوش کرتے ہیں۔ اَے میرے خُدا۔ جو سب پیار کے لائق ہَے مَیں مضبوطی سے اِرادہ کرتا / کرتی ہوں کہ تیرے پاک فضل کی مدد سے پھر ہر گز تجھے ناراض نہیں کروں گا / گی بلکہ گناہوں کی راہوں سے کِنارہ کروں گا / گی۔ آمین",
+        "english": "O my God, I am heartily sorry for having offended you, and I detest all my sins, because they offend you, my God, who are all good and deserving of all my love. I firmly resolve, with the help of your grace, to repent for my sins, to do penance and to amend my life. Amen."
+      }
+    },
+    {
+      "id": 13,
+      "key": "",
+      "title": {
+        "urdu": "شام کی دُعا",
+        "english": "The Prayer of the Night"
+      },
+      "content": {
+        "urdu": "اَے میرے خُدا! مَیں ایمان رکھتا / رکھتی ہوں کہ تُو یہاں حاضر و ناظر ہَے۔ مَیں تجھے سجدہ اَور اپنے سارے دِل سے پیار کرتا / کرتی ہوں۔ مَیں تیرا شکر کرتا / کرتی ہوں اُن سب تعمتوں کے لیے جو مَیں نے ہمیشہ اَور خاص کر آج تجھ سے پائی ہیں۔ اَے میرے خُدا! مجھے روشنی بخش تاکہ آج کے میرے گناہ مجھے معلوں ہو جائیں اَور مجھے فضل دے تاکہ مَیں اُن سے سچی توبہ کروں۔ آمین",
+        "english": "I adore you, my God and I love you with all my heart. I thank you for having created me, made me a Christian, and kept me this day. Forgive me my failings and sins and accept whatever good I may have done. Take care of me while I sleep and deliver me from all danger. May your grace be always with me and with all my dear ones. Amen."
+      }
+    },
+    {
+      "id": 14,
+      "key": "glory_be",
+      "title": {
+        "urdu": "خُدا کی تمجید",
+        "english": "The Glory Be"
+      },
+      "content": {
+        "urdu": "جالام باپ اَور بیٹے اَور رُوح القدس کا ہو۔\nجیسا کہ ابتدا میں تھا، اَب ہَے اَور ہمیشہ ہوگا۔ آمین",
+        "english": "Glory be to the Father, and to the Son, and to the Holy Spirit.\nAs it was in the beginning, is now, and ever shall be, world without end. Amen."
+      }
+    }
+  ]
+}
