@@ -4,29 +4,34 @@
   "sections": {
     "urdu": [
       {
-        "title": "",
+        "title": "بونے والے کی تمثِیل",
         "start": 1,
-        "end": 12
+        "end": 23
       },
       {
-        "title": "",
-        "start": 13,
-        "end": 17
+        "title": "زَوَان کی تمثِیل",
+        "start": 24,
+        "end": 30
       },
       {
-        "title": "",
-        "start": 13,
-        "end": 17
+        "title": "رائی کے دانے کی تمثِیل",
+        "start": 31,
+        "end": 32
       },
       {
-        "title": "",
-        "start": 13,
-        "end": 17
+        "title": "خمیر کی تمثِیل",
+        "start": 33,
+        "end": 43
       },
       {
-        "title": "",
-        "start": 13,
-        "end": 17
+        "title": "مخفی خزانہ۔ موتی اَور مہاجال",
+        "start": 44,
+        "end": 52
+      },
+      {
+        "title": "یسُوؔع اپنے وطن میں",
+        "start": 53,
+        "end": 58
       }
     ],
     "english": [
@@ -90,292 +95,292 @@
   "verses": [
     {
       "verse": 1,
-      "urdu": "",
+      "urdu": "اُسی روز یسُوؔع گھر سے نِکل کر جِھیل کے کِنارے جا بیٹھاO̲",
       "english": "That same day Jesus went out of the house and sat beside the sea. "
     },
     {
       "verse": 2,
-      "urdu": "",
+      "urdu": "اَور اُس کے پاس ایک بڑا ہجُوم جمع ہو گیا وہ ایک کشتی پر چڑھ بیٹھا۔ اَور سارا ہجُوم کِنارے پر کھڑا رہاO̲",
       "english": "Such great crowds gathered around him that he got into a boat and sat there, while the whole crowd stood on the beach. "
     },
     {
       "verse": 3,
-      "urdu": "",
+      "urdu": "اَور وہ اُن سے بہُت سی باتیں تمثِیلوں میں کہنے لگا کہ۔\nSP\tEPدیکھو! بونے والا بِیج بونے نِکلاO̲",
       "english": "And he told them many things in parables, saying: “Listen! A sower went out to sow. "
     },
     {
       "verse": 4,
-      "urdu": "",
+      "urdu": "اَور بوتے وقت کُچھ راہ کے کِنارے گِرا۔ اَور پرندوں نے آ کر اُسے چُگ لِیاO̲",
       "english": "And as he sowed, some seeds fell on the path, and the birds came and ate them up. "
     },
     {
       "verse": 5,
-      "urdu": "",
+      "urdu": "اَور کُچھ پتّھریلی زمین پر گِرا۔ جہاں اُسے بہُت مِٹّی نہ مِلی۔ اَور گہری مِٹّی نہ مِلنے کے سبب سے جلد اُگاO̲",
       "english": "Other seeds fell on rocky ground, where they did not have much soil, and they sprang up quickly, since they had no depth of soil. "
     },
     {
       "verse": 6,
-      "urdu": "",
+      "urdu": "لیکن جب سُورج نِکلا تو وہ جَل گیا اَور جَڑ نہ رکھنے کے سبب سے سُوکھ گیاO̲",
       "english": "But when the sun rose, they were scorched; and since they had no root, they withered away. "
     },
     {
       "verse": 7,
-      "urdu": "",
+      "urdu": "اَور کُچھ خاردار جھاڑیوں میں گِرا۔ اَور خاردار جھاڑیوں نے بڑھ کر اُسے دَبا لِیاO̲",
       "english": "Other seeds fell among thorns, and the thorns grew up and choked them. "
     },
     {
       "verse": 8,
-      "urdu": "",
+      "urdu": "اَور کُچھ اچھّی زمین میں گِرا۔ اَور پَھل لایا۔ کُچھ سَو گُنا کُچھ ساٹھ گُنا کُچھ تیس گُناO̲",
       "english": "Other seeds fell on good soil and brought forth grain, some a hundredfold, some sixty, some thirty. "
     },
     {
       "verse": 9,
-      "urdu": "",
+      "urdu": "جس کے کان ہوں وہ سُن لےO̲\n",
       "english": "Let anyone with ears listen!”"
     },
     {
       "verse": 10,
-      "urdu": "",
+      "urdu": "SP\tEPتب شاگِردوں نے پاس آکر اُس سے کہا۔ تُو اُن سے تمثِیلوں میں کیوں کلام کرتا ہے؟O̲",
       "english": "Then the disciples came and asked him, “Why do you speak to them in parables?” "
     },
     {
       "verse": 11,
-      "urdu": "",
+      "urdu": "اُس نے جواب میں اُن سے کہا کہ آسمان کی بادشاہی کے بھیدوں کی معرفت تُمہیں بخشی گئی ہَے لیکن اُنہیں نہیں بخشی گئیO̲",
       "english": "He answered, “To you it has been given to know the secrets of the kingdom of heaven, but to them it has not been given. "
     },
     {
       "verse": 12,
-      "urdu": "",
+      "urdu": "کیونکہ جس کے پاس ہَے۔ اُسے دِیا جائے گا۔ اَور اُس کے پاس افراط سے ہوگا مگر جس کے پاس نہیں ہَے اُس سے وہ بھی لے لِیا جائے گا جو اُس کے پاس ہَےO̲",
       "english": "For to those who have, more will be given, and they will have an abundance; but from those who have nothing, even what they have will be taken away. "
     },
     {
       "verse": 13,
-      "urdu": "",
+      "urdu": "مَیں اُن سے اِس لئے تمثِیلوں میں بات کرتا ہُوں کیونکہ وہ دیکھتے ہُوئے نہیں دیکھتے اَور سُنتے ہُوئے نہیں سُنتے اَور نہیں سمجھتےO̲",
       "english": "The reason I speak to them in parables is that ‘seeing they do not perceive, and hearing they do not listen, nor do they understand.’ "
     },
     {
       "verse": 14,
-      "urdu": "",
+      "urdu": "اَور اُن ہی میں اِشؔعیا کی نُبوّت پُوری ہوتی ہَے۔ کہ\nSPتُم سُنتے ہُوئے سُنو گے پر ہر گز نہ سمجھو گے۔\nاَور دیکھتے ہُوئے دیکھو گے پر ہر گز نہ پہچانو گےO̲EP\n",
       "english": "With them indeed is fulfilled the prophecy of Isaiah that says:\n\nSP‘You will indeed listen, but never understand,\n\tand you will indeed look, but never perceive.EP\n"
     },
     {
       "verse": 15,
-      "urdu": "",
+      "urdu": "\nSPکیونکہ اِس قوم کا دِل شحیم ہو گیا۔\nاَور وہ کانوں سے اُونچا سُنتے ہَیں۔\nاَور اپنی آنکھوں کو بند کر رکھّا ہَے۔\nاِیسا نہ ہو کہ آنکھوں سے پہچانیں۔\nیا کانوں سے سُنیں۔\nاَور دِل سے سمجھ کر رجُوع لائیں۔\nاَور مَیں اُنہیں شِفا بخشُوںO̲EP\n",
       "english": "\nSPFor this people’s heart has grown dull,\n\tand their ears are hard of hearing,\n\t\tand they have shut their eyes;\n\t\tso that they might not look with their eyes,\n\tand listen with their ears,\nand understand with their heart and turn—\n\tand I would heal them.’EP\n\n"
     },
     {
       "verse": 16,
-      "urdu": "",
+      "urdu": "لیکن مُبارَک ہَیں تُمہاری آنکھیں اِس لئے کہ وہ دیکھتی ہَیں اَور مُبارَک ہَیں ت٘مہارے کان اِس لئے کہ وہ سُنتے ہَیںO̲",
       "english": "But blessed are your eyes, for they see, and your ears, for they hear. "
     },
     {
       "verse": 17,
-      "urdu": "",
+      "urdu": "کیونکہ مَیں تُم سے سچ کہتا ہُوں کہ بہُت سے نبی اَور راستباز آرزُو مند تھے کہ جو تُم دیکھتے ہو دیکھیں پر نہ دیکھا اَور جو تُم سُنتے ہو سُنیں پر نہ سُناO̲\n",
       "english": "Truly I tell you, many prophets and righteous people longed to see what you see, but did not see it, and to hear what you hear, but did not hear it."
     },
     {
       "verse": 18,
-      "urdu": "",
+      "urdu": "SP\tEPپس تُم بونے والے کی تمثِیل کا بیان سُنوO̲",
       "english": "“Hear then the parable of the sower. "
     },
     {
       "verse": 19,
-      "urdu": "",
+      "urdu": "جب کوئی بادشاہی کا کلام سُنتا ہَے۔ اَور سمجھتا نہیں۔ تو شریر آتا اَور جو کُچھ اُس کے دِل میں بویا گیا تھا لے جاتا ہَے یہ وہ ہَے جو راہ کے کِنارے بویا گیا تھاO̲",
       "english": "When anyone hears the word of the kingdom and does not understand it, the evil one comes and snatches away what is sown in the heart; this is what was sown on the path. "
     },
     {
       "verse": 20,
-      "urdu": "",
+      "urdu": "پتّھریلی زمین پر بویا گیا وہ ہَے جو کلام سُنتا اَور فوراََ خُوشی سے قبُول کر لیتا ہَےO̲",
       "english": "As for what was sown on rocky ground, this is the one who hears the word and immediately receives it with joy; "
     },
     {
       "verse": 21,
-      "urdu": "",
+      "urdu": "لیکن اپنے اندر جڑ نہیں رکھتا۔ بلکہ عارضی ہَے اَور جب کلام کے سبب سے مُصیبت یا ظُلم برپا ہوتا ہَے تو وہ فوراََ ٹھوکر کھاتا ہَےO̲",
       "english": "yet such a person has no root, but endures only for a while, and when trouble or persecution arises on account of the word, that person immediately falls away. "
     },
     {
       "verse": 22,
-      "urdu": "",
+      "urdu": "اَور جو خاردار جھاڑیوں میں بویا گیا یہ وہ ہَے جو کلام کو سُنتا ہے پر دُنیا کا فِکر اَور دولت کا فریب کلام کو دَبا دیتے ہَیں اَور وہ بے پَھل رہ جاتا ہَےO̲",
       "english": "As for what was sown among thorns, this is the one who hears the word, but the cares of the world and the lure of wealth choke the word, and it yields nothing. "
     },
     {
       "verse": 23,
-      "urdu": "",
+      "urdu": "لیکن جو اچھّی زمین میں بویا گیا یہ وہ ہَے جو کلام کو سُنتا اَور سمجھتا ہَے اَور پَھل بھی لاتا ہَے۔ کوئی سَو گُنا پَھل دیتا ہَے۔ کوئی ساٹھ گُنا کوئی تیس گُناO̲\n",
       "english": "But as for what was sown on good soil, this is the one who hears the word and understands it, who indeed bears fruit and yields, in one case a hundredfold, in another sixty, and in another thirty.”"
     },
     {
       "verse": 24,
-      "urdu": "",
+      "urdu": "اُس نے ایک اَور تمثِیل اُن کے سامنے پیش کے کے کہا۔ کہ آسمان کی بادشاہی اُس آدمی کی ماندد ہَے جس نے اچھّا بِیج اپنے کھیت میں بویاO̲",
       "english": "He put before them another parable: “The kingdom of heaven may be compared to someone who sowed good seed in his field; "
     },
     {
       "verse": 25,
-      "urdu": "",
+      "urdu": "لیکن جب لوگ سو گئے تو اُس کا دُشمن آیا اَور گیہُوں میں زَوَان بو کر چلا گیاO̲",
       "english": "but while everybody was asleep, an enemy came and sowed weeds among the wheat, and then went away. "
     },
     {
       "verse": 26,
-      "urdu": "",
+      "urdu": "جس وقت پتّے لگے اَور بالیں نِکلیں تب زَوَان بھی ظاہر ہُؤاO̲",
       "english": "So when the plants came up and bore grain, then the weeds appeared as well. "
     },
     {
       "verse": 27,
-      "urdu": "",
+      "urdu": "تو گھر کے مالِک کے غُلاموں نے آکر اُس سے کہا۔ اَے صاحِب کیا تُو نے اپنے کھیت میں اچھّا بِیج نہ بویا تھا؟ پِھر زَوَان کہاں سے آ گیا؟O̲",
       "english": "And the slaves of the householder came and said to him, ‘Master, did you not sow good seed in your field? Where, then, did these weeds come from?’ "
     },
     {
       "verse": 28,
-      "urdu": "",
+      "urdu": "اُس سے اُن سے کہا۔ کِسی دُشمن نے یہ کِیا ہَے۔ تب غُلاموں نے اُس سے کہا کہ تُو چاہتا ہَے کہ ہم جا کر اُسے جمع کریں؟O̲",
       "english": "He answered, ‘An enemy has done this.’ The slaves said to him, ‘Then do you want us to go and gather them?’ "
     },
     {
       "verse": 29,
-      "urdu": "",
+      "urdu": "مگر اُس نے کہا نہیں ایسا نہ ہو کہ جب تُم زَوَان کو جمع کرو تو اُس کے ساتھ گیہُوں بھی اُکھاڑ لوO̲",
       "english": "But he replied, ‘No; for in gathering the weeds you would uproot the wheat along with them. "
     },
     {
       "verse": 30,
-      "urdu": "",
+      "urdu": "کٹائی کے دِن تک دونوں کو اِکٹھا بڑھنے دو۔ کہ مَیں کٹائی کے وقت کاٹنے والوں سے کہہ دُوں گا۔ کہ پہلے زَوَان جمع کر لو اَور جَلانے کے واسطے اُس کے گٹّھے باندھ لو مگر گیہُوں میرے کھتّے میں جمع کر دوO̲",
       "english": "Let both of them grow together until the harvest; and at harvest time I will tell the reapers, Collect the weeds first and bind them in bundles to be burned, but gather the wheat into my barn.’”"
     },
     {
       "verse": 31,
-      "urdu": "",
+      "urdu": "اُس نے ایک اَور تمثِیل اُن کے سامنے پیش کر کے کہا کہ آسمان کی بادشاہی رائی کے دانے کی مانند ہَے۔ جِسے کِسی آدمنی نے لے کر اپنے کھیت میں بو دِیاO̲",
       "english": "He put before them another parable: “The kingdom of heaven is like a mustard seed that someone took and sowed in his field; "
     },
     {
       "verse": 32,
-      "urdu": "",
+      "urdu": "وہ سب بیجوں سے چھوٹا تو ہَے۔ لیکن جب بڑھ جاتا ہَے تو سب ترکاریوں سے بڑا اَور ایسا پودا ہو جاتا ہَے۔ کہ آسمان کے پرندے آکر اُس کی ڈالیوں پر بسیرا کرتے ہَیںO̲",
       "english": "it is the smallest of all the seeds, but when it has grown it is the greatest of shrubs and becomes a tree, so that the birds of the air come and make nests in its branches.”"
     },
     {
       "verse": 33,
-      "urdu": "",
+      "urdu": "اُس نے ایک اَور تمثِیل اُنہیں سُنائی۔ کہ آسمان کی بادشاہی اُس خمیر کی مانند ہَے۔ جِسے کِسی عورت نے لے کر تین سعا آٹے میں مِلا دِیا۔ یہاں تک کہ وہ سب خمیر ہو گیاO̲\n",
       "english": "He told them another parable: “The kingdom of heaven is like yeast that a woman took and mixed in with three measures of flour until all of it was leavened.”"
     },
     {
       "verse": 34,
-      "urdu": "",
+      "urdu": "SP\tEPیہ سب باتیں یسُوؔع نے ہجُوم سے تمثِیلوں میں کہیں اَور بِلا تمثِیل اُن سے نہ بالتا تھاO̲",
       "english": "Jesus told the crowds all these things in parables; without a parable he told them nothing. "
     },
     {
       "verse": 35,
-      "urdu": "",
+      "urdu": "تاکہ جو نبی کی معرفت کہا گیا تھا وہ پُورا ہو کہ\nSPمَیں تمثِیلوں کے لئے اپنا مُنہ کھولُوں گا۔\nمَیں بنائے عالم کے اسرار ظاہر کرُوں گاO̲EP\n",
       "english": "This was to fulfill what had been spoken through the prophet:\n\nSP“I will open my mouth to speak in parables;\n\tI will proclaim what has been hidden from the foundation of the world.”EP"
     },
     {
       "verse": 36,
-      "urdu": "",
+      "urdu": "SP\tEPتب وہ ہجُوم کے چھوڑ کر گھر میں گیا۔ اَور اُس کے شاگِردوں نے اُس کے پاس آکر کہا۔ کہ کھیت کے زَوَان کی تمثِیل ہمیں سمجھاO̲",
       "english": "Then he left the crowds and went into the house. And his disciples approached him, saying, “Explain to us the parable of the weeds of the field.” "
     },
     {
       "verse": 37,
-      "urdu": "",
+      "urdu": "تو اُس نے جَواب میں کہا۔ کہ اچھے بیج کا بونے والا اِبنِ اِنسان ہَےO̲",
       "english": "He answered, “The one who sows the good seed is the Son of Man; "
     },
     {
       "verse": 38,
-      "urdu": "",
+      "urdu": "اَور کھیت دُنیا ہَے۔ اَور اچھّا بیج بادشاہی کے فرزند ہَیں۔ اَور زَوَان بَدی کے فرزند ہَیںO̲",
       "english": "the field is the world, and the good seed are the children of the kingdom; the weeds are the children of the evil one, "
     },
     {
       "verse": 39,
-      "urdu": "",
+      "urdu": "اَور وہ دشمن جس نے اُسے بویا وہ شیطان ہَے۔ اَور کٹائی کا وقت دُنیا کا آخِر ہَے اَور کاٹنے والے فرِشتے ہَیںO̲",
       "english": "and the enemy who sowed them is the devil; the harvest is the end of the age, and the reapers are angels. "
     },
     {
       "verse": 40,
-      "urdu": "",
+      "urdu": "پس جس طرح زَوَان جمع کیا جاتا اَور آگ میں جَلایا جاتا ہَے۔ ایسا ہی دُنیا کے آخِر میں ہوگاO̲",
       "english": "Just as the weeds are collected and burned up with fire, so will it be at the end of the age. "
     },
     {
       "verse": 41,
-      "urdu": "",
+      "urdu": "اِبنِ اِنسان اپنے فرِشتوں کو بھیجے گا۔ اَور وہ سب ٹھوکر کھلانے والی چیزوں اَور بَدکاروں کو اُس کی بادشاہی میں سے جمع کریں گےO̲",
       "english": "The Son of Man will send his angels, and they will collect out of his kingdom all causes of sin and all evildoers, "
     },
     {
       "verse": 42,
-      "urdu": "",
+      "urdu": "اَور اُنہیں آگ کی بھٹّی میں ڈال دیں گے۔ وہاں رونا اَور دانتوں کا بجنا ہو گاO̲",
       "english": "and they will throw them into the furnace of fire, where there will be weeping and gnashing of teeth. "
     },
     {
       "verse": 43,
-      "urdu": "",
+      "urdu": "تب راستباز اپنے باپ کی بادشاہی میں سُورج کی مانند چمکیں گے۔ جس کے کان ہوں وہ سُن لےO̲",
       "english": "Then the righteous will shine like the sun in the kingdom of their Father. Let anyone with ears listen!"
     },
     {
       "verse": 44,
-      "urdu": "",
+      "urdu": "آسمان کی بادشاہی اُس خزانے کی مانند ہَے۔ جو کھیت میں چُھپا ہُوا ہَے جِسے کوئی آدمی پاکر چُھپا دیتا ہَے اَور خُوشی کے مارے جا کر اپنا سب کُچھ بیچتا اَور اُس کھیت کو مول لے لیتا ہَےO̲\n",
       "english": "“The kingdom of heaven is like treasure hidden in a field, which someone found and hid; then in his joy he goes and sells all that he has and buys that field.\n\n"
     },
     {
       "verse": 45,
-      "urdu": "",
+      "urdu": "SP\tEPپَھر آسمان کی بادشاہی اُس سوداگر کی مانند ہَے جو عُمدہ موتیوں کی تلاش میں ہَےO̲",
       "english": "“Again, the kingdom of heaven is like a merchant in search of fine pearls; "
     },
     {
       "verse": 46,
-      "urdu": "",
+      "urdu": "جب وہ ایک بیش قیمت موتی پاتا ہَے تو جا کر اپنا سب کُچھ بیچتا اَور اُسے مول لے لیتا ہَےO̲\n",
       "english": "on finding one pearl of great value, he went and sold all that he had and bought it.\n\n"
     },
     {
       "verse": 47,
-      "urdu": "",
+      "urdu": "SP\tEPپِھر آسمان کی بادشاہی اُس مہاجال کی مانند ہَے جو جِھیل میں ڈالا جاتا اَور ہر طرح کی مچھلیاں سمیٹ لیتا ہَےO̲",
       "english": "“Again, the kingdom of heaven is like a net that was thrown into the sea and caught fish of every kind; "
     },
     {
       "verse": 48,
-      "urdu": "",
+      "urdu": "جب وہ بھر گیا تو اُسے کھینچ لاتے ہَیں۔ اَور کِنارے پر بیٹھ کر اچھّی اچھّی برتنوں میں جمع کر لیتے اَور جا کام کی نہ ہوں پھینک دیتے ہَیںO̲",
       "english": "when it was full, they drew it ashore, sat down, and put the good into baskets but threw out the bad. "
     },
     {
       "verse": 49,
-      "urdu": "",
+      "urdu": "دُنیا کے آخِر میں ایسا ہی ہوگا۔ فرِشتے نِکلیں گے اَور راستبازوں کے درمیان سے بَدکاروں کو جُدا کریں گےO̲",
       "english": "So it will be at the end of the age. The angels will come out and separate the evil from the righteous "
     },
     {
       "verse": 50,
-      "urdu": "",
+      "urdu": "اَور اُنہیں آگ کی بھٹّی میں ڈال دیں گے۔ وہاں رونا اَور دانتوں کا بجنا ہوگاO̲",
       "english": "and throw them into the furnace of fire, where there will be weeping and gnashing of teeth."
     },
     {
       "verse": 51,
-      "urdu": "",
+      "urdu": "کیا تُم یہ سب کُچھ سمجھ گئے ہو؟ اُنہوں نے اُس سے کہا ہاںO̲",
       "english": "“Have you understood all this?” They answered, “Yes.” "
     },
     {
       "verse": 52,
-      "urdu": "",
+      "urdu": "تب اُس نے اُن سے کہا اِس لئے ہر ایک فقیہہ جو آسمان کی بادشاہی کی تعلیم پا چُکا۔ گھر کے اُس مالِک کی مانند ہَے۔ جو اپنے خزانے سے نئی اَور پُرانی چیزیں نِکالتا ہَےO̲",
       "english": "And he said to them, “Therefore every scribe who has been trained for the kingdom of heaven is like the master of a household who brings out of his treasure what is new and what is old.” "
     },
     {
       "verse": 53,
-      "urdu": "",
+      "urdu": "اَور ایسا ہُؤا کہ جب یسُوؔع یہ تمثِیلیں ختم کر چُکا۔ تو وہاں سے روانہ ہُواO̲",
       "english": "When Jesus had finished these parables, he left that place."
     },
     {
       "verse": 54,
-      "urdu": "",
+      "urdu": "اَور اپنے وطن میں آ کر اُس نے اُن عِبادَت خانے میں اُنہیں ایسی تعلیم دی کہ وہ سب حیران ہُوئے اَور کہنے لگے کہ ایسی حِکمَت اَور مُعجزے اُس نے کہاں سے پائے؟O̲",
       "english": "He came to his hometown and began to teach the people in their synagogue, so that they were astounded and said, “Where did this man get this wisdom and these deeds of power? "
     },
     {
       "verse": 55,
-      "urdu": "",
+      "urdu": "کیا یہ بڑھئی کا بیٹا نہیں؟ اَور اُس کی ماں کام نام مریم اَور اِس کے بھائی یَعقُوب اَور یُوسف اَور شمعُون اَور یہُودہ نہیں؟O̲",
       "english": "Is not this the carpenter’s son? Is not his mother called Mary? And are not his brothers James and Joseph and Simon and Judas? "
     },
     {
       "verse": 56,
-      "urdu": "",
+      "urdu": "اَور کیا اُس کی سب نہنیں ہمارے ہاں نہیں؟ پِھر یہ سب کُچھ اُس نے کہاں سے پایا؟O̲",
       "english": "And are not all his sisters with us? Where then did this man get all this?” "
     },
     {
       "verse": 57,
-      "urdu": "",
+      "urdu": "اَور اُنہوں نے اِس کے سبب سے ٹھوکر کھائی۔ لیکن یسُوؔع نے اُن سے کہا۔ کہ نبی اپنے وطن اَور اپنے گھر کے سِوا اَور کہیں بے عِزّت نہیں ہوتاO̲",
       "english": "And they took offense at him. But Jesus said to them, “Prophets are not without honor except in their own country and in their own house.” "
     },
     {
       "verse": 58,
-      "urdu": "",
+      "urdu": "اَور اُس نے اُن کی بے اِعتقادی کے سبب سے وہاں بہُت مُعجزے نہ کِئے +",
       "english": "And he did not do many deeds of power there, because of their unbelief."
     }
   ]
