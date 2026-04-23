@@ -4,7 +4,7 @@ export default function Footer() {
   const year = new Date().getFullYear()
 
   return (
-    <footer className="relative border-t border-border bg-background">
+    <footer className="relative overflow-x-clip border-t border-border bg-background">
       <div className="pointer-events-none absolute inset-0 opacity-70">
         <div className="absolute inset-0 bg-gradient-to-b from-background via-background to-muted/40" />
         <div className="absolute -top-24 left-1/2 h-48 w-[60rem] -translate-x-1/2 rounded-full bg-gradient-to-r from-cyan-500/10 via-indigo-500/10 to-fuchsia-500/10 blur-3xl" />
