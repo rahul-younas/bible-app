@@ -88,7 +88,7 @@ export default function Navbar() {
 
             <Link href="/" className="flex items-center gap-3 min-w-0">
               <Image
-                src="/Logo.png"
+                src="/logo.png"
                 alt="App Logo"
                 width={24}
                 height={24}
@@ -164,7 +164,7 @@ export default function Navbar() {
             <div className="flex items-center justify-between border-b border-border px-4 py-4">
               <div className="flex items-center gap-3 min-w-0">
                 <Image
-                  src="/Logo.png"
+                  src="/logo.png"
                   alt="App Logo"
                   width={28}
                   height={28}
