@@ -2,6 +2,8 @@ import './globals.css';
 import { Noto_Nastaliq_Urdu, Inter } from 'next/font/google';
 import { ThemeProvider } from '@/components/theme-provider';
 import Breadcrumbs from '@/components/Breadcrumbs';
+import Navbar from '@/components/Navbar';
+import Footer from '@/components/Footer';
 
 const urduFont = Noto_Nastaliq_Urdu({
   subsets: ['arabic'],
@@ -31,9 +33,10 @@ export default function RootLayout({ children }) {
           enableSystem
           disableTransitionOnChange
         >
-          {/* <Navbar /> */}
+          <Navbar />
           <Breadcrumbs />
           {children}
+          <Footer />
         </ThemeProvider>
       </body>
     </html>

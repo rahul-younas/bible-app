@@ -30,7 +30,7 @@ export default function Breadcrumbs() {
     items.push({ href, label: formatLabel(segments[i]) })
   }
   return (
-    <div className="flex items-start gap-3 mx-auto w-full px-2 md:px-5 max-w-6xl py-2 justify-between sticky top-0 z-50 bg-gradient-to-b from-[rgb(var(--background)/0.8)] via-[rgb(var(--background)/0.5)] to-transparent backdrop-blur-md shadow-md ">
+    <div className="flex items-start gap-3 mx-auto w-full px-10 max-w-6xl py-2 justify-between sticky top-0 z-50 bg-gradient-to-b from-[rgb(var(--background)/0.8)] via-[rgb(var(--background)/0.5)] to-transparent backdrop-blur-md">
       <nav aria-label="Breadcrumb" className="min-w-0 flex-1">
         <ol className="flex flex-wrap items-center gap-x-1 gap-y-1.5 text-foreground text-[12px] md:text-base">
           {items.map((item, idx) => {
@@ -50,9 +50,6 @@ export default function Breadcrumbs() {
           })}
         </ol>
       </nav>
-      <div className="shrink-0 pt-0.5">
-        <ModeToggle />
-      </div>
     </div>
   )
 }

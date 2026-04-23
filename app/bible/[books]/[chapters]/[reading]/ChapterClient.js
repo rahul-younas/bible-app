@@ -211,7 +211,7 @@ export default function ChapterClient({ chapterData }) {
       <div className="flex flex-col gap-3">
         
 
-        <div className="flex w-full rounded-sm items-center justify-between border-b-3 px-3 pb-3">
+        <div className="flex w-full rounded-sm items-end justify-between border-b-3 px-3 pb-3">
         
           <label className="flex w-44 shrink-0 items-center gap-2 text-sm font-medium text-foreground">
             Lang
@@ -231,7 +231,7 @@ export default function ChapterClient({ chapterData }) {
               </div>
             </div>
           </label>
-          <h4 className="text-sm bg-background text-foreground md:text-xl font-semibold border-2 py-1 w-3/4 mx-auto rounded-md text-center mb-2 capitalize">
+          <h4 className="text-sm bg-background text-foreground md:text-xl font-semibold py-1 w-3/4 mx-auto rounded-md text-center mb-2 capitalize">
           {chapterData.book} - Chap # {chapterData.chapter}
         </h4>
         </div>
