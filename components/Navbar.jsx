@@ -174,7 +174,7 @@ export default function Navbar() {
                 <div className="min-w-0">
                   <div
                     id={titleId}
-                    className="truncate text-sm font-semibold text-foreground"
+                    className="truncate text-sm font-semibold text-foreground text-wrap"
                   >
                     Urdu & English Catholic Bible
                   </div>
