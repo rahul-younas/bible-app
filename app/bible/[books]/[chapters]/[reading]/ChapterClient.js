@@ -4,7 +4,7 @@ import { useMemo, useState } from "react";
 import Link from "next/link";
 
 const selectClass =
-  "min-h-10 w-full min-w-0 rounded-md border border-border bg-background px-3 py-2 text-sm text-foreground shadow-sm focus:outline-none focus:ring-2 focus:ring-ring";
+  "min-h-10 w-full min-w-0 rounded-md border border-border bg-background px- py-2 text-sm text-foreground shadow-sm focus:outline-none focus:ring-2 focus:ring-ring";
 
 export default function ChapterClient({ chapterData }) {
   const [language, setLanguage] = useState("urdu");
@@ -218,7 +218,7 @@ export default function ChapterClient({ chapterData }) {
             <div className="relative">
               <select
                 aria-label="Bible language"
-                className={`${selectClass} bg-secondary appearance-none pr-10`}
+                className={`${selectClass} bg-secondary appearance-none pr-8 pl-3`}
                 value={language}
                 onChange={(e) => setLanguage(e.target.value)}
               >

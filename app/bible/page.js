@@ -11,7 +11,7 @@ const StartReading = () => {
   }
 
   return (
-    <div className='flex flex-col w-screen mt-30 box-border justify-center items-center gap-y-10'>
+    <div className='flex flex-col w-screen my-25 box-border justify-center items-center gap-y-10'>
 
       <Link href={'bible/old-testament'} className='w-3/4 md:w-1/2'>
         <Button
@@ -46,11 +46,6 @@ const StartReading = () => {
               <span className='urdu font-bold'>عہد نامہ جدید</span>
             </>
           )}
-        </Button>
-      </Link>
-      <Link href="/prayers">
-        <Button className="text-base w-[150px] cursor-pointer md:text-lg px-6 py-6">
-          Catholic Prayers
         </Button>
       </Link>
     </div>

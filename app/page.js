@@ -13,7 +13,7 @@ export default async function Home() {
             alt=""
             fill
             priority
-            className="object-cover object-top md:object-[center_30%] opacity-55"
+            className="object-cover object-top md:object-[center_30%]"
           />
           <div className="absolute inset-0 bg-gradient-to-b from-black/55 via-black/65 to-black/85" />
         </div>

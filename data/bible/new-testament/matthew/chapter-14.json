@@ -1,0 +1,227 @@
+{
+  "book": "matthew",
+  "chapter": 14,
+  "sections": {
+    "urdu": [
+      {
+        "title": "قتلِ یُوحنّا",
+        "start": 1,
+        "end": 12
+      },
+      {
+        "title": "روٹیوں کا مُعجزہ",
+        "start": 13,
+        "end": 21
+      },
+      {
+        "title": "یسُوؔع کا پانی پر چلنا",
+        "start": 22,
+        "end": 36
+      }
+    ],
+    "english": [
+      {
+        "title": "The Death of John the Baptist",
+        "start": 1,
+        "end": 12
+      },
+      {
+        "title": "Feeding the Five Thousand",
+        "start": 13,
+        "end": 21
+      },
+      {
+        "title": "Jesus Walks on the Water",
+        "start": 22,
+        "end": 33
+      },
+      {
+        "title": "Jesus Heals the Sick in Gennesaret",
+        "start": 34,
+        "end": 36
+      }
+    ]
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "urdu": "اُس وقت رئیسِ رُبع ہیرودیس نے یسُوؔع کی شہُرت سُنیO̲",
+      "english": "At that time Herod the ruler heard reports about Jesus; "
+    },
+    {
+      "verse": 2,
+      "urdu": "اَور اپنے خادموں سے کہا کہ یہ یُوحنّا اِصطِباغی ہَے۔ وہ مُردوں میں سے جی اُٹھا ہَے۔ اِس لئے اُس سے مُعجزے ظاہر ہوتے ہَیںO̲",
+      "english": "and he said to his servants, “This is John the Baptist; he has been raised from the dead, and for this reason these powers are at work in him.” "
+    },
+    {
+      "verse": 3,
+      "urdu": "کیونکہ ہیرودیس نے اپنے بھائی فیلبُوس کی بیوی ہیرودیاس کے سبب سے یُوحنّا کو گِرفتار کے کے باندھا اَور قید خانے میں ڈال دِیا تھاO̲",
+      "english": "For Herod had arrested John, bound him, and put him in prison on account of Herodias, his brother Philip’s wife, "
+    },
+    {
+      "verse": 4,
+      "urdu": "اِس لئے کہ یُوحنّا نے اُس سے کہا تھا۔ کہ تُجھے اُس کا رکھنا رَوا نہیںO̲",
+      "english": "because John had been telling him, “It is not lawful for you to have her.” "
+    },
+    {
+      "verse": 5,
+      "urdu": "اَور وہ اُسے مار ڈالنا تو چاہتا تھا۔ مگر عوام سے ڈرتا تھا۔ کیونکہ وہ اُسے نبی جانتے تھےO̲",
+      "english": "Though Herod wanted to put him to death, he feared the crowd, because they regarded him as a prophet. "
+    },
+    {
+      "verse": 6,
+      "urdu": "لیکن جب ہیرودیس کی سالگرہ ہُوئی۔ تو ہیرودیاس کی بیٹی اُن کے سامنے ناچی اَور ہیرودیس کو خُوش کیاO̲",
+      "english": "But when Herod’s birthday came, the daughter of Herodias danced before the company, and she pleased Herod "
+    },
+    {
+      "verse": 7,
+      "urdu": "چُنانچہ اُس نے قَسم کھا کر وعدہ کِیا۔ کہ جو کُچھ تُو مانگے گی مَیں تُجھے دُوں گاO̲",
+      "english": "so much that he promised on oath to grant her whatever she might ask. "
+    },
+    {
+      "verse": 8,
+      "urdu": "تب وہ اپنی ماں کے سِکھانے سے بولی۔ کہ یُوحنّا اِصطِباغی کا سر تھا میں یہیں مجُھے دےO̲",
+      "english": "Prompted by her mother, she said, “Give me the head of John the Baptist here on a platter.” "
+    },
+    {
+      "verse": 9,
+      "urdu": "تب بادشاہ دِلگیر ہُؤا۔ مگر قَسموں اَور ہم نوالوں کے سبب سے اُس نے حُکم دِیا کہ دے دِیا جائےO̲",
+      "english": "The king was grieved, yet out of regard for his oaths and for the guests, he commanded it to be given; "
+    },
+    {
+      "verse": 10,
+      "urdu": "اَور آدمی بھیج کر قید خانے میں یُوحنّا کا سر کٹوا بھیجاO̲",
+      "english": "he sent and had John beheaded in the prison. "
+    },
+    {
+      "verse": 11,
+      "urdu": "اَور اُس کا سر تھال میں لایا گیا اَور لڑکی کو دِیا گیا اَور وہ اپنی ماں کے پاس لے گئیO̲",
+      "english": "The head was brought on a platter and given to the girl, who brought it to her mother. "
+    },
+    {
+      "verse": 12,
+      "urdu": "تب اُس کے شاگِردوں نے آ کر لاش اُٹھائی۔ اَور اُسے دفن کِیا۔ اَور جا کر یسُوؔع کو خبر دیO̲",
+      "english": "His disciples came and took the body and buried it; then they went and told Jesus."
+    },
+    {
+      "verse": 13,
+      "urdu": "اَور یسُوؔع یہ سُن کر وہاں سے کشتی پر الگ کِسی وِیران جگہ کر روانہ ہُؤا۔ اَور جب ہجُوم نے سُنا تو وہ شہروں سے پیدل اُس کے پیچھے گیاO̲",
+      "english": "Now when Jesus heard this, he withdrew from there in a boat to a deserted place by himself. But when the crowds heard it, they followed him on foot from the towns. "
+    },
+    {
+      "verse": 14,
+      "urdu": "اَور اُس نے اُتر کر ایک بڑا ہجُوم دیکھا۔ اَور اُسے اُن پر ترس آیا۔ اَور اُس نے اُن کے بیماروں کو شِفا بخشیO̲",
+      "english": "When he went ashore, he saw a great crowd; and he had compassion for them and cured their sick. "
+    },
+    {
+      "verse": 15,
+      "urdu": "اَور جب شام ہُوئی تو شاگِردوں نے اُس کے پاس آ کر کہا۔ کہ جگہ وِیران ہَے اَور اَب وقت گُزر چُکا ہَے۔ ہجُوم کو رُخصت کر۔ تاکہ گاؤں میں جا کر اپنے لئے کھانا مول لیںO̲",
+      "english": "When it was evening, the disciples came to him and said, “This is a deserted place, and the hour is now late; send the crowds away so that they may go into the villages and buy food for themselves.” "
+    },
+    {
+      "verse": 16,
+      "urdu": "پر یسُوؔع نے اُن سے کہا۔ اِن کا جانا ضرُور نہیں تُم ہی اُنہیں کھانے کو دوO̲",
+      "english": "Jesus said to them, “They need not go away; you give them something to eat.” "
+    },
+    {
+      "verse": 17,
+      "urdu": "مگر اُنہوں نے اُس سے کہا۔ کہ یہاں ہمارے پاس پانچ روٹیوں اَور دو مچھلیوں کے سِوا اَور کُچھ نہیںO̲",
+      "english": "They replied, “We have nothing here but five loaves and two fish.” "
+    },
+    {
+      "verse": 18,
+      "urdu": "تو اُس نے کہا کہ اُنہیں یہاں میرے پاس لے آؤO̲",
+      "english": "And he said, “Bring them here to me.” "
+    },
+    {
+      "verse": 19,
+      "urdu": "اَور اُس نے ہجُوم کو گھاس پر بیٹھنے کا حُکم دِیا۔ پِھر اُس نے وہ پانچ روٹیاں اَور دو مچھلیاں لِیں۔ اَور آسمان کی طرف دیکھ کر برکت دی اَور توڑ کر روٹیاں شاگِردوں کو دیں اَور شاگِردوں نے ہجُوم کوO̲",
+      "english": "Then he ordered the crowds to sit down on the grass. Taking the five loaves and the two fish, he looked up to heaven, and blessed and broke the loaves, and gave them to the disciples, and the disciples gave them to the crowds. "
+    },
+    {
+      "verse": 20,
+      "urdu": "اَور وہ سب کھا کر سیر ہو گئے۔ اَور اُنہوں نے ٹُکڑوں سے بھری ہُوئی بارہ ٹرکریاں اُٹھائِیںO̲",
+      "english": "And all ate and were filled; and they took up what was left over of the broken pieces, twelve baskets full. "
+    },
+    {
+      "verse": 21,
+      "urdu": "اَور عورتوں اَور بچّوں کے علاوہ کھانے والے تقریباََ پانچ ہزار مَرد تھےO̲",
+      "english": "And those who ate were about five thousand men, besides women and children."
+    },
+    {
+      "verse": 22,
+      "urdu": "اَور اُس نے فوراََ شاگِردوں کو مجبُور کِیا کہ کشتی کی طرف جاؤ اَور مُجھ سے پہلے پار چلو۔ جب تک کہ میں ہجُوم کی رُخصت کرُوںO̲",
+      "english": "Immediately he made the disciples get into the boat and go on ahead to the other side, while he dismissed the crowds. "
+    },
+    {
+      "verse": 23,
+      "urdu": "اَور ہجُوم کو رُخصت کر کے اکیلا دُعا کرنے کے لئے پہاڑ پر گیا۔ اَور جب رات ہُوئی تو وہاں اکیلا رہاO̲",
+      "english": "And after he had dismissed the crowds, he went up the mountain by himself to pray. When evening came, he was there alone, "
+    },
+    {
+      "verse": 24,
+      "urdu": "مگر کشتی اُس وقت خُشکی سے کئی غلَوَہ کے فاصلے پر تھی اَور لہروں سے ڈگمگا رہی تھی۔ کیونکہ ہَوا مُخالِف تھیO̲",
+      "english": "but by this time the boat, battered by the waves, was far from the land, for the wind was against them. "
+    },
+    {
+      "verse": 25,
+      "urdu": "اَور رات کے چوتھے پہر وہ جِھیل پر چلتا ہُؤا اُن کے پاس آیاO̲",
+      "english": "And early in the morning he came walking toward them on the sea. "
+    },
+    {
+      "verse": 26,
+      "urdu": "جب شاگِردوں نے اُسے جِھیل پر چلتے دیکھا۔ وہ گھبرا کر کہنے لگے کہ بُھوت ہَے اَور ڈر کر چِلّا اُٹھےO̲",
+      "english": "But when the disciples saw him walking on the sea, they were terrified, saying, “It is a ghost!” And they cried out in fear. "
+    },
+    {
+      "verse": 27,
+      "urdu": "اَور یسُوؔع نے اُن سے فوراََ بات کے کے کہا۔ کہ خاطِر جمع رکھّو۔ مَیں ہی ہُوں مت ڈروO̲",
+      "english": "But immediately Jesus spoke to them and said, “Take heart, it is I; do not be afraid.”\n\n"
+    },
+    {
+      "verse": 28,
+      "urdu": "پطرس نے اُس سے جَواب میں کہا۔ اَے خُداوند اگر تُو ہی ہَے تو مُجھے حُکم دے کہ مَیں پانی پر چل کر تیرے پاس آؤُںO̲",
+      "english": "Peter answered him, “Lord, if it is you, command me to come to you on the water.” "
+    },
+    {
+      "verse": 29,
+      "urdu": "اُس نے کہا آ۔ تب پطرس کشتی پر سے اُتر کر پانی پر چلنے لگا۔ تاکہ یسُوؔع کے پاس جائےO̲",
+      "english": "He said, “Come.” So Peter got out of the boat, started walking on the water, and came toward Jesus. "
+    },
+    {
+      "verse": 30,
+      "urdu": "مگر جب دیکھا کہ ہَوا تیز ہَے۔ تو ڈر گیا۔ اَور جب ڈُوبنے لگا تو چِلّا کر کہا۔ اے خُداوند مُجھے بچاO̲",
+      "english": "But when he noticed the strong wind, he became frightened, and beginning to sink, he cried out, “Lord, save me!” "
+    },
+    {
+      "verse": 31,
+      "urdu": "تب یسُوؔع نے فوراََ ہاتھ بڑھا کر اُسے پکڑ لِیا۔ اَور اُس نے کہا۔ کہ اَے کم اِعتقاد تُو نے کیوں شک کِیا؟O̲",
+      "english": "Jesus immediately reached out his hand and caught him, saying to him, “You of little faith, why did you doubt?” "
+    },
+    {
+      "verse": 32,
+      "urdu": "اَور جُونہی وہ کشتی پر چڑھ آئے تو ہَوا فوراََ تھم گئیO̲",
+      "english": "When they got into the boat, the wind ceased. "
+    },
+    {
+      "verse": 33,
+      "urdu": "اَور جو کشتی پر تھے اُنہوں نے اُسے سجدَہ کر کے کہا کہ در حقیقت تُو خُدا کا بیٹا ہَےO̲\n",
+      "english": "And those in the boat worshiped him, saying, “Truly you are the Son of God.”"
+    },
+    {
+      "verse": 34,
+      "urdu": "SP\tEPاَور وہ پار اُتر کر جِنّاسرت کے مُلک میں پہُنچےO̲",
+      "english": "When they had crossed over, they came to land at Gennesaret. "
+    },
+    {
+      "verse": 35,
+      "urdu": "اَور وہاں کے لوگوں نے اُسے پہچان کر تمام گِردونواح میں خبر بھیجی۔ اَور سب بیماروں کو اُس کے پاس لائےO̲",
+      "english": "After the people of that place recognized him, they sent word throughout the region and brought all who were sick to him, "
+    },
+    {
+      "verse": 36,
+      "urdu": "اَور اُس کی مِنّت کی۔ کہ فقط اُس کی پوشاک کا دامن ہی چُھولیں۔ اَور جِتنوں نے چُھؤا اُنہوں نے شِفا پائی +",
+      "english": "and begged him that they might touch even the fringe of his cloak; and all who touched it were healed."
+    }
+  ]
+}
