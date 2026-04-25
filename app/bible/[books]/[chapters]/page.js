@@ -1343,7 +1343,7 @@ export default function Chapters() {
   const [activeButton, setActiveButton] = useState(null)
 
   return (
-    <div className="w-full px-1 mx-auto grid gap-4 my-3 grid-cols-[repeat(auto-fit,minmax(160px,1fr))] md:grid-cols-3">
+    <div className="w-full pb-[30%] px-1 mx-auto grid gap-4 my-3 grid-cols-[repeat(auto-fit,minmax(160px,1fr))] md:grid-cols-3">
       {chapters.map((chapter, index) => (
         <Link key={index} href={chapter.href}>
           <Button

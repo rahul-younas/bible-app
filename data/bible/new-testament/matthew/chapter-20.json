@@ -1,0 +1,222 @@
+{
+  "book": "matthew",
+  "chapter": 20,
+  "sections": {
+    "urdu": [
+      {
+        "title": "تاکِستان کے مزدُوروں کی تمثِیل",
+        "start": 1,
+        "end": 16
+      },
+      {
+        "title": "اَذِیّت کی تیسری پیشین گوئی",
+        "start": 17,
+        "end": 19
+      },
+      {
+        "title": "بنی زبدی کی بُلند نظری",
+        "start": 20,
+        "end": 28
+      },
+      {
+        "title": "یریحو کے نابِینا",
+        "start": 29,
+        "end": 34
+      }
+    ],
+    "english": [
+      {
+        "title": "The Laborers in the Vineyard",
+        "start": 1,
+        "end": 16
+      },
+      {
+        "title": "A Third Time Jesus Foretells His Death and Resurrection",
+        "start": 17,
+        "end": 19
+      },
+      {
+        "title": "The Request of the Mother of James and John",
+        "start": 20,
+        "end": 28
+      },
+      {
+        "title": "Jesus Heals Two Blind Men",
+        "start": 29,
+        "end": 34
+      }
+    ]
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "urdu": "آسمان کی بادشاہی اُس مالِک مکان کی مانند ہَے۔ جو تڑکے نِکلا تاکہ اپنے تاکِستان میں مزدُور لگائےO̲",
+      "english": "“For the kingdom of heaven is like a landowner who went out early in the morning to hire laborers for his vineyard. "
+    },
+    {
+      "verse": 2,
+      "urdu": "اَور اُس نے مزدُوروں سے ایک دینار روزانہ ٹھہرا  کر اُنہیں اپنے تاکستان میں بھیجاO̲",
+      "english": "After agreeing with the laborers for the usual daily wage,[a] he sent them into his vineyard. "
+    },
+    {
+      "verse": 3,
+      "urdu": "اَور اُس نے تیسری گھڑی کے قریب باہر جا کر اَوروں کو بازار میں بیکار کھڑے دیکھاO̲",
+      "english": "When he went out about nine o’clock, he saw others standing idle in the marketplace; "
+    },
+    {
+      "verse": 4,
+      "urdu": "اَور اُن سے کہا تُم بھی میرے تاکِستان میں جاؤ۔ اَور جو واجِب ہَے۔ تُمہیں دُوں گاO̲",
+      "english": "and he said to them, ‘You also go into the vineyard, and I will pay you whatever is right.’ So they went. "
+    },
+    {
+      "verse": 5,
+      "urdu": "سو وہ گئے۔ پھر اُس نے چھٹی اَور نویں گھڑی کے قریب باہر جا کر ویسا ہی کِیاO̲",
+      "english": "When he went out again about noon and about three o’clock, he did the same. "
+    },
+    {
+      "verse": 6,
+      "urdu": "اَور گیارھویں گھڑی کے قریب پھر باہر گیا۔ اَور اَوروں کو کھڑے پایا۔ اَور اُس نے اُن سے کہا تُم یہاں تمام دِن کیوں بیکار کھڑے ہو؟O̲",
+      "english": "And about five o’clock he went out and found others standing around; and he said to them, ‘Why are you standing here idle all day?’ "
+    },
+    {
+      "verse": 7,
+      "urdu": "اُنہوں نے اُس سے کہا۔ اِس لئے کہ کِسی نے ہمیں مزدُوری پر نہیں لگایا۔ اُس نے اُن سے کہا۔ تُم بھی میرے تاکِستان میں جاؤO̲",
+      "english": "They said to him, ‘Because no one has hired us.’ He said to them, ‘You also go into the vineyard.’ "
+    },
+    {
+      "verse": 8,
+      "urdu": "جب شام ہُوئی تو تاکِستان کے مالِک نے اپنے کارِندے سے کہا۔ کہ مزدُوروں کو بُلا اَور پچھلوں سے لے کر پہلوں تک اُنہیں اُن کی مزدُوری دے دےO̲",
+      "english": "When evening came, the owner of the vineyard said to his manager, ‘Call the laborers and give them their pay, beginning with the last and then going to the first.’ "
+    },
+    {
+      "verse": 9,
+      "urdu": "جب وہ آئے جو گِیارھویں گھڑی کے قریب لگے تھے۔ تو اُنہیں ایک ہی ایک دینار مِلاO̲",
+      "english": "When those hired about five o’clock came, each of them received the usual daily wage. "
+    },
+    {
+      "verse": 10,
+      "urdu": "پر جو پہلے آئے تو اُنہوں نے خیال کِیا کہ ہمیں زیادہ مِلے گا۔ مگر اُنہیں بھی ایک ایک دینار مِلاO̲",
+      "english": "Now when the first came, they thought they would receive more; but each of them also received the usual daily wage. "
+    },
+    {
+      "verse": 11,
+      "urdu": "اَور وہ لے کر مالِک مکان پر کُڑکُڑانے لگےO̲",
+      "english": "And when they received it, they grumbled against the landowner, "
+    },
+    {
+      "verse": 12,
+      "urdu": "یہ کہہ کر کہ اِن پچھلوں نے ایک ہی گھنٹہ کام کِیا۔ اَور تُو نے اُنہیں ہمارے برابر کر دِیا۔ جِنہوں نے دِن بھر کا بوجھ اَور سخت دُھوپ سہیO̲",
+      "english": "saying, ‘These last worked only one hour, and you have made them equal to us who have borne the burden of the day and the scorching heat.’ "
+    },
+    {
+      "verse": 13,
+      "urdu": "مگر اُس نے جَواب دے کر اُن میں سے ایک سے کہا۔ اَے میاں مَیں تیرے ساتھ بے اِنصافی نہیں کرتا کیا تُو نے مُجھ سے ایک دینار نہیں ٹھہرایا تھا؟O̲",
+      "english": "But he replied to one of them, ‘Friend, I am doing you no wrong; did you not agree with me for the usual daily wage? "
+    },
+    {
+      "verse": 14,
+      "urdu": "جو تیرا ہَے لے اَور چلا جا۔ میری مرضی یہ ہَے۔ کہ جِتنا تُجھے دیتا ہُوں۔ اُتنا ہی اُس پچھلے کو بھی دُوںO̲",
+      "english": "Take what belongs to you and go; I choose to give to this last the same as I give to you. "
+    },
+    {
+      "verse": 15,
+      "urdu": "یا کیا مُجھے رَوا نہیں کہ جو کُچھ میرا ہَے اُس سے جو چاہُوں سو کرُوں؟ کیا تُم اِس لئے بُری نظر سے دیکھتا ہَے کہ مَیں نیک ہُوں؟O̲",
+      "english": "Am I not allowed to do what I choose with what belongs to me? Or are you envious because I am generous?’ "
+    },
+    {
+      "verse": 16,
+      "urdu": "اِسی طرح آخِر اوّل ہو جائیں گے اَور اوّل آخِر ( کیونکہ بہُت سے بُلائے تو گئے مگر برگُزیدہ کم ہَیں )O̲",
+      "english": "So the last will be first, and the first will be last.”"
+    },
+    {
+      "verse": 17,
+      "urdu": "اَور یسُوؔع یرُوشلِیم کو جات ہُوئے بارہ شاگِردوں کو الگ لے گیا اَور راہ میں اُن سے کہاO̲",
+      "english": "While Jesus was going up to Jerusalem, he took the twelve disciples aside by themselves, and said to them on the way, "
+    },
+    {
+      "verse": 18,
+      "urdu": "دیکھو ہم یرُوشلِیم کو جاتے ہَیں۔ اَور اِبنِ اِنسان سردار کاہِنوں اَور فقیہوں کے حوالے کِیا جائے گا۔ اَور وہ اُس کے قتل کا حُکم دیں گےO̲",
+      "english": "“See, we are going up to Jerusalem, and the Son of Man will be handed over to the chief priests and scribes, and they will condemn him to death; "
+    },
+    {
+      "verse": 19,
+      "urdu": "اَور اُسے غیر قوموں کے حوالے کریں گے۔ تاکہ وہ اُسے ٹھٹّھوں میں اُڑائیں اَور کوڑے ماریں اَور صلِیب پر چڑھائیں۔ اَور وہ تیسرے دِن جی اُٹھے گاO̲",
+      "english": "then they will hand him over to the Gentiles to be mocked and flogged and crucified; and on the third day he will be raised.”"
+    },
+    {
+      "verse": 20,
+      "urdu": "تب زبدی کے بیٹوں کی ماں اپنے بیٹوں کے ساتھ اُس کے پاس آئی اَور سجدَہ کر کے اُس سے کُچھ عرض کرنے لگیO̲",
+      "english": "Then the mother of the sons of Zebedee came to him with her sons, and kneeling before him, she asked a favor of him. "
+    },
+    {
+      "verse": 21,
+      "urdu": "اُس نے اُس سے کہا تُو کیا چاہتی ہَے؟ اُس نے اُس سے کہا فرما کہ یہ میرے دونوں بیٹے تیری بادشاہی میں ایک تیرے دائیں اَور ایک تیرے بائیں بیٹھیںO̲",
+      "english": "And he said to her, “What do you want?” She said to him, “Declare that these two sons of mine will sit, one at your right hand and one at your left, in your kingdom.” "
+    },
+    {
+      "verse": 22,
+      "urdu": "یسُوؔع نے جَواب میں کہا۔ تُم نہیں جانتے کہ کیا مانگتے ہو۔ جو پیالہ مَیں پینے کو ہُوں کیا تُم پی سکتے ہو؟ اُنہوں نے اُس سے کہا ہم پی سکتے ہَیںO̲",
+      "english": "But Jesus answered, “You do not know what you are asking. Are you able to drink the cup that I am about to drink?”[g] They said to him, “We are able.” "
+    },
+    {
+      "verse": 23,
+      "urdu": "اُس نے اُن سے کہا۔ تُم میرا پیالہ تو پِیؤ گے لیکن اپنے دائیں یا بائیں کِسی کو بٹھانا میرا کام نہیں۔ یہ اُن کے لئے ہَے جِن کے لئے میرے باپ کی طرف سے مُقرّر ہُواO̲\n",
+      "english": "He said to them, “You will indeed drink my cup, but to sit at my right hand and at my left, this is not mine to grant, but it is for those for whom it has been prepared by my Father.”\n\n"
+    },
+    {
+      "verse": 24,
+      "urdu": "SP\tEPاَور وہ دس یہ سُن کر اُن دونوں بھائیوں سے خفا ہُوئےO̲",
+      "english": "When the ten heard it, they were angry with the two brothers. "
+    },
+    {
+      "verse": 25,
+      "urdu": "مگر یسُوؔع نے اُنہیں اپنے پاس بُلا کر کہا۔ تُم جانتے ہو کہ غیر قوموں کے سردار اُن پر حُکم چلاتے ہَیں۔ اَور اُمراء اُن پر اِختیار جتاتے ہَیںO̲",
+      "english": "But Jesus called them to him and said, “You know that the rulers of the Gentiles lord it over them, and their great ones are tyrants over them. "
+    },
+    {
+      "verse": 26,
+      "urdu": "لیکن تُم میں ایسا نہ ہو گا۔ بلکہ جو تُم میں بڑا ہونا چاہے وہ تُمہارا خادِم ہوO̲",
+      "english": "It will not be so among you; but whoever wishes to be great among you must be your servant, "
+    },
+    {
+      "verse": 27,
+      "urdu": "اَورجو تُم میں اوّل ہونا چاہے تُمہارا غُلام ہوO̲",
+      "english": "and whoever wishes to be first among you must be your slave; "
+    },
+    {
+      "verse": 28,
+      "urdu": "چُنانچہ اِبنِ اِنسان اِس لئے نہیں آیا کہ خدمت کرائے بلکہ اِس لئے کہ خدمت کرے اَور اپنی جان بہُتیروں کے بدلے فِدیہ میں دےO̲",
+      "english": "just as the Son of Man came not to be served but to serve, and to give his life a ransom for many.”"
+    },
+    {
+      "verse": 29,
+      "urdu": "اَور جب وہ یریحو سے نِکل رہے تھے تو ایک بڑا ہجُوم اُس کے پیچھے ہو لِیاO̲",
+      "english": "As they were leaving Jericho, a large crowd followed him. "
+    },
+    {
+      "verse": 30,
+      "urdu": "اَور دیکھو دو اندھوں نے جو راہ کے کِنارے بیٹھے تھے۔ یہ سُن کر کہ یسُوؔع جا رہا ہَے چِلّا کر کہا کہ اَے خُداوند داؔؤد کے بیٹے ہم پر رحم کرO̲",
+      "english": "There were two blind men sitting by the roadside. When they heard that Jesus was passing by, they shouted, “Lord,[h] have mercy on us, Son of David!” "
+    },
+    {
+      "verse": 31,
+      "urdu": "اَور لوگوں نے اُنہیں جِھڑکا کہ چُپ رہیں۔ لیکن وہ اَور بھی چِلّا کر بولے کہ اَے خُداوند داؔؤد کے بیٹے ہم پر رحم کرO̲",
+      "english": "The crowd sternly ordered them to be quiet; but they shouted even more loudly, “Have mercy on us, Lord, Son of David!” "
+    },
+    {
+      "verse": 32,
+      "urdu": "اَور یسُوؔع کھڑا ہو گیا۔ اَور اُنہیں بُلا کر کہا۔ تُم کیا چاہتے ہو کہ مَیں تُمہارے لئے کرُوں؟O̲",
+      "english": "Jesus stood still and called them, saying, “What do you want me to do for you?” "
+    },
+    {
+      "verse": 33,
+      "urdu": "اُنہوں نے اُس سے کہا اَے خُداوند یہ کہ ہماری آنکھیں کُھل جائیںO̲",
+      "english": "They said to him, “Lord, let our eyes be opened.” "
+    },
+    {
+      "verse": 34,
+      "urdu": "یسُوؔع نے ترس کھا کر اُن کی آنکھوں کو چُھؤا۔ اَور وہ فوراََ بِینا ہو گئے اَور اُس کے پیچھے ہو لئے +",
+      "english": "Moved with compassion, Jesus touched their eyes. Immediately they regained their sight and followed him."
+    }
+  ]
+}
