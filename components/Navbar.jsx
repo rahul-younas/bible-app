@@ -44,6 +44,7 @@ function NavLink({ href, label, onClick }) {
 export default function Navbar() {
   const [open, setOpen] = useState(false)
   const [homeExpanded, setHomeExpanded] = useState(false)
+  const [isVisible, setIsVisible] = useState(true)
   const titleId = useId()
 
   useEffect(() => {
@@ -67,9 +68,39 @@ export default function Navbar() {
     if (!open) setHomeExpanded(false)
   }, [open])
 
+  useEffect(() => {
+    let lastY = window.scrollY
+
+    function onScroll() {
+      const currentY = window.scrollY
+
+      if (currentY <= 8) {
+        setIsVisible(true)
+        lastY = currentY
+        return
+      }
+
+      if (currentY > lastY) {
+        setIsVisible(false)
+      } else if (currentY < lastY) {
+        setIsVisible(true)
+      }
+
+      lastY = currentY
+    }
+
+    window.addEventListener("scroll", onScroll, { passive: true })
+    return () => window.removeEventListener("scroll", onScroll)
+  }, [])
+
   return (
     <>
-      <header className="sticky top-0 z-50 border-b border-border bg-background/80 backdrop-blur-lg english">
+      <header
+        className={cn(
+          "sticky top-0 z-100 border-b border-border bg-background/80 backdrop-blur-lg english transition-transform duration-300",
+          isVisible || open ? "translate-y-0" : "-translate-y-full"
+        )}
+      >
         <div className="mx-auto flex h-16 w-[90%] max-w-6xl items-center justify-between gap-3">
           <div className="flex items-center gap-3 min-w-0">
             <Button
@@ -136,7 +167,7 @@ export default function Navbar() {
       {/* Mobile/Tablet sidebar */}
       <div
         className={cn(
-          "fixed inset-0 z-[60] md:hidden english",
+          "fixed inset-0 z-[120] md:hidden english",
           open ? "pointer-events-auto" : "pointer-events-none"
         )}
         aria-hidden={!open}

@@ -145,10 +145,10 @@
   }
   html,
   body {
-    @apply max-w-full overflow-x-hidden;
+    @apply max-w-full;
   }
   body {
-    @apply bg-background text-foreground;
+    @apply overflow-x-hidden bg-background text-foreground;
   }
   html {
     @apply font-sans;

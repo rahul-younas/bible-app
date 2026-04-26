@@ -1,13 +1,42 @@
 "use client";
 
-import { useMemo, useState } from "react";
+import { useEffect, useMemo, useState } from "react";
 import Link from "next/link";
+import { useRouter } from "next/navigation";
 
 const selectClass =
-  "min-h-10 w-full min-w-0 rounded-md border border-border bg-background px- py-2 text-sm text-foreground shadow-sm focus:outline-none focus:ring-2 focus:ring-ring";
+  "min-h-9 w-full min-w-0 rounded-md border border-border bg-background py-1.5 text-xs md:min-h-10 md:py-2 md:text-sm text-foreground shadow-sm focus:outline-none focus:ring-2 focus:ring-ring";
 
-export default function ChapterClient({ chapterData }) {
-  const [language, setLanguage] = useState("urdu");
+export default function ChapterClient({
+  chapterData,
+  currentChapter,
+  chapterOptions = [],
+}) {
+  const [language, setLanguage] = useState(() => {
+    if (typeof window === "undefined") return "urdu";
+    const savedLanguage = window.localStorage.getItem("bible-reading-language");
+    return savedLanguage === "urdu" ||
+      savedLanguage === "english" ||
+      savedLanguage === "both"
+      ? savedLanguage
+      : "urdu";
+  });
+  const router = useRouter();
+  const selectedChapterNumber = Number(currentChapter ?? chapterData.chapter);
+  const currentChapterIndex = chapterOptions.findIndex(
+    (option) => option.number === selectedChapterNumber
+  );
+  const previousChapter = currentChapterIndex > 0
+    ? chapterOptions[currentChapterIndex - 1]
+    : null;
+  const nextChapter = currentChapterIndex >= 0 &&
+    currentChapterIndex < chapterOptions.length - 1
+    ? chapterOptions[currentChapterIndex + 1]
+    : null;
+
+  useEffect(() => {
+    window.localStorage.setItem("bible-reading-language", language);
+  }, [language]);
 
   const getVersesInRange = useMemo(() => {
     return (start, end) =>
@@ -209,16 +238,16 @@ export default function ChapterClient({ chapterData }) {
   return (
     <div className="mx-auto py-5 w-[92%] max-w-4xl flex flex-col gap-3">
       <div className="flex flex-col gap-3">
-        
 
-        <div className="flex w-full rounded-sm items-end justify-between border-b-3 px-3 pb-3">
-        
-          <label className="flex w-44 shrink-0 items-center gap-2 text-sm font-medium text-foreground">
+
+        <div className="flex w-full flex-nowrap items-center justify-between gap-2 rounded-sm border-b-3 px-2 pb-3 md:px-3">
+
+          <label className="flex w-[125px] shrink-0 items-center gap-1 text-xs font-medium text-foreground md:w-44 md:gap-2 md:text-sm">
             Lang
-            <div className="relative">
+            <div className="relative min-w-0 flex-1">
               <select
                 aria-label="Bible language"
-                className={`${selectClass} bg-secondary appearance-none pr-8 pl-3`}
+                className={`${selectClass} bg-secondary appearance-none pr-6 pl-2 md:pr-8 md:pl-3`}
                 value={language}
                 onChange={(e) => setLanguage(e.target.value)}
               >
@@ -226,14 +255,36 @@ export default function ChapterClient({ chapterData }) {
                 <option value="english">English</option>
                 <option value="both">Both</option>
               </select>
-              <div className="pointer-events-none absolute inset-y-0 right-3 flex items-center">
+              <div className="pointer-events-none absolute inset-y-0 right-2 flex items-center text-[10px] md:right-3 md:text-xs">
                 ▼
               </div>
             </div>
           </label>
-          <h4 className="text-sm bg-background text-foreground md:text-xl font-semibold py-1 w-3/4 mx-auto rounded-md text-center mb-2 capitalize">
-          {chapterData.book} - Chap # {chapterData.chapter}
-        </h4>
+          <div className="bg-background text-foreground font-semibold py-1 flex min-w-0 flex-1 items-center justify-end gap-1 md:gap-2 rounded-md text-xs md:text-xl capitalize">
+            <span className="truncate">{chapterData.book}</span>
+            <div className="relative min-w-[105px] md:min-w-[180px]">
+              <select
+                aria-label={`Select chapter for ${chapterData.book}`}
+                className={`${selectClass} bg-secondary appearance-none pr-6 pl-2 md:pr-8 md:pl-3`}
+                value={String(selectedChapterNumber)}
+                onChange={(e) => {
+                  const selectedHref = chapterOptions.find(
+                    (option) => String(option.number) === e.target.value
+                  )?.href;
+                  if (selectedHref) router.push(selectedHref);
+                }}
+              >
+                {chapterOptions.map((option) => (
+                  <option key={option.number} value={String(option.number)}>
+                    Chapter {option.number}
+                  </option>
+                ))}
+              </select>
+              <div className="pointer-events-none absolute inset-y-0 right-2 flex items-center text-[10px] md:right-3 md:text-xs">
+                ▼
+              </div>
+            </div>
+          </div>
         </div>
       </div>
 
@@ -241,9 +292,13 @@ export default function ChapterClient({ chapterData }) {
         <div>
           {chapterData.sections.urdu.map((section, i) => (
             <div key={i}>
-              <h3 className="text-lg my-2 md:text-2xl urdu underline font-bold text-right mb-3">
-                {section.title}
-              </h3>
+              {section.title && (
+                <div className="float-right w-full text-right">
+                  <h3 className="text-lg my-2 md:text-2xl border-2 border-foreground py-2 px-2 urdu inline-block font-bold mb-3">
+                    {section.title}
+                  </h3>
+                </div>
+              )}
 
               {renderFormattedVerses({
                 verses: getVersesInRange(section.start, section.end),
@@ -287,6 +342,25 @@ export default function ChapterClient({ chapterData }) {
           ))}
         </div>
       )}
+
+      <div className="mt-4 flex items-center justify-between gap-3 border-t pt-4">
+        <button
+          type="button"
+          onClick={() => previousChapter && router.push(previousChapter.href)}
+          disabled={!previousChapter}
+          className="rounded-md border border-border px-4 py-2 text-sm font-medium transition disabled:cursor-not-allowed disabled:opacity-50"
+        >
+          Previous
+        </button>
+        <button
+          type="button"
+          onClick={() => nextChapter && router.push(nextChapter.href)}
+          disabled={!nextChapter}
+          className="rounded-md border border-border px-4 py-2 text-sm font-medium transition disabled:cursor-not-allowed disabled:opacity-50"
+        >
+          Next
+        </button>
+      </div>
     </div>
   );
 }
