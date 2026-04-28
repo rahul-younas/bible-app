@@ -1,0 +1,287 @@
+{
+  "book": "matthew",
+  "chapter": 22,
+  "sections": {
+    "urdu": [
+      {
+        "title": "شہزادے کی شادی کی تمثِیل",
+        "start": 1,
+        "end": 14
+      },
+      {
+        "title": "خراج گُزاری",
+        "start": 15,
+        "end": 22
+      },
+      {
+        "title": "قیامت کا سوال",
+        "start": 23,
+        "end": 33
+      },
+      {
+        "title": "حُکمِ عظیم",
+        "start": 34,
+        "end": 46
+      }
+    ],
+    "english": [
+      {
+        "title": "The Parable of the Wedding Banquet",
+        "start": 1,
+        "end": 14
+      },
+      {
+        "title": "The Question about Paying Taxes",
+        "start": 15,
+        "end": 22
+      },
+      {
+        "title": "The Question about the Resurrection",
+        "start": 23,
+        "end": 33
+      },
+      {
+        "title": "The Greatest Commandment",
+        "start": 34,
+        "end": 40
+      },
+      {
+        "title": "The Question about David’s Son",
+        "start": 41,
+        "end": 46
+      }
+    ]
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "urdu": "اَور یسُوؔع پھر خطاب کر کے تمثِیلوں میں اُن سے بات کرنے لگا اَور کہا کہO̲",
+      "english": "Once more Jesus spoke to them in parables, saying: "
+    },
+    {
+      "verse": 2,
+      "urdu": "آسمان کی بادشاہی اُس بادشاہ کی مانند ہَے جس نے اپنے بیٹے کی شادی کیO̲",
+      "english": "“The kingdom of heaven may be compared to a king who gave a wedding banquet for his son. "
+    },
+    {
+      "verse": 3,
+      "urdu": "اَور اپنے غُلاموں کو بھیجا کہ بُلائے ہُوؤں کو شادی میں بُلائیں لیکن اُنہوں نے آنا نہ چاہاO̲",
+      "english": "He sent his slaves to call those who had been invited to the wedding banquet, but they would not come. "
+    },
+    {
+      "verse": 4,
+      "urdu": "پھر اُس نے اَور غُلاموں کو یہ کہہ کر بھیجا۔ کہ بُلائے ہُوؤں سے کہو کہ دیکھو مَیں نے ضِیافت تیّار کر لی ہَے۔ میرے موٹے موٹے بَیل اَور جانور ذَبح ہو چُکے ہَیں۔ اَور سب کُچھ تیّار ہَے۔ شادی میں آؤO̲",
+      "english": "Again he sent other slaves, saying, ‘Tell those who have been invited: Look, I have prepared my dinner, my oxen and my fat calves have been slaughtered, and everything is ready; come to the wedding banquet.’ "
+    },
+    {
+      "verse": 5,
+      "urdu": "مگر وہ کُچھ خاطِر میں نہ لائے اَور چل دِئیے۔ کوئی اپنے کھیت کو کوئی اپنی سوداگری کوO̲",
+      "english": "But they made light of it and went away, one to his farm, another to his business, "
+    },
+    {
+      "verse": 6,
+      "urdu": "اَور باقیوں نے اُس کے غُلاموں کو پکڑ کر اُن سے بُرا سلُوک کِیا اَور مار دالاO̲",
+      "english": "while the rest seized his slaves, mistreated them, and killed them. "
+    },
+    {
+      "verse": 7,
+      "urdu": "اُس پر بادشاہ غضبناک ہُؤا اَور اپنی فوجیں بھیج کر اُن خُونیوں کو ہلاک کِیا۔ اَور اُن کا شہر پُھونک دِیاO̲",
+      "english": "The king was enraged. He sent his troops, destroyed those murderers, and burned their city. "
+    },
+    {
+      "verse": 8,
+      "urdu": "تب اُس نے اپنے غُلاموں سے کہا۔ شادی کی تیّاری تو ہو گئی ہَے لیکن وہ جو بُلائے گئے تھے لائق نہ تھےO̲",
+      "english": "Then he said to his slaves, ‘The wedding is ready, but those invited were not worthy. "
+    },
+    {
+      "verse": 9,
+      "urdu": "پس تُم چوکوں پر جاؤ۔ اَور جِتنے تُمہیں مِلیں شادی میں بُلاؤO̲",
+      "english": "Go therefore into the main streets, and invite everyone you find to the wedding banquet.’ "
+    },
+    {
+      "verse": 10,
+      "urdu": "اَور اُن غُلاموں نے سڑکوں پر جا کر کیا بُرے کیا بھلے سب کو جمع کِیا۔ اَور اَیوانِ شادی مہمانوں سے بھر گیاO̲",
+      "english": "Those slaves went out into the streets and gathered all whom they found, both good and bad; so the wedding hall was filled with guests.\n\n"
+    },
+    {
+      "verse": 11,
+      "urdu": "اَور جب بادشاہ مہمانوں کو دیکھنے اندر آیا۔ تو اُس نے وہاں ایک آدمی پایا جو شادی کی پوشاک پہنے نہ تھاO̲",
+      "english": "“But when the king came in to see the guests, he noticed a man there who was not wearing a wedding robe, "
+    },
+    {
+      "verse": 12,
+      "urdu": "اَور اُس نے اُس سے کہا۔ اَے میاں تُو شادی کی پوشاک پہنے بغیر یہاں کیسے آیا؟ مگر وہ خاموش رہاO̲",
+      "english": "and he said to him, ‘Friend, how did you get in here without a wedding robe?’ And he was speechless. "
+    },
+    {
+      "verse": 13,
+      "urdu": "تب بادشاہ نے خادِموں سے کہا۔ اُس کے ہاتھ پاؤں باندھ کر اُسے باہر کے اندھیرے میں ڈال دو۔ وہاں رونا اَور دانتوں کا بجنا ہو گاO̲",
+      "english": "Then the king said to the attendants, ‘Bind him hand and foot, and throw him into the outer darkness, where there will be weeping and gnashing of teeth.’ "
+    },
+    {
+      "verse": 14,
+      "urdu": "کیونکہ بُلائے ہُوئے بہُت ہَیں۔ لیکن برگُزیدے تھوڑےO̲",
+      "english": "For many are called, but few are chosen.”"
+    },
+    {
+      "verse": 15,
+      "urdu": "تب فریسیوں نے جا کر آپس میں مشورہ کِیا کہ اُسے کیونکر باتوں میں پھنسائیںO̲",
+      "english": "Then the Pharisees went and plotted to entrap him in what he said. "
+    },
+    {
+      "verse": 16,
+      "urdu": "اَور اُنہوں نے اپنے شاگِردوں کو ہیرودیوں کے ساتھ اُس کے پاس بھیجا۔ تاکہ اُس سے کہیں اَے اُستاد ہم جانتے ہَیں کہ تُو سچّا ہَے۔ اَور سچائی سے خُدا کی راہ کی تعلیم دیتا ہَے اَور کِسی کی پروا نہیں کرتا۔ کیونکہ تُو آدمیوں کا مُنہ نہیں دیکھتاO̲",
+      "english": "So they sent their disciples to him, along with the Herodians, saying, “Teacher, we know that you are sincere, and teach the way of God in accordance with truth, and show deference to no one; for you do not regard people with partiality. "
+    },
+    {
+      "verse": 17,
+      "urdu": "پس ہمیں بتا تُو کیا خیال کرتا ہَے؟ قَیصر کو خراج دینا رَوا ہَے یا نہیں؟O̲",
+      "english": "Tell us, then, what you think. Is it lawful to pay taxes to the emperor, or not?” "
+    },
+    {
+      "verse": 18,
+      "urdu": "یسُوؔع نے اُن کی شرارت جانتے ہُوئے کہا۔ اَور رِیاکارو مُجھے کیوں آزماتے ہو؟O̲",
+      "english": "But Jesus, aware of their malice, said, “Why are you putting me to the test, you hypocrites? "
+    },
+    {
+      "verse": 19,
+      "urdu": "خراج کا سِکّہ مُجھے دکھاؤ۔ وہ ایک دینار اُس کے پاس لائےO̲",
+      "english": "Show me the coin used for the tax.” And they brought him a denarius. "
+    },
+    {
+      "verse": 20,
+      "urdu": "تب اُس نے کہا یہ صُورت اَور تحریر کِس کی ہَے؟O̲",
+      "english": "Then he said to them, “Whose head is this, and whose title?” "
+    },
+    {
+      "verse": 21,
+      "urdu": "اُنہوں نے کہا قَیصر کی۔ تب اُس نے اُن سے کہا پس جو قَیصر کا ہَے قَیصر کو اَور جو خُدا کا ہَے خُدا کو ادا کروO̲",
+      "english": "They answered, “The emperor’s.” Then he said to them, “Give therefore to the emperor the things that are the emperor’s, and to God the things that are God’s.” "
+    },
+    {
+      "verse": 22,
+      "urdu": "اُنہوں نے یہ سُن کر تعجُّب کِیا اَور اُسے چھوڑ کر چلے گئےO̲",
+      "english": "When they heard this, they were amazed; and they left him and went away."
+    },
+    {
+      "verse": 23,
+      "urdu": "اُسی دِن صدُوقی جو قیامت کے مُنکر ہَیں اُس کے پاس آئے اَور اُس سے سوال کِیا کہO̲",
+      "english": "The same day some Sadducees came to him, saying there is no resurrection; and they asked him a question, saying, "
+    },
+    {
+      "verse": 24,
+      "urdu": "اَور اُستاد مُوسیٰ نے کہا تھا۔ اگر کوئی بے اولاد مَر جائے۔ تو اُس کا بھائی اُس کی بیوی سے بِیاہ کرلے۔ اَور اپنے بھائی کے لئے نسل پیدا کرےO̲",
+      "english": "“Teacher, Moses said, ‘If a man dies childless, his brother shall marry the widow, and raise up children for his brother.’ "
+    },
+    {
+      "verse": 25,
+      "urdu": "پس ہمارے درمیان سات بھائی تھے اَور پہلا بِیاہ کر کے مَر گیا اَور اِس سبب سے کہ اُس کی اولاد نہ تھی۔ اپنی بیوی اپنے بھائی کے لئے چھوڑ گیاO̲",
+      "english": "Now there were seven brothers among us; the first married, and died childless, leaving the widow to his brother. "
+    },
+    {
+      "verse": 26,
+      "urdu": "اِسی طرح دُوسرا اَور تیسرا بھی ساتویں تکO̲",
+      "english": "The second did the same, so also the third, down to the seventh. "
+    },
+    {
+      "verse": 27,
+      "urdu": "سب کے بعد وہ عورت بھی مَر گئیO̲",
+      "english": "Last of all, the woman herself died. "
+    },
+    {
+      "verse": 28,
+      "urdu": "پس وہ قیامت میں اِن ساتوں میں سے کِس کی بیوی ہو گی؟ کیونکہ وہ سب کی رہ چُکی تھیO̲",
+      "english": "In the resurrection, then, whose wife of the seven will she be? For all of them had married her.”\n\n"
+    },
+    {
+      "verse": 29,
+      "urdu": "یسُوؔع نے جَواب میں اُن سے کہا تُم نوِشتوں اَور خُدا کی قُدرت کو نہ جانتے ہُوئے غلطی پر ہوO̲",
+      "english": "Jesus answered them, “You are wrong, because you know neither the scriptures nor the power of God. "
+    },
+    {
+      "verse": 30,
+      "urdu": "کیونکہ قیامت میں لوگ نہ بِیاہ کریں گے۔ نہ بِیاہے جائیں گے۔ بلکہ آسمان پر خُدا کے فرِشتوں کی مانند ہُوں گےO̲",
+      "english": "For in the resurrection they neither marry nor are given in marriage, but are like angels in heaven. "
+    },
+    {
+      "verse": 31,
+      "urdu": "اَور مُردوں کی قیامت کی بابت خُدا نے جو تُمہیں فرمایا تھا۔ کیا تُم نے وہ نہیں پڑھا؟ کہO̲",
+      "english": "And as for the resurrection of the dead, have you not read what was said to you by God, "
+    },
+    {
+      "verse": 32,
+      "urdu": "مَیں اِبراہیم کا خُدا اَور اِسحاق کا خُدا اَور یَعقُوب کا خُدا ہُوں۔ وہ مُردوں کا نہیں بلکہ زِندوں کا خُدا ہَےO̲",
+      "english": "‘I am the God of Abraham, the God of Isaac, and the God of Jacob’? He is God not of the dead, but of the living.” "
+    },
+    {
+      "verse": 33,
+      "urdu": "لوگ یہ سُن کر اُس کی تعلیم سے دنگ ہُوئےO̲",
+      "english": "And when the crowd heard it, they were astounded at his teaching."
+    },
+    {
+      "verse": 34,
+      "urdu": "جب فریسیوں نے سُنا کہ اُس نے صدُوقیوں کا مُنہ بند کر دِیا تو وہ جمع ہو گئےO̲",
+      "english": "When the Pharisees heard that he had silenced the Sadducees, they gathered together, "
+    },
+    {
+      "verse": 35,
+      "urdu": "اَور اُن میں سے ایک عالمِ فِقہ نے آزمانے کے لئے اُس سے پُوچھا کہO̲",
+      "english": "and one of them, a lawyer, asked him a question to test him. "
+    },
+    {
+      "verse": 36,
+      "urdu": "اَے اُستاد شریعت میں بڑا حُکم کون سا ہَے؟O̲",
+      "english": "“Teacher, which commandment in the law is the greatest?” "
+    },
+    {
+      "verse": 37,
+      "urdu": " اُس سے اُس سے کہا کہ تُو خُداوند اپنے خُدا کو اپنے سارے دِل اَور اپنی ساری جان اَور اپنی ساری عقل سے پیار کرO̲",
+      "english": "He said to him, “‘You shall love the Lord your God with all your heart, and with all your soul, and with all your mind.’ "
+    },
+    {
+      "verse": 38,
+      "urdu": "بڑا اَور پہلا حُکم یہی ہَےO̲",
+      "english": "This is the greatest and first commandment. "
+    },
+    {
+      "verse": 39,
+      "urdu": "اَور دُوسرا جو اِس کی مانند ہَے یہ ہَے کہ تُو اپنے ہمسائے کو اپنی مانند پیار کرO̲",
+      "english": "And a second is like it: ‘You shall love your neighbor as yourself.’ "
+    },
+    {
+      "verse": 40,
+      "urdu": "اِن ہی دو حُکموں پر تمام تورات اَور صحائِفِ انبِیاء کا مدار ہَےO̲\n",
+      "english": "On these two commandments hang all the law and the prophets.”"
+    },
+    {
+      "verse": 41,
+      "urdu": "SP\tEPاَور جب فریسی جمع ہو گئے تو یسُوؔع نے اُن سے پُوچھاO̲",
+      "english": "Now while the Pharisees were gathered together, Jesus asked them this question: "
+    },
+    {
+      "verse": 42,
+      "urdu": "اَور کہا کہ المسیح کے حَق میں تُمہارا کیا خیال ہَے۔ وہ کِس کا بیٹا ہَے؟ اُنہوں نے اُس سے کہا داؔؤد کاO̲",
+      "english": "“What do you think of the Messiah? Whose son is he?” They said to him, “The son of David.” "
+    },
+    {
+      "verse": 43,
+      "urdu": "اُس نے اُن سے کہا پِھر داؔؤد رُوح کی ہِدایت سے کیسے اُسے خُداوند کہتا ہَے یہ کہہ کر کہداؔؤد\n",
+      "english": "He said to them, “How is it then that David by the Spirit calls him Lord, saying,\n\n"
+    },
+    {
+      "verse": 44,
+      "urdu": "SP\tEP”خداوند نے میرے خُداوند سے کہا کہ میرے دہنی طرف بیٹھ۔ جب تک کہ مَیں تیرے دُشمن تیرے پاؤں کی چوکی نہ کر دُوں “O̲",
+      "english": "\nSP‘The Lord said to my Lord,\n“Sit at my right hand,\n\tuntil I put your enemies under your feet”’?EP\n\n"
+    },
+    {
+      "verse": 45,
+      "urdu": "پس جب داؔؤد اُسے خُداوند کہتا ہَے۔ تو وہ اُس کا بیٹا کیسے ہَے؟O̲",
+      "english": "If David thus calls him Lord, how can he be his son?” "
+    },
+    {
+      "verse": 46,
+      "urdu": "اَور کوئی اُس کے جَواب میں ایک لفظ بھی بول نہ سکا۔ اَور اُس دِن سے کِسی کو جُرأت نہ ہُوئی کہ پِھر اُس سے سوال کرے +",
+      "english": "No one was able to give him an answer, nor from that day did anyone dare to ask him any more questions."
+    }
+  ]
+}
