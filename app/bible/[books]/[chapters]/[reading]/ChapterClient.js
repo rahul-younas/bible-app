@@ -43,6 +43,31 @@ export default function ChapterClient({
       chapterData.verses.filter((v) => v.verse >= start && v.verse <= end);
   }, [chapterData.verses]);
 
+  const versesByNumber = useMemo(() => {
+    return chapterData.verses.reduce((acc, verse) => {
+      acc[verse.verse] = verse;
+      return acc;
+    }, {});
+  }, [chapterData.verses]);
+
+  const urduSectionByStart = useMemo(() => {
+    return chapterData.sections.urdu.reduce((acc, section) => {
+      acc[section.start] = section;
+      return acc;
+    }, {});
+  }, [chapterData.sections.urdu]);
+
+  const englishSectionByStart = useMemo(() => {
+    return chapterData.sections.english.reduce((acc, section) => {
+      acc[section.start] = section;
+      return acc;
+    }, {});
+  }, [chapterData.sections.english]);
+
+  const orderedVerseNumbers = useMemo(() => {
+    return chapterData.verses.map((v) => v.verse).sort((a, b) => a - b);
+  }, [chapterData.verses]);
+
   const tokenizeSpEp = (raw = "") => {
     // Splits into: [{ kind: "normal"|"padded", text }...]
     // Supports SP...EP appearing anywhere in the verse.
@@ -288,7 +313,7 @@ export default function ChapterClient({
         </div>
       </div>
 
-      {(language === "urdu" || language === "both") && (
+      {language === "urdu" && (
         <div>
           {chapterData.sections.urdu.map((section, i) => (
             <div key={i}>
@@ -310,9 +335,62 @@ export default function ChapterClient({
         </div>
       )}
 
-      {language === "both" && <div className="w-full h-1 bg-gray-500"></div>}
+      {language === "both" && (
+        <div>
+          <h3 className="text-[11px] md:text-lg font-bold text-center capitalize text-high-light">
+            New Revised Standard Version Catholic Edition (NRSVCE)
+          </h3>
+          <h3 className="text-[11px] text-blue-500 md:text-lg text-center mb-2 ">
+            👉{" "}
+            <Link
+              href="https://www.biblegateway.com/versions/New-Revised-Standard-Version-Catholic-Edition-NRSVCE-Bible/#vinfo"
+              className="underline"
+            >
+              About CRSVCE
+            </Link>
+          </h3>
 
-      {(language === "english" || language === "both") && (
+          {orderedVerseNumbers.map((verseNumber) => {
+            const verse = versesByNumber[verseNumber];
+            if (!verse) return null;
+
+            const urduSection = urduSectionByStart[verseNumber];
+            const englishSection = englishSectionByStart[verseNumber];
+
+            return (
+              <div key={verseNumber}>
+                {urduSection?.title && (
+                  <div className="float-right w-full text-right">
+                    <h3 className="text-lg my-2 md:text-2xl border-2 border-foreground py-2 px-2 urdu inline-block font-bold mb-3">
+                      {urduSection.title}
+                    </h3>
+                  </div>
+                )}
+
+                {renderFormattedVerses({
+                  verses: [verse],
+                  field: "urdu",
+                  isUrdu: true,
+                })}
+
+                {englishSection?.title && (
+                  <h3 className="text-lg english font-bold mb-4 mt-2">
+                    {englishSection.title}
+                  </h3>
+                )}
+
+                {renderFormattedVerses({
+                  verses: [verse],
+                  field: "english",
+                  isUrdu: false,
+                })}
+              </div>
+            );
+          })}
+        </div>
+      )}
+
+      {language === "english" && (
         <div className="mt-2">
           <h3 className="text-[11px] md:text-lg font-bold text-center capitalize text-high-light">
             New Revised Standard Version Catholic Edition (NRSVCE)

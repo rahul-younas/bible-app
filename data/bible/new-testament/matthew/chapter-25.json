@@ -1,0 +1,272 @@
+{
+  "book": "matthew",
+  "chapter": 25,
+  "sections": {
+    "urdu": [
+      {
+        "title": "دس کُنواریوں کی تمثِیل",
+        "start": 1,
+        "end": 13
+      },
+      {
+        "title": "قِنطاروں کی تمثِیل",
+        "start": 14,
+        "end": 30
+      },
+      {
+        "title": "روزِ قیامت",
+        "start": 31,
+        "end": 46
+      }
+    ],
+    "english": [
+      {
+        "title": "The Parable of the Ten Bridesmaids",
+        "start": 1,
+        "end": 13
+      },
+      {
+        "title": "The Parable of the Talents",
+        "start": 14,
+        "end": 30
+      },
+      {
+        "title": "The Judgment of the Nations",
+        "start": 31,
+        "end": 46
+      }
+    ]
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "urdu": "تب آسمان کی بادشاہی اُن دس کُنواریوں کی مانند ہو گی جو اپنی مشعلیں لے کر دُلہا کے اِستِقبال کو نِکلیںO̲",
+      "english": "“Then the kingdom of heaven will be like this. Ten bridesmaids took their lamps and went to meet the bridegroom. "
+    },
+    {
+      "verse": 2,
+      "urdu": "اُن میں پانچ بے عقل اَور پانچ عقلمند تھیںO̲",
+      "english": "Five of them were foolish, and five were wise. "
+    },
+    {
+      "verse": 3,
+      "urdu": "جو بے عقل تھیں اُنہوں نے مشعلیں لے لِیں پر تیل اپنے ساتھ نہ لِیاO̲",
+      "english": "When the foolish took their lamps, they took no oil with them; "
+    },
+    {
+      "verse": 4,
+      "urdu": "مگر عقلمند نے اپنی مشعلوں کے ساتھ اپنی کُپیوں میں تیل بھی لے لِیاO̲",
+      "english": "but the wise took flasks of oil with their lamps. "
+    },
+    {
+      "verse": 5,
+      "urdu": "جب دُلہا نے دیر لگائی۔ تو سب اُنگھنے لگیں اَور سو گئیںO̲",
+      "english": "As the bridegroom was delayed, all of them became drowsy and slept. "
+    },
+    {
+      "verse": 6,
+      "urdu": "آدھی رات کو دُھوم مچی کہ دیکھو دُلہا آتا ہَے اُس کے اِستقبال کو نِکلوO̲",
+      "english": "But at midnight there was a shout, ‘Look! Here is the bridegroom! Come out to meet him.’ "
+    },
+    {
+      "verse": 7,
+      "urdu": "اِس پر وہ سب کُنواریاں اُٹھ کر اپنی مشعلیں دُرست کرنے لگیںO̲",
+      "english": "Then all those bridesmaids got up and trimmed their lamps. "
+    },
+    {
+      "verse": 8,
+      "urdu": "اَور بے عقلوں نے عقلمندوں سے کہا اپنے تیل میں سے ہمیں بھی دو۔ کیونکہ ہماری مشعلیں بُجھی جاتی ہَیںO̲",
+      "english": "The foolish said to the wise, ‘Give us some of your oil, for our lamps are going out.’ "
+    },
+    {
+      "verse": 9,
+      "urdu": "عقلمندوں نے جَواب میں کہا۔ شاید ہمارے تُمہارے دونوں کے لئے کافی نہ ہو۔ تو بہتر یہ ہَے کہ بیچنے والوں کے پاس جاؤ اَور اپنے واسطے خِرید لوO̲",
+      "english": "But the wise replied, ‘No! there will not be enough for you and for us; you had better go to the dealers and buy some for yourselves.’ "
+    },
+    {
+      "verse": 10,
+      "urdu": "جب وہ خِریدنے گئیں تو دُلہا آ پہُنچا اَور وہ جو تیّار تھیں اُس کے ساتھ شادی میں چلی گئیں اَور دروازہ بند ہو گیاO̲",
+      "english": "And while they went to buy it, the bridegroom came, and those who were ready went with him into the wedding banquet; and the door was shut. "
+    },
+    {
+      "verse": 11,
+      "urdu": "پھر وہ دُوسری کُنواریاں بھی آئِیں اَور کہنے لگیں اَے خُداوند۔ اَے خُداوند۔ ہمارے لئے دروازہ کھول دےO̲",
+      "english": "Later the other bridesmaids came also, saying, ‘Lord, lord, open to us.’ "
+    },
+    {
+      "verse": 12,
+      "urdu": "پر اُس نے جَواب میں کہا۔ مَیں تُم سے سچ کہتا ہُوں کہ مَیں تُمہیں نہیں جانتاO̲",
+      "english": "But he replied, ‘Truly I tell you, I do not know you.’ "
+    },
+    {
+      "verse": 13,
+      "urdu": "اِس لئے جاگتے رہو۔ کیونکہ تُم نہ اُس دِن کو جانتے ہو نہ اُس گھڑی کوO̲",
+      "english": "Keep awake therefore, for you know neither the day nor the hour."
+    },
+    {
+      "verse": 14,
+      "urdu": "کیونکہ یہ ایسے ہَے جیسے کِسی آدمی نے ایک اَور مُلک کو جاتے وقت غُلاموں کو بُلا کر اپنا مال اُن کے سپُرد کِیاO̲",
+      "english": "“For it is as if a man, going on a journey, summoned his slaves and entrusted his property to them; "
+    },
+    {
+      "verse": 15,
+      "urdu": "ایک کو پانچ قِنطار دئیے دُوسرے کو دو تیسرے کو ایک۔ ہر ایک کو اُس کی لِیاقت کے مُوافِق دِیا۔ اَور سر کو روانہ ہُواO̲",
+      "english": "to one he gave five talents, to another two, to another one, to each according to his ability. Then he went away. "
+    },
+    {
+      "verse": 16,
+      "urdu": "جِسے پانچ قِنطار مِلے تھے وہ فوراََ گیا اَور اُن سے لین دین کر کے پانچ اَور کمائےO̲",
+      "english": "The one who had received the five talents went off at once and traded with them, and made five more talents. "
+    },
+    {
+      "verse": 17,
+      "urdu": "اِسی طرح جِسے دو مِلے تھے اُس نے بھی دو اَور کمائےO̲",
+      "english": "In the same way, the one who had the two talents made two more talents. "
+    },
+    {
+      "verse": 18,
+      "urdu": "لیکن جِسے ایک مِلا تھا۔ اُس نے جا کر زمین کھودی اَور اپنے مالِک کا قِنطار چُھپا دِیاO̲",
+      "english": "But the one who had received the one talent went off and dug a hole in the ground and hid his master’s money. "
+    },
+    {
+      "verse": 19,
+      "urdu": "بڑی مُدّت کے بعد اُن غُلاموں کا مالِک آیا اَور اُن سے حِساب لینے لگاO̲",
+      "english": "After a long time the master of those slaves came and settled accounts with them. "
+    },
+    {
+      "verse": 20,
+      "urdu": "جِسے پانچ قِنطار مِلے تھے وہ پانچ قِنطار اَور لے کر حاضِر ہُؤا۔ اَور کہا اَے خُداوند۔ تُو نے پانچ قِنطار مُجھے سپُرد کِئے تھے۔ دیکھ۔ مَیں نے پانچ اَور کمائےO̲",
+      "english": "Then the one who had received the five talents came forward, bringing five more talents, saying, ‘Master, you handed over to me five talents; see, I have made five more talents.’ "
+    },
+    {
+      "verse": 21,
+      "urdu": "اُس کے مالِک نے اُس سے کہا۔ اَے نیک اَور دِیانتدار غُلام۔ شاباش۔ تُو تھوڑے میں دیانتدار نِکلا۔ مَیں تُجھے کثرت کا مُختار بناؤُں گا۔ اپنے مالِک کی خُوشی میں شامِل ہوO̲",
+      "english": "His master said to him, ‘Well done, good and trustworthy slave; you have been trustworthy in a few things, I will put you in charge of many things; enter into the joy of your master.’ "
+    },
+    {
+      "verse": 22,
+      "urdu": "اَور جِسے دو قِنطار مِلے تھے اُس نے بھی حاضِر ہو کر کہا۔ اَے خُداوند۔ تُو نے دو قِنطار مُجھے سپُرد کِئے تھے۔ دیکھ مَیں نے دو قِنطار اَور کمائےO̲",
+      "english": "And the one with the two talents also came forward, saying, ‘Master, you handed over to me two talents; see, I have made two more talents.’ "
+    },
+    {
+      "verse": 23,
+      "urdu": "اُس کے مالِک نے اُس سے کہا۔ اَے نیک اَور دِیانتدار خادِم۔ شاباش۔ تُو تھوڑے میں دِیانتدار نِکلا۔ مَیں تُجھے کثرت کا مُختار بناؤُں گا۔ اپنے مالِک کی خُوشی میں شامِل ہوO̲",
+      "english": "His master said to him, ‘Well done, good and trustworthy slave; you have been trustworthy in a few things, I will put you in charge of many things; enter into the joy of your master.’ "
+    },
+    {
+      "verse": 24,
+      "urdu": "تب وہ بھی جِسے ایک قِنطار مِلا تھا حاضِر ہُؤا اَور کہنے لگا۔ اَے آقا۔ مَیں تُجھے جانتا ہُوں کہ تُو سخت آدمی ہَے۔ جو جہاں  نہیں بویا وہاں سے کاٹتا اَور جہاں نہیں بکھیرا وہاں سے جمع کرتا ہَےO̲",
+      "english": "Then the one who had received the one talent also came forward, saying, ‘Master, I knew that you were a harsh man, reaping where you did not sow, and gathering where you did not scatter seed; "
+    },
+    {
+      "verse": 25,
+      "urdu": "پس مَیں نے ڈرتے ہُوئے جا کر تیرا قِنطار زمین میں چُھپایا۔ دیکھ جو تیرا ہَے وہ موجُود ہَےO̲",
+      "english": "so I was afraid, and I went and hid your talent in the ground. Here you have what is yours.’ "
+    },
+    {
+      "verse": 26,
+      "urdu": "اُس کے مالِک نے جَواب میں اُس سے کہا۔ اے شریر اَور سُست غُلام تُو جانتا تھا کہ مَیں نے جہاں نہیں بویا وہاں سے کاٹتا۔ اَور جہاں نہیں بکھیرا وہاں سے جمع کرتا ہُوںO̲",
+      "english": "But his master replied, ‘You wicked and lazy slave! You knew, did you, that I reap where I did not sow, and gather where I did not scatter? "
+    },
+    {
+      "verse": 27,
+      "urdu": "پس چاہیئے تھا کہ تُو میرا روپیہ ساہوکاروں کو دیتا۔ تو مَیں آ کر جو میرا ہَے سُود سمیت لے لیتاO̲",
+      "english": "Then you ought to have invested my money with the bankers, and on my return I would have received what was my own with interest. "
+    },
+    {
+      "verse": 28,
+      "urdu": "پس اِس سے یہ قِنطار لے لو۔ اَور جس کے پاس دس قِنطار ہَیں اُس ے دے دوO̲",
+      "english": "So take the talent from him, and give it to the one with the ten talents. "
+    },
+    {
+      "verse": 29,
+      "urdu": "کیونکہ جس کِسی کے پاس ہَے اُسے دِیا جائے گا۔ اَور اُس کے پاس افراط ہو گی۔ مگر جس کے پاس نہیں ہَے اُس سے وہ بھی لے لِیا جائے گا جو اُس کے پاس ہَےO̲",
+      "english": "For to all those who have, more will be given, and they will have an abundance; but from those who have nothing, even what they have will be taken away. "
+    },
+    {
+      "verse": 30,
+      "urdu": "اَور اِس نِکمّے غُلام کو باہر کے اندھیرے میں ڈال دو۔ وہاں رونا اَور دانتوں کا بجنا ہو گاO̲",
+      "english": "As for this worthless slave, throw him into the outer darkness, where there will be weeping and gnashing of teeth.’"
+    },
+    {
+      "verse": 31,
+      "urdu": "جب اِبنِ اِنسان اپنے جلال میں آئے گا۔ اَور تمام فِرشتے اُس کے ہمراہ ہوں گے تب وہ اپنے تختِ جلالی پر بیٹھے گاO̲",
+      "english": "“When the Son of Man comes in his glory, and all the angels with him, then he will sit on the throne of his glory. "
+    },
+    {
+      "verse": 32,
+      "urdu": "اَور تمام قومیں اُس کے حضُور جمع کی جائیں گی اَور وہ ایک کو دُوسرے سے جُدا کرے گا۔ جس طرح چوپان بھیڑوں کو بکریوں سے جُدا کرتا ہَےO̲",
+      "english": "All the nations will be gathered before him, and he will separate people one from another as a shepherd separates the sheep from the goats, "
+    },
+    {
+      "verse": 33,
+      "urdu": "اَور بھیڑوں کو اپنے دائیں اَور بکریوں کو اپنے بائیں کھڑا کرے گاO̲\n",
+      "english": "and he will put the sheep at his right hand and the goats at the left. "
+    },
+    {
+      "verse": 34,
+      "urdu": "SP\tEPتب بادشاہ اُن سے جو اُس کے دائیں ہوں گے کہے گا۔ آؤ میرے باپ کے مُبارَک لوگو۔ جو بادشاہی بنائے عالم سے تُمہارے لئے تیّار کی گئی ہَے اُسے مِیرَاث میں لوO̲",
+      "english": "Then the king will say to those at his right hand, ‘Come, you that are blessed by my Father, inherit the kingdom prepared for you from the foundation of the world; "
+    },
+    {
+      "verse": 35,
+      "urdu": "کیونکہ مَیں بُھوکا تھا اَور تُم نے مُجھے کھانے کو دِیا۔ مَیں پِیاسا تھا اَور تُم نے مُجھے پِینے کو دِیا۔ مَیں پردیسی تھا اَور تُم نے میری خاطِرداری کیO̲",
+      "english": "for I was hungry and you gave me food, I was thirsty and you gave me something to drink, I was a stranger and you welcomed me, "
+    },
+    {
+      "verse": 36,
+      "urdu": "ننگا تھا اَور تُم نے مُجھے پہنایا۔ بیمار تھا اَور تُم نے میری عِیادَت کی۔ قید میں تھا اَور تُم میرے پاس آئےO̲",
+      "english": "I was naked and you gave me clothing, I was sick and you took care of me, I was in prison and you visited me.’ "
+    },
+    {
+      "verse": 37,
+      "urdu": "تب راستباز اُس کے جَواب میں کہیں گے۔ اَے خُداوند کب ہم نے تُجھے بُھوکا دیکھا اَور کھانے کو دِیا۔ اَور پِیاسا دیکھا اَور پِینے کو دِیا؟O̲",
+      "english": "Then the righteous will answer him, ‘Lord, when was it that we saw you hungry and gave you food, or thirsty and gave you something to drink? "
+    },
+    {
+      "verse": 38,
+      "urdu": "اَور کب ہم نے تُجھے پردیسی دیکھا اَور خاطِرداری کی؟ یا ننگا دیکھا اَور پہنایا؟O̲",
+      "english": "And when was it that we saw you a stranger and welcomed you, or naked and gave you clothing? "
+    },
+    {
+      "verse": 39,
+      "urdu": "یا کب ہم تُجھے بیمار یا قید میں دیکھ کر تیرے پاس آئے؟O̲",
+      "english": "And when was it that we saw you sick or in prison and visited you?’ "
+    },
+    {
+      "verse": 40,
+      "urdu": "بادشاہ جَواب میں اُن سے کہے گا۔ مَیں تُم سے سچ کہتا ہُوں۔ چُونکہ تُم نے میرے اِن سب سے چھوٹے بھائیوں میں سے کِسی ایک کے ساتھ ایسا کِیا تو میرے ہی ساتھ کِیاO̲\n",
+      "english": "And the king will answer them, ‘Truly I tell you, just as you did it to one of the least of these who are members of my family, you did it to me.’ "
+    },
+    {
+      "verse": 41,
+      "urdu": "SP\tEPتب وہ اُن سے بھی جو اُس کے بائیں ہوں گے کہے گا۔ اَے مَلعُونو۔ میرے سامنے سے اُس دائمی آگ میں چلے جاؤ۔ جو شیطان اَور اُس کے فرِشتوں کے لئے تیّار کی گئی ہَےO̲",
+      "english": "Then he will say to those at his left hand, ‘You that are accursed, depart from me into the eternal fire prepared for the devil and his angels; "
+    },
+    {
+      "verse": 42,
+      "urdu": "کیونکہ مَیں بُھوکا تھا اَور تُم نے مُجھے کھانے کو نہ دِیا۔ پِیاسا تھا اَور تُم نے مُجھے پِینے کو نہ دِیاO̲",
+      "english": "for I was hungry and you gave me no food, I was thirsty and you gave me nothing to drink, "
+    },
+    {
+      "verse": 43,
+      "urdu": "پردیسی تھا اَور تُم نے میری خاطِرداری نہ کی۔ ننگا تھا اَور تُم نے مُجھے نہ پہنایا۔ بیمار اَور قید میں تھا اَور تُم نے میری خبر نہ لیO̲",
+      "english": "I was a stranger and you did not welcome me, naked and you did not give me clothing, sick and in prison and you did not visit me.’ "
+    },
+    {
+      "verse": 44,
+      "urdu": "تب وہ بھی جَواب میں کہیں گے اَے خُداوند کب ہم نے تُجھے بُھوکا پِیاسا پردیسی یا ننگا یا بیمار یا قیدی دیکھا اَور تیری خدمت نہ کی؟O̲",
+      "english": "Then they also will answer, ‘Lord, when was it that we saw you hungry or thirsty or a stranger or naked or sick or in prison, and did not take care of you?’ "
+    },
+    {
+      "verse": 45,
+      "urdu": "تب وہ اُن کے جَواب میں کہے گا۔ مَیں تُم سے سچ کہتا ہُوں کہ چُونکہ تُم نے اِن چھوٹوں میں سے کِسی ایک کے ساتھ نہ کِیا تو میرے ساتھ بھی نہ کِیاO̲",
+      "english": "Then he will answer them, ‘Truly I tell you, just as you did not do it to one of the least of these, you did not do it to me.’ "
+    },
+    {
+      "verse": 46,
+      "urdu": "اَور یہ ہمیشہ کے عذاب میں جائیں گے مگر راستباز ہمیشہ کی زِندگی میں +",
+      "english": "And these will go away into eternal punishment, but the righteous into eternal life.”"
+    }
+  ]
+}
