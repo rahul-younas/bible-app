@@ -1,237 +1,432 @@
 {
   "book": "matthew",
-  "chapter": 8,
+  "chapter": 27,
   "sections": {
     "urdu": [
       {
-        "title": "",
+        "title": "انجامِ یہُودہ",
         "start": 1,
-        "end": 12
+        "end": 10
       },
       {
-        "title": "",
-        "start": 13,
-        "end": 17
+        "title": "پِیلاطُس کے سامنے",
+        "start": 11,
+        "end": 26
       },
       {
-        "title": "",
-        "start": 13,
-        "end": 17
+        "title": "کانٹوں کا تاج",
+        "start": 27,
+        "end": 31
       },
       {
-        "title": "",
-        "start": 13,
-        "end": 17
+        "title": "راہِ صلِیب",
+        "start": 32,
+        "end": 35
       },
       {
-        "title": "",
-        "start": 13,
-        "end": 17
+        "title": "یسُوؔع مصلُوب",
+        "start": 36,
+        "end": 44
+      },
+      {
+        "title": "وفاتِ مسیح",
+        "start": 45,
+        "end": 56
+      },
+      {
+        "title": "کفن دفن",
+        "start": 57,
+        "end": 61
+      },
+      {
+        "title": "قبر کی نِگہبانی",
+        "start": 62,
+        "end": 66
       }
     ],
     "english": [
       {
-        "title": "",
+        "title": "Jesus Brought before Pilate",
         "start": 1,
-        "end": 4
+        "end": 2
       },
       {
-        "title": "",
-        "start": 5,
-        "end": 13
+        "title": "The Suicide of Judas",
+        "start": 3,
+        "end": 10
       },
       {
-        "title": "",
-        "start": 14,
-        "end": 17
+        "title": "Pilate Questions Jesus",
+        "start": 11,
+        "end": 14
       },
       {
-        "title": "",
-        "start": 18,
-        "end": 22
+        "title": "Barabbas or Jesus?",
+        "start": 15,
+        "end": 23
       },
       {
-        "title": "",
-        "start": 23,
-        "end": 27
+        "title": "Pilate Hands Jesus over to Be Crucified",
+        "start": 24,
+        "end": 26
       },
       {
-        "title": "",
-        "start": 28,
-        "end": 34
+        "title": "The Soldiers Mock Jesus",
+        "start": 27,
+        "end": 31
+      },
+      {
+        "title": "The Crucifixion of Jesus",
+        "start": 32,
+        "end": 44
+      },
+      {
+        "title": "The Death of Jesus",
+        "start": 45,
+        "end": 56
+      },
+      {
+        "title": "The Burial of Jesus",
+        "start": 57,
+        "end": 61
+      },
+      {
+        "title": "The Guard at the Tomb",
+        "start": 62,
+        "end": 66
       }
     ]
   },
   "verses": [
     {
       "verse": 1,
-      "urdu": "",
-      "english": ""
+      "urdu": "جب صُبح ہُوئی تو سب سردار کاہِنوں اَور قوم کے بزُرگوں نے یسُوؔع کے خلاف مشورہ کِیا کہ اُسے قتل کریںO̲",
+      "english": "When morning came, all the chief priests and the elders of the people conferred together against Jesus in order to bring about his death. "
     },
     {
       "verse": 2,
-      "urdu": "",
-      "english": ""
+      "urdu": "اَور اُسے باندھ کر لے گئے اَور پِیلاطُس حاکِم کے حوالے کِیاO̲\n",
+      "english": "They bound him, led him away, and handed him over to Pilate the governor."
     },
     {
       "verse": 3,
-      "urdu": "",
-      "english": ""
+      "urdu": "SP\tEPتب اُس کے پکڑوانے والے یہُودہ نے دیکھا کہ وہ مجُرم ٹھہرایا گیا تو پچھتایا اَور وہ تیس مِثقال سردار کاہِنوں اَور بزُرگوں کے پاس واپس لایاO̲",
+      "english": "When Judas, his betrayer, saw that Jesus was condemned, he repented and brought back the thirty pieces of silver to the chief priests and the elders. "
     },
     {
       "verse": 4,
-      "urdu": "",
-      "english": ""
+      "urdu": "اَور کہا مَیں نے گُناہ کِیا کہ بے قصُور کو قتل کے لئے پکڑوایا۔ وہ بولے ہمیں کیا۔ تُو جانO̲",
+      "english": "He said, “I have sinned by betraying innocent blood.” But they said, “What is that to us? See to it yourself.” "
     },
     {
       "verse": 5,
-      "urdu": "",
-      "english": ""
+      "urdu": "تب وہ مِثقال ہَیکل میں پھینک کر چلا گیا۔ اَور جا کر اپنے آپ کو پھانسی دیO̲",
+      "english": "Throwing down the pieces of silver in the temple, he departed; and he went and hanged himself. "
     },
     {
       "verse": 6,
-      "urdu": "",
-      "english": ""
+      "urdu": "مگر سردار کاہِنوں نے وہ مِثقال لے کر کہا اِنہیں خزانے میں ڈالنا رَوا نہیں۔ کیونکہ یہ خُون کی قیمت ہَےO̲",
+      "english": "But the chief priests, taking the pieces of silver, said, “It is not lawful to put them into the treasury, since they are blood money.” "
     },
     {
       "verse": 7,
-      "urdu": "",
-      "english": ""
+      "urdu": "تب اُنہوں نے مشورہ کر کے اُن سے کُمہار کا کھیت پردیسیوں کے دفن کرنے کے لئے خِریداO̲",
+      "english": "After conferring together, they used them to buy the potter’s field as a place to bury foreigners. "
     },
     {
       "verse": 8,
-      "urdu": "",
-      "english": ""
+      "urdu": "اِس سبب سے آج تک وہ کھیت خُون کا کھیت کہلاتا ہَےO̲",
+      "english": "For this reason that field has been called the Field of Blood to this day. "
     },
     {
       "verse": 9,
-      "urdu": "",
-      "english": ""
+      "urdu": "تب وہ پُورا ہُؤا جو اِرمیا نبی کی معرفت کہا گیا تھا کہ\nSPاُنہوں نے وہ تیس مِثقال لئے۔\nیعنی وہ لگان جو اُس پر لگایا گیا۔\nجِنہوں نے لگایا وہ بنی اِسرائیل میں سے تھےO̲EP\n",
+      "english": "Then was fulfilled what had been spoken through the prophet Jeremiah, “And they took the thirty pieces of silver, the price of the one on whom a price had been set, on whom some of the people of Israel had set a price, "
     },
     {
       "verse": 10,
-      "urdu": "",
-      "english": ""
+      "urdu": "\nSPاَور اُنہیں کُمہار کے کھیت کے واسطے دِیا۔\nجیسا خُداوند نے مُجھے حُکم دِیاO̲EP",
+      "english": "and they gave them for the potter’s field, as the Lord commanded me.”"
     },
     {
       "verse": 11,
-      "urdu": "",
-      "english": ""
+      "urdu": "اَور یسُوؔع حاکِم کے رُوبرُو کھڑا تھا اَور حاکِم نے اُس سے پُوچھا۔ کیا تُو یہُودیوں کا بادشاہ ہَے؟ یسُوؔع نے اُس سے کہا کہ تُو خُود ہی کہتا ہَےO̲",
+      "english": "Now Jesus stood before the governor; and the governor asked him, “Are you the King of the Jews?” Jesus said, “You say so.” "
     },
     {
       "verse": 12,
-      "urdu": "",
-      "english": ""
+      "urdu": "اَور جب سردار کاہِن اَور بزُرگ اُس پر اِلزام لگا رہے تھے۔ تو اُس نے کُچھ جَواب نہ دِیاO̲",
+      "english": "But when he was accused by the chief priests and elders, he did not answer. "
     },
     {
       "verse": 13,
-      "urdu": "",
-      "english": ""
+      "urdu": "تب پِیلاطُس نے اُس سے کہا کیا تُو نہیں سُنتا کہ یہ تیرے خلاف کِتنی گَواہیاں دیتے ہَیں؟O̲",
+      "english": "Then Pilate said to him, “Do you not hear how many accusations they make against you?” "
     },
     {
       "verse": 14,
-      "urdu": "",
-      "english": ""
+      "urdu": "لیکن اُس نے اُسے کِسی ایک بات کا بھی جَواب نہ دِیا۔ چُنانچہ حاکِم نہایت مُتعجّب ہُؤاO̲",
+      "english": "But he gave him no answer, not even to a single charge, so that the governor was greatly amazed."
     },
     {
       "verse": 15,
-      "urdu": "",
-      "english": ""
+      "urdu": "حاکِم کا دستُور تھا کہ عید پر عوام کی خاطِر ایک قیدی جِسے وہ چاہتے تھے چھوڑ دیتا تھاO̲",
+      "english": "Now at the festival the governor was accustomed to release a prisoner for the crowd, anyone whom they wanted. "
     },
     {
       "verse": 16,
-      "urdu": "",
-      "english": ""
+      "urdu": "اُس وقت بَرابّا نامی ایک مشہُور قیدی تھیO̲",
+      "english": "At that time they had a notorious prisoner, called Jesus Barabbas. "
     },
     {
       "verse": 17,
-      "urdu": "",
-      "english": ""
+      "urdu": "پس جب کہ وہ اِکٹھے تھے۔ پِیلاطُس نے اُن سے کہا۔ کہ تُم کِسے چاہتے ہو کہ مَیں تُمہارے لئے چھوڑ دُوں بَرابّا کو یا یسُوؔع کو جو مسیح کہلاتا ہَےO̲",
+      "english": "So after they had gathered, Pilate said to them, “Whom do you want me to release for you, Jesus Barabbas or Jesus who is called the Messiah?” "
     },
     {
       "verse": 18,
-      "urdu": "",
-      "english": ""
+      "urdu": "کیونکہ اُسے معلُوم تھا کہ اُنہوں نے حسد سے اُسے حوالے کِیا ہَےO̲",
+      "english": "For he realized that it was out of jealousy that they had handed him over. "
     },
     {
       "verse": 19,
-      "urdu": "",
-      "english": ""
+      "urdu": "اَور جب وہ مَسندِعدالت پر بیٹھا تھا تو اُس کی بیوی نے اُسے کہلا بھیجا کہ تُو اِس راستباز سے کُچھ کام نہ رکھّ۔ کیونکہ مَیں نے آج خواب میں اس کے سبب سے بہُت دُکھ اُٹھایا ہَےO̲",
+      "english": "While he was sitting on the judgment seat, his wife sent word to him, “Have nothing to do with that innocent man, for today I have suffered a great deal because of a dream about him.” "
     },
     {
       "verse": 20,
-      "urdu": "",
-      "english": ""
+      "urdu": "لیکن سردار کاہِنوں اَور بزُرگوں نے ہجُوم کو اُبھارا کہ بَرابّا کو مانگ لیں اَور یسُوؔع کو ہلاک کرائیںO̲",
+      "english": "Now the chief priests and the elders persuaded the crowds to ask for Barabbas and to have Jesus killed. "
     },
     {
       "verse": 21,
-      "urdu": "",
-      "english": ""
+      "urdu": "اَور حاکِم نے اُن سے خطاب کر کے کہا۔ تُم اِن دونوں میں سے کِسے چاہتے ہو کہ مَیں تُمہارے لئے چھوڑ دُوں؟ اُنہوں نے کہا بَرابّا کوO̲",
+      "english": "The governor again said to them, “Which of the two do you want me to release for you?” And they said, “Barabbas.” "
     },
     {
       "verse": 22,
-      "urdu": "",
-      "english": ""
+      "urdu": "پِیلاطُس نے اُن سے کہا پِھر یسُوؔع کو جو مسیح کہلاتا ہَے مَیں کیا کرُوں؟ سب نے کہا کہ اُسے صلِیب دی جائےO̲",
+      "english": "Pilate said to them, “Then what should I do with Jesus who is called the Messiah?” All of them said, “Let him be crucified!” "
     },
     {
       "verse": 23,
-      "urdu": "",
-      "english": ""
+      "urdu": "حاکِم نے کہا۔ کیوں۔ اِس نے کیا بَدی کی ہَے؟ مگر وہ اَور بھی چِلّائے کہ اُسے صلِیب دی جائےO̲\n",
+      "english": "Then he asked, “Why, what evil has he done?” But they shouted all the more, “Let him be crucified!”"
     },
     {
       "verse": 24,
-      "urdu": "",
-      "english": ""
+      "urdu": "SP\tEPجب پِیلاطُس نے دیکھا کہ کُچھ بن نہیں پڑتا بلکہ ہنگامہ زِیادہ ہوتا جاتا ہَے تو پانی لے کر عوام کے سامنے اپنے ہاتھ دھوئے اَور کہا۔ مَیں اِس راستباز کے خُون سے پاک ہُوں۔ تُم جانوO̲",
+      "english": "So when Pilate saw that he could do nothing, but rather that a riot was beginning, he took some water and washed his hands before the crowd, saying, “I am innocent of this man’s blood; see to it yourselves.” "
     },
     {
       "verse": 25,
-      "urdu": "",
-      "english": ""
+      "urdu": "سب لوگ اُٹھے اَور کہا۔ اُس کا خُون ہم پر اَور ہماری اولاد پرO̲",
+      "english": "Then the people as a whole answered, “His blood be on us and on our children!” "
     },
     {
       "verse": 26,
-      "urdu": "",
-      "english": ""
+      "urdu": "اِس پر اُس نے بَرابّا کو اُن کے لئے چھوڑ دِیا اَور یسُوؔع کو کوڑے لگوا کر حوالے کِیا تاکہ مصلُوب کِیا جائےO̲",
+      "english": "So he released Barabbas for them; and after flogging Jesus, he handed him over to be crucified."
     },
     {
       "verse": 27,
-      "urdu": "",
-      "english": ""
+      "urdu": "تب حاکِم کے سِپاہیوں نے یسُوؔع کو قِلعے میں لے جا کر تمام گروہ اُس کے گِرد جمع کِیاO̲",
+      "english": "Then the soldiers of the governor took Jesus into the governor’s headquarters, and they gathered the whole cohort around him. "
     },
     {
       "verse": 28,
-      "urdu": "",
-      "english": ""
+      "urdu": "اَور اُسکے کپڑے اُتار کر اُسے قرمزی چُغہ پہنایاO̲",
+      "english": "They stripped him and put a scarlet robe on him, "
     },
     {
       "verse": 29,
-      "urdu": "",
-      "english": ""
+      "urdu": "اَور کانٹوں کا تاج بنا کر اُس کے سر پر رکھّا اَور سرکنڈا اُس کے دہنے ہاتھ میں دِیا۔ اَور اُس کے آگے گُھٹنے ٹیک کر اُس پر ٹھٹّھامار کر کہا۔ اَے یہُودیوں کے بادشاہ سلامO̲",
+      "english": "and after twisting some thorns into a crown, they put it on his head. They put a reed in his right hand and knelt before him and mocked him, saying, “Hail, King of the Jews!” "
     },
     {
       "verse": 30,
-      "urdu": "",
-      "english": ""
+      "urdu": "اَور اُس پر تُھوکا اَور وہی سرکنڈا لے کر اُس کے سر پر مارنے لگےO̲",
+      "english": "They spat on him, and took the reed and struck him on the head. "
     },
     {
       "verse": 31,
-      "urdu": "",
-      "english": ""
+      "urdu": "اَور جب وہ اُس پر ٹھٹّھا کر چکے تو چُغے کو اُتار کر پِھر اُسی کے کپڑے اُسے پہنائے اَور مصلُوب کرنے کو لے چلےO̲",
+      "english": "After mocking him, they stripped him of the robe and put his own clothes on him. Then they led him away to crucify him."
     },
     {
       "verse": 32,
-      "urdu": "",
-      "english": ""
+      "urdu": "جب وہ باہر آئے تو اُنہوں نے شمعُون نامی ایک قیروانی آدمی کو پاکر اُسے بیگار میں پکڑا کہ اُس کی صلِیب اُٹھالےO̲",
+      "english": "As they went out, they came upon a man from Cyrene named Simon; they compelled this man to carry his cross. "
     },
     {
       "verse": 33,
-      "urdu": "",
-      "english": ""
+      "urdu": "اَور جب اُس مقام پر پہُنچے جو جُلجُتا یعنی کھوپڑی کی جگہ کہلاتی ہَےO̲",
+      "english": "And when they came to a place called Golgotha (which means Place of a Skull), "
     },
     {
       "verse": 34,
-      "urdu": "",
-      "english": ""
+      "urdu": "تو اُنہوں نے پت مِلی ہُوئی مَے اُسے پِینے کو دی۔ اَور اُس نے چکھ کر پِینا نہ چاہیO̲",
+      "english": "they offered him wine to drink, mixed with gall; but when he tasted it, he would not drink it. "
+    },
+    {
+      "verse": 35,
+      "urdu": "اَور جب اُنہوں نے اُسے مصلُوب کِیا تو اُس کے کپڑوں کو قُرعہ ڈال کر بانٹ لِیا۔ [تاکہ جو نبی کی معرفت کہا گیا تھا وہ پُورا ہو کہ اُنہوں نے میرے کپڑے آپس میں بانٹ لئے اَور میرے کُرتے پر قُرعہ دالا]O̲",
+      "english": "And when they had crucified him, they divided his clothes among themselves by casting lots; "
+    },
+    {
+      "verse": 36,
+      "urdu": "اَور وہ وہاں بیٹھ کر اُس کی نِگہبانی کرنے لگےO̲",
+      "english": "then they sat down there and kept watch over him. "
+    },
+    {
+      "verse": 37,
+      "urdu": "اَور اُس کا اِلزام لِکھ کر اُس کے سر سے اُوپر لگا دِیا۔ کہ ” یہ یسُوؔع ہَے یہُودیوں کا بادشاہ “O̲\n",
+      "english": "Over his head they put the charge against him, which read, “This is Jesus, the King of the Jews.”\n\n"
+    },
+    {
+      "verse": 38,
+      "urdu": "SP\tEPتب اُس کے ساتھ دو ڈاکُو بھی مصلُوب ہُوئے۔ ایک دائیں اَور ایک بائیںO̲",
+      "english": "Then two bandits were crucified with him, one on his right and one on his left. "
+    },
+    {
+      "verse": 39,
+      "urdu": "اَور راہ چلنے والے جو پاس سے گُزرتے تھے وہ سر ہِلا ہِلا کر اُسے ملامت کرتےO̲",
+      "english": "Those who passed by derided him, shaking their heads "
+    },
+    {
+      "verse": 40,
+      "urdu": "اَور کہتے تھے واہ! تُو جو ہَیکل کو ڈھاتا اَور تین دن میں بناتا ہَے اپنے آپ کو بچا۔ اگر تُو خُدا کا بیٹا ہَے۔ تو صلِیب پر سے اُترآO̲",
+      "english": "and saying, “You who would destroy the temple and build it in three days, save yourself! If you are the Son of God, come down from the cross.” "
+    },
+    {
+      "verse": 41,
+      "urdu": "اِسی طرح سردار کاہِنوں نے بھی مع فقیہوں اَور بزُرگوں کے ٹھٹّھا مار کر کہاO̲",
+      "english": "In the same way the chief priests also, along with the scribes and elders, were mocking him, saying, "
+    },
+    {
+      "verse": 42,
+      "urdu": "اِس نے اَوروں کو بچایا۔ اپنے آپ کو نہیں بچا سکتا۔ اگر یہ اِسرائیل کا بادشاہ ہَے۔ تو اَب صلِیب پر سے اُتر آئے اَور ہم اِس پر ایمان لائیں گےO̲",
+      "english": "“He saved others; he cannot save himself. He is the King of Israel; let him come down from the cross now, and we will believe in him. "
+    },
+    {
+      "verse": 43,
+      "urdu": "اِس کا تو کُّل خُدا پر ہَے۔ اگر وہ اِسے چاہتا ہَے تو وہ اَب اِسے بچائے۔ کیونکہ اِس نے کہا تھا کہ مَیں خُدا کا بیٹا ہُوںO̲",
+      "english": "He trusts in God; let God deliver him now, if he wants to; for he said, ‘I am God’s Son.’” "
+    },
+    {
+      "verse": 44,
+      "urdu": "اَور اِسی طرح کی باتوں سے وہ ڈاکُو بھی جو اُس کے ساتھ مصلُوب ہُوئے اُسے ملامت کرتے تھےO̲",
+      "english": "The bandits who were crucified with him also taunted him in the same way."
+    },
+    {
+      "verse": 45,
+      "urdu": "اَب چھٹی گھڑی سے نویں گھڑی تک تمام مُلک میں اندھیرا چھا گیاO̲",
+      "english": "From noon on, darkness came over the whole land until three in the afternoon. "
+    },
+    {
+      "verse": 46,
+      "urdu": "نویں گھڑی کے قریب یسُوؔع نے بڑی آواز سے چِلّا کر کہا ” اِیلی اِیلی لَماَ شَبَقتَانی “ یعنی اَے میرے خُدا! اَے میرے خُدا! تُو نے مُجھے کیوں چھوڑ دِیاO̲",
+      "english": "And about three o’clock Jesus cried with a loud voice, “Eli, Eli, lema sabachthani?” that is, “My God, my God, why have you forsaken me?” "
+    },
+    {
+      "verse": 47,
+      "urdu": "جو وہاں کھڑے تھے اُن میں سے بعض نے سُن کر کہا۔ کہ وہ اِلیاس کو پُکارتا ہَےO̲",
+      "english": "When some of the bystanders heard it, they said, “This man is calling for Elijah.” "
+    },
+    {
+      "verse": 48,
+      "urdu": "اَور فی الفور اُن میں سے ایک نے دوڑ کر اسفنج لِیا اَور سِرکہ سے بھرا اَور سرکنڈے پر رکھّ کر اُسے پِینے کو دِیاO̲",
+      "english": "At once one of them ran and got a sponge, filled it with sour wine, put it on a stick, and gave it to him to drink. "
+    },
+    {
+      "verse": 49,
+      "urdu": "مگر دُوسروں نے کہا۔ ٹھہر جا۔ دیکھیں کہ آیا اِلیاس اِسے بچانے آتا ہَےO̲\n",
+      "english": "But the others said, “Wait, let us see whether Elijah will come to save him.” "
+    },
+    {
+      "verse": 50,
+      "urdu": "SP\tEPاَور یسُوؔع نے پِھر بڑی آواز سے چِلّا کر جان دے دیO̲",
+      "english": "Then Jesus cried again with a loud voice and breathed his last. "
+    },
+    {
+      "verse": 51,
+      "urdu": "اَور دیکھو ہَیکل کا پردہ اُوپر سے نیچے تک پھٹ کر دو ٹُکڑے ہو گیا اَور زمین لرزی اَور چٹانیں تڑک گئیںO̲",
+      "english": "At that moment the curtain of the temple was torn in two, from top to bottom. The earth shook, and the rocks were split. "
+    },
+    {
+      "verse": 52,
+      "urdu": "اَور قبریں کُھل گئیں۔ اَور بہُت سے جِسم اُن مُقدّسوں کے جو سو گئے تھے جی اُٹھےO̲",
+      "english": "The tombs also were opened, and many bodies of the saints who had fallen asleep were raised. "
+    },
+    {
+      "verse": 53,
+      "urdu": "اَور اُس کے جی اٹھنے کے بعد قبروں سے نِکل کر مُقدّس شہر میں جا کر بہُتیروں کو دکھائی دیئےO̲",
+      "english": "After his resurrection they came out of the tombs and entered the holy city and appeared to many. "
+    },
+    {
+      "verse": 54,
+      "urdu": "جب صُوبہ دار نے اَور اُنہوں نے جو اُس کے ساتھ یسُوؔع کی نِگہبانی کرتے تھے زلزلہ اَور سارا ماجرا دیکھا تو نہایت ڈر گئے اَور کہنے لگے بیشک یہ خُدا کا بیٹا تھاO̲",
+      "english": "Now when the centurion and those with him, who were keeping watch over Jesus, saw the earthquake and what took place, they were terrified and said, “Truly this man was God’s Son!”\n\n"
+    },
+    {
+      "verse": 55,
+      "urdu": "اَور وہاں بہُت سی عورتیں بھی تھیں۔ جو دُور سے دیکھ رہی تھیں اَور جو جلِیل سے یسُوؔع کی خدمت کرتی ہُوئی اُس کے پیچھے پیچھے آئی تھیںO̲",
+      "english": "Many women were also there, looking on from a distance; they had followed Jesus from Galilee and had provided for him. "
+    },
+    {
+      "verse": 56,
+      "urdu": "اُن میں مریم مجدلی تھی۔ یَعقُوب اَور یُوسف کی ماں مریم اےور زبدی کے بیٹوں کی ماںO̲",
+      "english": "Among them were Mary Magdalene, and Mary the mother of James and Joseph, and the mother of the sons of Zebedee."
+    },
+    {
+      "verse": 57,
+      "urdu": "جب شام ہُوئی تو یُوسف نامی رامتی ایک دولتمند آدمی آیا جو خُود بھی یسُوؔع کا شاگِرد تھاO̲",
+      "english": "When it was evening, there came a rich man from Arimathea, named Joseph, who was also a disciple of Jesus. "
+    },
+    {
+      "verse": 58,
+      "urdu": "اِس نے پِیلاطُس کے پاس جا کر یسُوؔع کی لاش مانگی۔ تب پِیلاطُس نے لاش دے دینے کا حُکم دِیاO̲",
+      "english": "He went to Pilate and asked for the body of Jesus; then Pilate ordered it to be given to him. "
+    },
+    {
+      "verse": 59,
+      "urdu": "یُوسف نے لاش کو لے کر صاف کَتانی چادر میں کفنایاO̲",
+      "english": "So Joseph took the body and wrapped it in a clean linen cloth "
+    },
+    {
+      "verse": 60,
+      "urdu": "اَور اپنی نئی قبر میں رکھّا جو اُس نے چٹان میں کُھدوائی ہُوئی تھی اَور ایک بڑا پتّھر قبر کے مُنہ پر لُڑھکا کر چلا گیاO̲",
+      "english": "and laid it in his own new tomb, which he had hewn in the rock. He then rolled a great stone to the door of the tomb and went away. "
+    },
+    {
+      "verse": 61,
+      "urdu": "اَور مریم مجدلی اَور دُوسری مریم وہاں قبر کے سامنے بیٹھی تھیںO̲",
+      "english": "Mary Magdalene and the other Mary were there, sitting opposite the tomb."
+    },
+    {
+      "verse": 62,
+      "urdu": "دُوسرے روز تیّاری کے بعد کا دن ہَے سردار کاہِنوں اَور فریسیوں نے پِیلاطُس کے پاس جمع ہر کرO̲",
+      "english": "The next day, that is, after the day of Preparation, the chief priests and the Pharisees gathered before Pilate "
+    },
+    {
+      "verse": 63,
+      "urdu": "کہا اے خُداوند ہمیں یاد ہَے کہ اُس دغاباز نے اپنے جِیتے جی کہا تھا کہ مَیں تین دِن کے بعد جی اُٹھوں گاO̲",
+      "english": "and said, “Sir, we remember what that impostor said while he was still alive, ‘After three days I will rise again.’ "
+    },
+    {
+      "verse": 64,
+      "urdu": "پس حُکم دے کہ تیسرے دِن تک قبر کی نِگہبانی کی جائے ایسا نہ ہو کہ اُس کے شاگِرد آ کر اُسے چُرالے جائیں۔ اَور لوگوں سے کہیں۔ کہ وہ مُردوں میں سے جی اُٹھا ہَے۔ تو یہ پچھلا فریب  پہلے سے بھی بَد تر ہوگاO̲",
+      "english": "Therefore command the tomb to be made secure until the third day; otherwise his disciples may go and steal him away, and tell the people, ‘He has been raised from the dead,’ and the last deception would be worse than the first.” "
+    },
+    {
+      "verse": 65,
+      "urdu": "پِیلاطُس نے اُن سے کہا۔ تُمہارے پاس پہرے والے ہَیں۔ جاؤ۔ جس طرح مُناسِب سمجھو اُس کی نِگہبانی کروO̲",
+      "english": "Pilate said to them, “You have a guard of soldiers; go, make it as secure as you can.” "
+    },
+    {
+      "verse": 66,
+      "urdu": "اُنہوں نے جا کر اُس پتّھر پر مُہر کر دی اَور پہرہ بٹھا کر قبر کی نِگہبانی کی +",
+      "english": "So they went with the guard and made the tomb secure by sealing the stone."
     }
   ]
 }
