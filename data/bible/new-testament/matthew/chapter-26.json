@@ -1,0 +1,482 @@
+{
+  "book": "matthew",
+  "chapter": 26,
+  "sections": {
+    "urdu": [
+      {
+        "title": "مشورۂ قتل",
+        "start": 1,
+        "end": 5
+      },
+      {
+        "title": "بَیت عنیا کا مسَح",
+        "start": 6,
+        "end": 13
+      },
+      {
+        "title": "یہُودہ کی خیانت",
+        "start": 14,
+        "end": 16
+      },
+      {
+        "title": "آخِری کھانا",
+        "start": 17,
+        "end": 30
+      },
+      {
+        "title": "پطرس کے اِنکار کی نبُوّت",
+        "start": 31,
+        "end": 35
+      },
+      {
+        "title": "زیتُون کے باغ میں جانکنی",
+        "start": 36,
+        "end": 46
+      },
+      {
+        "title": "یسُوؔع کی گِرفتاری",
+        "start": 47,
+        "end": 56
+      },
+      {
+        "title": "عدالتِ عالیہ کے سامنے",
+        "start": 57,
+        "end": 68
+      },
+      {
+        "title": "پطرس کا اِنکار",
+        "start": 69,
+        "end": 75
+      }
+    ],
+    "english": [
+      {
+        "title": "The Plot to Kill Jesus",
+        "start": 1,
+        "end": 5
+      },
+      {
+        "title": "The Anointing at Bethany",
+        "start": 6,
+        "end": 13
+      },
+      {
+        "title": "Judas Agrees to Betray Jesus",
+        "start": 14,
+        "end": 16
+      },
+      {
+        "title": "The Passover with the Disciples",
+        "start": 17,
+        "end": 25
+      },
+      {
+        "title": "The Institution of the Lord’s Supper",
+        "start": 26,
+        "end": 30
+      },
+      {
+        "title": "Peter’s Denial Foretold",
+        "start": 31,
+        "end": 35
+      },
+      {
+        "title": "Jesus Prays in Gethsemane",
+        "start": 36,
+        "end": 46
+      },
+      {
+        "title": "The Betrayal and Arrest of Jesus",
+        "start": 47,
+        "end": 56
+      },
+      {
+        "title": "Jesus before the High Priest",
+        "start": 57,
+        "end": 68
+      },
+      {
+        "title": "Peter’s Denial of Jesus",
+        "start": 69,
+        "end": 75
+      }
+    ]
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "urdu": "اَور یُوں ہُؤا کہ جب یسُوؔع یہ سب باتیں کر چُکا تو اُس نے اپنے شاگِردوں سے کہاO̲",
+      "english": "When Jesus had finished saying all these things, he said to his disciples, "
+    },
+    {
+      "verse": 2,
+      "urdu": "تُم جانتے ہو کہ دو دِن کے بعد فصَح ہو گا۔ اَور اِبنِ اِنسان حوالہ کِیا جائے گا۔ تاکہ اُسے صلِیب دِیا جائےO̲",
+      "english": "“You know that after two days the Passover is coming, and the Son of Man will be handed over to be crucified.”\n\n"
+    },
+    {
+      "verse": 3,
+      "urdu": "تب سردار کاہَن اَور قوم کے بزُرگ قیافا نامی سردار کاہِن کے ایوان میں جمع ہُوئےO̲",
+      "english": "Then the chief priests and the elders of the people gathered in the palace of the high priest, who was called Caiaphas, "
+    },
+    {
+      "verse": 4,
+      "urdu": "اَور مشورہ کِیا کہ یسُوؔع کو فریب سے پکڑ کر قتل کر دیںO̲",
+      "english": "and they conspired to arrest Jesus by stealth and kill him. "
+    },
+    {
+      "verse": 5,
+      "urdu": "مگر کہتے تھے کہ عید میں نہیں ایسا نہ ہو کہ لوگوں میں فساد برپا ہوO̲",
+      "english": "But they said, “Not during the festival, or there may be a riot among the people.”"
+    },
+    {
+      "verse": 6,
+      "urdu": "اَور جب یسُوؔع بَیت عنیا میں شمعُون کوڑھی کے گھر میں تھاO̲",
+      "english": "Now while Jesus was at Bethany in the house of Simon the leper, "
+    },
+    {
+      "verse": 7,
+      "urdu": "تو ایک عورت سنگِ مرمر کے عِطردان میں قیمتی عِطر لے کر اُس کے پاس آئی۔ اَور جب وہ کھانا کھانے بیٹھا تو اُس کے سر پر ڈالاO̲",
+      "english": "a woman came to him with an alabaster jar of very costly ointment, and she poured it on his head as he sat at the table. "
+    },
+    {
+      "verse": 8,
+      "urdu": "اَور شاگِرد یہ دیکھ کر خفا ہُوئَ اَور کہنے لگے۔ کِس لئے یہ برباد کِیا گیاO̲",
+      "english": "But when the disciples saw it, they were angry and said, “Why this waste? "
+    },
+    {
+      "verse": 9,
+      "urdu": "کیونکہ یہ بڑے دام پر بِکتا اَور غریبوں کو دِیا جاتاO̲",
+      "english": "For this ointment could have been sold for a large sum, and the money given to the poor.” "
+    },
+    {
+      "verse": 10,
+      "urdu": "یسُوؔع نے یہ جانتے ہُوئے اُن سے کہا کہ اِس عورت کو کیوں دِق کرتے ہو؟ اِس نے تو میرے ساتھ نیک کام کِیا ہَےO̲",
+      "english": "But Jesus, aware of this, said to them, “Why do you trouble the woman? She has performed a good service for me. "
+    },
+    {
+      "verse": 11,
+      "urdu": "کیونکہ غریب تو ہمیشہ تُمہارے پاس ہَیں۔ لیکن مَیں تُمہارے پاس ہمیشہ نہیں ہوُںO̲",
+      "english": "For you always have the poor with you, but you will not always have me. "
+    },
+    {
+      "verse": 12,
+      "urdu": "کیونکہ اِس نے میرے بدن پر یہ عِطر ڈالنے سے یہ میرے دفن کے لئے کِیاO̲",
+      "english": "By pouring this ointment on my body she has prepared me for burial. "
+    },
+    {
+      "verse": 13,
+      "urdu": "مَیں تُم سے سچ کہتا ہُوں کہ تمام دُنیا میں جہاں کہیں اِس اِنجیل کی مُنادی ہوگی۔ یہ بھی جو اِس نے کیا۔ اِس کی یادگاری کے لئے کہا جائے گاO̲",
+      "english": "Truly I tell you, wherever this good news is proclaimed in the whole world, what she has done will be told in remembrance of her.”"
+    },
+    {
+      "verse": 14,
+      "urdu": "تب اُن بارہ میں سے ایک جس کا نام یہُودہ اِسخریوطی تھا۔ سردار کاہِنوں کے پاس گیاO̲",
+      "english": "Then one of the twelve, who was called Judas Iscariot, went to the chief priests "
+    },
+    {
+      "verse": 15,
+      "urdu": "اَور کہا کہ اگر مَیں اُسے تُمہارے حوالے کرادُوں تو مُجھے کیا دو گے؟ اَور اُنہوں نے اُسے تیس مِثقال تول کر دے دیئےO̲",
+      "english": "and said, “What will you give me if I betray him to you?” They paid him thirty pieces of silver. "
+    },
+    {
+      "verse": 16,
+      "urdu": "اَور وہ اُس وقت سے اُس کے پکڑوانے کا موقع ڈُھونڈنے لگاO̲",
+      "english": "And from that moment he began to look for an opportunity to betray him."
+    },
+    {
+      "verse": 17,
+      "urdu": "اَور عیدِ فطیر کے پہلے دن شاگِردوں نے یسُوؔع کے پاس آ کر کہا تُو کہاں چاہتا ہَے۔ کہ ہم تیرے لئے فصَح کھانے کی تیّاری کریںO̲",
+      "english": "On the first day of Unleavened Bread the disciples came to Jesus, saying, “Where do you want us to make the preparations for you to eat the Passover?” "
+    },
+    {
+      "verse": 18,
+      "urdu": "اُس نے کہا شہر میں فلاں شخص کے پاس جا کر اُس سے کہو کہ اُستاد فرماتا ہَے۔ میرا وقت نزدِیک ہَے۔ مَیں اپنے شاگِردوں کے ساتھ تیرے ہاں فصَح کرُوں گاO̲",
+      "english": "He said, “Go into the city to a certain man, and say to him, ‘The Teacher says, My time is near; I will keep the Passover at your house with my disciples.’” "
+    },
+    {
+      "verse": 19,
+      "urdu": "اَور جیسا یسُوؔع نے شاگِردوں کو حُکم دِیا تھا اُنہوں نے ویسا ہی کِیا۔ اَور فصَح تیّار کِیاO̲\n",
+      "english": "So the disciples did as Jesus had directed them, and they prepared the Passover meal.\n\n"
+    },
+    {
+      "verse": 20,
+      "urdu": "SP\tEPجب شام ہُوئی تو وہ بارہ شاگِردوں کے ساتھ کھانا کھانے بیٹھاO̲",
+      "english": "When it was evening, he took his place with the twelve; "
+    },
+    {
+      "verse": 21,
+      "urdu": "اَور جب وہ کھا رہے تھے تو اُس نے کہا مَیں تُم سے سچ کہتا ہُوں کہ تُم میں سے ایک مُجھے پکڑوائے گاO̲",
+      "english": "and while they were eating, he said, “Truly I tell you, one of you will betray me.” "
+    },
+    {
+      "verse": 22,
+      "urdu": "اَور وہ بہُت دِلگیر ہُوئے اَور ہر ایک اُس سے کہنے لگا۔ اَے خُداوند کیا مَیں ہُوں؟O̲",
+      "english": "And they became greatly distressed and began to say to him one after another, “Surely not I, Lord?” "
+    },
+    {
+      "verse": 23,
+      "urdu": "اُس نے جَواب میں کہا جو میرے ساتھ طباق میں ہاتھ ڈالتا ہَے وہی مُجھے پکڑوائے گاO̲",
+      "english": "He answered, “The one who has dipped his hand into the bowl with me will betray me. "
+    },
+    {
+      "verse": 24,
+      "urdu": "اِبنِ اِنسان تو جیسا اُس کے حَق میں لِکھا ہَے جاتا ہَے۔ لیکن اُس آدمی پر افسوس جس کے وسیلے سے اِبنِ اِنسان پکڑوایا جاتا ہَے۔ اگر  وہ آدمی پیدا نہ ہوتا تو اُس کے لئے اچھّا ہوتاO̲",
+      "english": "The Son of Man goes as it is written of him, but woe to that one by whom the Son of Man is betrayed! It would have been better for that one not to have been born.” "
+    },
+    {
+      "verse": 25,
+      "urdu": "تب اُس کے پکڑوانے والا یہُودہ بول اُٹھا اَور کہا۔ اَے ربّی کیا مَیں ہُوں؟ اُس نے اُس سے کہا۔ تُو نے خُودہی کہہ دِیاO̲\n",
+      "english": "Judas, who betrayed him, said, “Surely not I, Rabbi?” He replied, “You have said so.”"
+    },
+    {
+      "verse": 26,
+      "urdu": "SP\nEPجب وہ کھانا کھا رہے تھے تو یسُوؔع نے روٹی لی اَور برکت دی اَور توڑی اَور شاگِردوں کو دے کر کہا۔ لو۔ کھاؤ۔ یہ میرا بدن ہَےO̲",
+      "english": "While they were eating, Jesus took a loaf of bread, and after blessing it he broke it, gave it to the disciples, and said, “Take, eat; this is my body.” "
+    },
+    {
+      "verse": 27,
+      "urdu": "پِھر پیالہ لے کر شُکر کِیا اَور اُنہیں دے کر کہا تُم سب اِس میں سے پِیئوO̲",
+      "english": "Then he took a cup, and after giving thanks he gave it to them, saying, “Drink from it, all of you; "
+    },
+    {
+      "verse": 28,
+      "urdu": "کیونکہ نئے عہد کا یہ میرا خُون ہَے جو بہُتیروں کی خاطِر گُناہوں کی مُعافی کے لئے بہایا جاتا ہَےO̲",
+      "english": "for this is my blood of the covenant, which is poured out for many for the forgiveness of sins. "
+    },
+    {
+      "verse": 29,
+      "urdu": "اَور مَیں تُم سے کہتا ہُوں۔ کہ تاک کے اِس شِیرہ کو پِھر نہ پِیئوں گا۔ اُس دن تک کہ تُمہارے ساتھ اپنے باپ کی بادشاہی میں نیا نہ پِیئوںO̲\n",
+      "english": "I tell you, I will never again drink of this fruit of the vine until that day when I drink it new with you in my Father’s kingdom.”\n\n"
+    },
+    {
+      "verse": 30,
+      "urdu": "\nSPاَور وہ گیت گا کر کوہِ زیتُون کو گئےO̲EP",
+      "english": "When they had sung the hymn, they went out to the Mount of Olives."
+    },
+    {
+      "verse": 31,
+      "urdu": "تب یسُوؔع نے اُن سے کہا تُم سب اِسی رات میرے سبب سے ٹھوکر کھاؤ گے۔ کیونکہ لِکھا ہَے کہ ” مَیں چرواہے کو مارُوں گا اَور گلّے کی بھیڑیں پراگندہ ہو جائیں گی “O̲",
+      "english": "Then Jesus said to them, “You will all become deserters because of me this night; for it is written,\n\nSP‘I will strike the shepherd,\n\tand the sheep of the flock will be scattered.’EP\n\n"
+    },
+    {
+      "verse": 32,
+      "urdu": "لیکن مَیں اپنے جی اُٹھنے کے بعد تُم سے پہلے جلِیل کو جاؤُں گاO̲",
+      "english": "But after I am raised up, I will go ahead of you to Galilee.” "
+    },
+    {
+      "verse": 33,
+      "urdu": "اِس پر پطرس نے جَواب میں اُس سے کہا اگرچہ سب تیرے سبب سے ٹھوکر کھائیں۔ مگر مَیں کبھی ٹھوکر نہ کھاؤُں گاO̲",
+      "english": "Peter said to him, “Though all become deserters because of you, I will never desert you.” "
+    },
+    {
+      "verse": 34,
+      "urdu": "یسُوؔع نے اُس سے کہا مَیں تُجھ سے سچ کہتا ہُوں کہ اِسی رات مُرغی کے بانگ دینے سے پہلے تُو تین بار میرا اِنکار کرے گاO̲",
+      "english": "Jesus said to him, “Truly I tell you, this very night, before the cock crows, you will deny me three times.” "
+    },
+    {
+      "verse": 35,
+      "urdu": "پطرس نے اُس سے کہا اگر تیرے ساتھ مُجھے مَرنا بھی پڑے تو بھی تیرا اِنکار ہر گز نہ کرُوں گا۔ اَور سب شاگِردوں نے بھی اِسی طرح کہاO̲",
+      "english": "Peter said to him, “Even though I must die with you, I will not deny you.” And so said all the disciples."
+    },
+    {
+      "verse": 36,
+      "urdu": "تب یسُوؔع اُن کے ساتھ جتسمنی نام ایک مقام میں آیا۔ اَور شاگِردوں سے کہا یہیں بیٹھے رہنا جب تک کہ مَیں وہاں جا کر دُعا کرُوںO̲",
+      "english": "Then Jesus went with them to a place called Gethsemane; and he said to his disciples, “Sit here while I go over there and pray.” "
+    },
+    {
+      "verse": 37,
+      "urdu": "اَور پطرس اَور زبدی کے دونوں بیٹوں کو ساتھ لے کر غمگِین اَور سخت بے قرار ہونے لگاO̲",
+      "english": "He took with him Peter and the two sons of Zebedee, and began to be grieved and agitated. "
+    },
+    {
+      "verse": 38,
+      "urdu": "تب اُس نے اُن سے کہا۔ میری جان بحدِ مَوت غمگِین ہَے۔ تُم یہاں ٹھہرو اَور میرے ساتھ جاگتے رہوO̲",
+      "english": "Then he said to them, “I am deeply grieved, even to death; remain here, and stay awake with me.” "
+    },
+    {
+      "verse": 39,
+      "urdu": "اَور تھوڑا آگے بڑھ کر مُنہ کے بَل گِرا اَور دُعا کی اَور کہا۔ اَے میرے باپ اگر ہو سکے تو یہ پیالہ مُجھ سے ٹل جائے۔ تا ہم  نہ جیسا مَیں چاہتا ہُوں بلکہ جیسا تُو چاہتا ہَےO̲",
+      "english": "And going a little farther, he threw himself on the ground and prayed, “My Father, if it is possible, let this cup pass from me; yet not what I want but what you want.” "
+    },
+    {
+      "verse": 40,
+      "urdu": "تب شاگِردوں کے پاس آیا اَور اُنہیں سوتے پایا۔ اَور پطرس سے کہا کیا تُم میرے ساتھ ایک گھڑی بھی نہ جاگ سکے؟O̲",
+      "english": "Then he came to the disciples and found them sleeping; and he said to Peter, “So, could you not stay awake with me one hour? "
+    },
+    {
+      "verse": 41,
+      "urdu": "جاگو اَور دُعا کرو تاکہ آزمائش میں نہ پڑو۔ رُوح تو تیّار ہَے مگر جِسم کمزور ہَےO̲",
+      "english": " Stay awake and pray that you may not come into the time of trial; the spirit indeed is willing, but the flesh is weak.” "
+    },
+    {
+      "verse": 42,
+      "urdu": "پِھر اُس نے دوبارہ جا کر دُعا کی اَور کہا۔ اَے میرے باپ اگر میرے پِیئے بغیر یہ مُجھ سے نہیں ٹل سکتا۔ تو تیری مرضی پوری ہوO̲",
+      "english": "Again he went away for the second time and prayed, “My Father, if this cannot pass unless I drink it, your will be done.” "
+    },
+    {
+      "verse": 43,
+      "urdu": "اَور پِھر آ کر اُنہیں سوتے پایا۔ کیونکہ اُن کی آنکھیں نِیند سے بھری تھیںO̲",
+      "english": "Again he came and found them sleeping, for their eyes were heavy. "
+    },
+    {
+      "verse": 44,
+      "urdu": "اَور اُنہیں چھوڑ کر پِھر گیا۔ اَور پِھر وہی بات کہہ کر تیسری بار دُعا کیO̲",
+      "english": "So leaving them again, he went away and prayed for the third time, saying the same words. "
+    },
+    {
+      "verse": 45,
+      "urdu": "تب شاگِردوں کے پاس آ کر اُن سے کہا۔ اَب سوتے رہو اَور آرام کرو۔ دیکھو وہ گھڑی آ پہُنچی ہَے کہ اِبنِ اِنسان گُنہگاروں کے کے حوالہ کِیا جائے گاO̲",
+      "english": "Then he came to the disciples and said to them, “Are you still sleeping and taking your rest? See, the hour is at hand, and the Son of Man is betrayed into the hands of sinners. "
+    },
+    {
+      "verse": 46,
+      "urdu": "اُٹھو۔ چلیں۔ دیکھو۔ میرے پکڑوانے والا نزدِیک ہی ہَےO̲",
+      "english": "Get up, let us be going. See, my betrayer is at hand.”"
+    },
+    {
+      "verse": 47,
+      "urdu": "وہ یہ کہہ ہی رہا تھا۔ کہ دیکھو یہُودہ جو اُن بارہ میں سے ایک تھا آیا اَور اُس کے ہمراہ ایک بڑا ہجُوم تلواریں اَور لاٹھیاں لئے سردار کاہِنوں اَور قوم کے بزُرگوں کی طرف سے تھاO̲",
+      "english": "While he was still speaking, Judas, one of the twelve, arrived; with him was a large crowd with swords and clubs, from the chief priests and the elders of the people. "
+    },
+    {
+      "verse": 48,
+      "urdu": "اُس کے پکڑوانے والے نے اُنہیں یہ کہہ کر نِشان دِیا تھا کہ جِسے مَیں چُومُوں۔ وہی ہَے اُسے پکڑ لیناO̲",
+      "english": "Now the betrayer had given them a sign, saying, “The one I will kiss is the man; arrest him.” "
+    },
+    {
+      "verse": 49,
+      "urdu": "اَور وَہیں یسُوؔع کے پاس آ کر اُس نے کہا۔ اَے ربّی سلام اَور اُسے مکرّراََ چُوماO̲",
+      "english": "At once he came up to Jesus and said, “Greetings, Rabbi!” and kissed him. "
+    },
+    {
+      "verse": 50,
+      "urdu": "یسُوؔع نے اُس سے کہا اَے میاں تُو کہاں تک پہُنچا! اِس پر اُنہوں نے پاس آ کر یسُوؔع پر ہاتھ ڈالے اَور اُسے پکڑ لِیاO̲",
+      "english": "Jesus said to him, “Friend, do what you are here to do.” Then they came and laid hands on Jesus and arrested him. "
+    },
+    {
+      "verse": 51,
+      "urdu": "اَور دیکھو۔ یسُوؔع کے ساتھیوں میں سے ایک نے ہاتھ بڑھا کر اپنی تلوار کھینچی اَور سردار کاہِن کے غُلام پر چلا کر اُس کا کان اُرا دِیاO̲",
+      "english": "Suddenly, one of those with Jesus put his hand on his sword, drew it, and struck the slave of the high priest, cutting off his ear. "
+    },
+    {
+      "verse": 52,
+      "urdu": "تب یسُوؔع نے اُس سے کہا۔ اپنی تلوار کو اُس کی جگہ میں رکھّ کیونکہ وہ سب جو تلوار کھینچتے ہَیں۔ تلوار ہی سے ہلاک ہوں گےO̲",
+      "english": "Then Jesus said to him, “Put your sword back into its place; for all who take the sword will perish by the sword. "
+    },
+    {
+      "verse": 53,
+      "urdu": "کیا تیرا یہ خیال ہَے کہ مَیں اپنے باپ کی مِنّت نہیں کر سکتا؟ اَور وہ فرِشتوں کی بارہ فوجوں سے زیادہ اِسی دَم مُجھے دے گاO̲",
+      "english": "Do you think that I cannot appeal to my Father, and he will at once send me more than twelve legions of angels?"
+    },
+    {
+      "verse": 54,
+      "urdu": "مگر نوِشتے کہ یُونہی ہونا ضرُور ہَے کیسے پُورے ہوں گے؟\n",
+      "english": "But how then would the scriptures be fulfilled, which say it must happen in this way?” "
+    },
+    {
+      "verse": 55,
+      "urdu": "SP\tEPاُسی گھڑی یسُوؔع نے ہجُوم سے کہا۔ کہ تُم تلواریں اَور لاٹھیاں لے کر مُجھے ڈاکُو کی طرح پکڑنے نِکلے ہو۔ مَیں ہرروز ہَیکل میں بیٹھ کر تعلیم دیتا تھا۔ اَور تُم نے مُجھے نہ پکڑاO̲",
+      "english": "At that hour Jesus said to the crowds, “Have you come out with swords and clubs to arrest me as though I were a bandit? Day after day I sat in the temple teaching, and you did not arrest me. "
+    },
+    {
+      "verse": 56,
+      "urdu": "لیکن یہ سب اِس لئے ہُؤا۔ تاکہ نبیوں کے نوِشتے پُورے ہوں۔ اِس پر سب شاگِرد اُسے چھوڑ کر بھاگ گئےO̲",
+      "english": "But all this has taken place, so that the scriptures of the prophets may be fulfilled.” Then all the disciples deserted him and fled."
+    },
+    {
+      "verse": 57,
+      "urdu": "پر یسُوؔع کے پکڑنے والے اُسے قیافا کاہِنِ اعظم کے پاس لے گئے۔ جہاں فقیہہ اَور بزُرگ جمع تھےO̲",
+      "english": "Those who had arrested Jesus took him to Caiaphas the high priest, in whose house the scribes and the elders had gathered. "
+    },
+    {
+      "verse": 58,
+      "urdu": "اَور پطرس دُور دُور اُس کے پیچھے پیچھے کاہِنِ اعظم کے محلّ تک گیا۔ اَور اندر جا کر خادِموں کے ساتھ نتیجہ دیکھنے کو بیٹھ گیاO̲",
+      "english": "But Peter was following him at a distance, as far as the courtyard of the high priest; and going inside, he sat with the guards in order to see how this would end. "
+    },
+    {
+      "verse": 59,
+      "urdu": "تب کاہِنِ اعظم اَور سب اہلِ عدالتِ عالیہ یسُوؔع پر جُھوٹی گواہی ڈُھونڈنے لگے۔ تاکہ اُسے قتل کرائیںO̲",
+      "english": "Now the chief priests and the whole council were looking for false testimony against Jesus so that they might put him to death, "
+    },
+    {
+      "verse": 60,
+      "urdu": "مگر نہ پائی۔ حالانکہ بہُت سے جُھوٹے گواہ حاضِر ہُوئے۔ آخِرکار دو آئےO̲",
+      "english": "but they found none, though many false witnesses came forward. At last two came forward "
+    },
+    {
+      "verse": 61,
+      "urdu": "اَور بولے کہ اِس نے کہا ہَے کہ مَیں خُدا کی ہَیکل کو ڈھا سکتا اَور تین دِن میں اُسے بنا سکتا ہُوںO̲",
+      "english": "and said, “This fellow said, ‘I am able to destroy the temple of God and to build it in three days.’” "
+    },
+    {
+      "verse": 62,
+      "urdu": "تب کاہِنِ اعظم نے اُٹھ کر اُس سے کہا۔ کیا تُو کُچھ جَواب نہیں دیتا؟ یہ کیا ہَے جس کی تیرے خلاف گواہی دیتے ہَیںO̲",
+      "english": "The high priest stood up and said, “Have you no answer? What is it that they testify against you?” "
+    },
+    {
+      "verse": 63,
+      "urdu": "مگر یسُوؔع خاموش رہا۔ تب کاہِنِ اعظم نے اُس سے کہا مَیں تُجھے زِندہ خُدا کی قَسم دیتا ہُوں۔ کہ اگر تُو المسیح ہَے خُدا کا بیٹا۔ تو ہمیں بتا دے؟O̲",
+      "english": "But Jesus was silent. Then the high priest said to him, “I put you under oath before the living God, tell us if you are the Messiah, the Son of God.” "
+    },
+    {
+      "verse": 64,
+      "urdu": "یسُوؔع نے اُس سے کہا تُو نے خُود ہی کہہ دِیا ہَے۔ بلکہ مَیں تُم سے کہتا ہُوں۔ کہ اَب سے تُم اِبنِ اِنسان کو القادِر کے دائیں بیٹھا اَور آسمان کے بادِلوں پر آتا دیکھو گےO̲",
+      "english": "Jesus said to him, “You have said so. But I tell you,\n\nSPFrom now on you will see the Son of Man\n\tseated at the right hand of Power\n\tand coming on the clouds of heaven.”EP\n\n"
+    },
+    {
+      "verse": 65,
+      "urdu": "اِس پر کاہِنِ اعظم نے یہ کہہ کر اپنے کپڑے پھاڑے۔ کہ اِس نے کُفر بکا ہَے اَب ہمیں گواہوں کی کیا ضرُورت ہَے؟ دیکھو۔ تُم نے ابھی یہ کُفر سُنا ہَےO̲",
+      "english": "Then the high priest tore his clothes and said, “He has blasphemed! Why do we still need witnesses? You have now heard his blasphemy. "
+    },
+    {
+      "verse": 66,
+      "urdu": "اَب تُمہاری کیا رائے ہَے؟ اُنہوں نے جَواب میں کہا وہ قتل کے لائق ہَےO̲",
+      "english": "What is your verdict?” They answered, “He deserves death.” "
+    },
+    {
+      "verse": 67,
+      "urdu": "تب اُنہوں نے اُس کے مُنہ پر تُھوکا اَور اُسے گھُونسے مارے اَور دُوسروں نے طمانچے مار کرO̲",
+      "english": "Then they spat in his face and struck him; and some slapped him, "
+    },
+    {
+      "verse": 68,
+      "urdu": "کہا کہ اَے مسیح ہمیں نبُوّت سے بتا کہ کِس نے تُجھے مارا؟",
+      "english": "saying, “Prophesy to us, you Messiah! Who is it that struck you?”"
+    },
+    {
+      "verse": 69,
+      "urdu": "جب پطرس باہر صحن میں بیٹھا تھا تو ایک لونڈی نے اُس کے پاس آ کر کہا۔ تُو بھی یسُوؔع جلِیلی کے ساتھ تھاO̲",
+      "english": "Now Peter was sitting outside in the courtyard. A servant-girl came to him and said, “You also were with Jesus the Galilean.” "
+    },
+    {
+      "verse": 70,
+      "urdu": "مگر اُس نے سب کے سامنے اِنکار کر کے کہا۔ مَیں نہیں جانتا کہ تُو کیا کہتی ہَےO̲",
+      "english": "But he denied it before all of them, saying, “I do not know what you are talking about.” "
+    },
+    {
+      "verse": 71,
+      "urdu": "اَور جب وہ دروازے کی طرف باہر جانے لگا تو دُوسری نے اُسے دیکھ کر اُن سے جو وہاں تھے۔ کہا کہ یہ بھی یسُوؔع ناصری کے ساتھ تھاO̲",
+      "english": "When he went out to the porch, another servant-girl saw him, and she said to the bystanders, “This man was with Jesus of Nazareth.” "
+    },
+    {
+      "verse": 72,
+      "urdu": "تب اُس نے قَسم کھا کر پِھر اِنکار کِیا۔ کہ مَیں اِس آدمی کو نہیں جانتاO̲",
+      "english": "Again he denied it with an oath, “I do not know the man.” "
+    },
+    {
+      "verse": 73,
+      "urdu": "تھوڑی دیر بعد اُنہوں نے جو وہاں کھڑے تھے پاس آ کر پطرس سے کہا بے شک تُو بھی اُن میں سے ہَے۔ کیونکہ تیری بولی ہی ظاہر کرتی ہَےO̲",
+      "english": "After a little while the bystanders came up and said to Peter, “Certainly you are also one of them, for your accent betrays you.” "
+    },
+    {
+      "verse": 74,
+      "urdu": "اِس پر وہ لعنت کر کے قَسم کھانے لگا کہ مَیں اِس آدمی کو نہیں جانتا۔ اَور فی الفور مُرغ نے بانگ دیO̲",
+      "english": "Then he began to curse, and he swore an oath, “I do not know the man!” At that moment the cock crowed. "
+    },
+    {
+      "verse": 75,
+      "urdu": "تب پطرس کو یسُوؔع کی وہ بات یاد آئی۔ جو اُس نے کہی تھی۔ کہ مُرغ کے بانگ دینے سے پہلے تُو تین بار میرا اِنکار کرے گا۔ اَور وہ باہر جا کر زار زار رویا +",
+      "english": " Then Peter remembered what Jesus had said: “Before the cock crows, you will deny me three times.” And he went out and wept bitterly."
+    }
+  ]
+}
