@@ -1,0 +1,322 @@
+{
+  "book": "mark",
+  "chapter": 1,
+  "sections": {
+    "urdu": [
+      {
+        "title": "یُوحنّا کی مُنادی",
+        "start": 1,
+        "end": 8
+      },
+      {
+        "title": "اِصطِباغِ مسیح",
+        "start": 9,
+        "end": 11
+      },
+      {
+        "title": "آزمائِشِ مسیح",
+        "start": 12,
+        "end": 13
+      },
+      {
+        "title": "علانیہ زِندگی کا آغاز",
+        "start": 14,
+        "end": 20
+      },
+      {
+        "title": "کفر نحُوم کا عِبادَتخانہ",
+        "start": 21,
+        "end": 28
+      },
+      {
+        "title": "پطرس کے ہاں شِفا دِہی",
+        "start": 29,
+        "end": 34
+      },
+      {
+        "title": "دَورۂ جلِیل",
+        "start": 35,
+        "end": 39
+      },
+      {
+        "title": "کوڑھی کی شِفا",
+        "start": 40,
+        "end": 45
+      }
+    ],
+    "english": [
+      {
+        "title": "The Proclamation of John the Baptist",
+        "start": 1,
+        "end": 8
+      },
+      {
+        "title": "The Baptism of Jesus",
+        "start": 9,
+        "end": 11
+      },
+      {
+        "title": "The Temptation of Jesus",
+        "start": 12,
+        "end": 13
+      },
+      {
+        "title": "The Beginning of the Galilean Ministry",
+        "start": 14,
+        "end": 15
+      },
+      {
+        "title": "Jesus Calls the First Disciples",
+        "start": 16,
+        "end": 20
+      },
+      {
+        "title": "The Man with an Unclean Spirit",
+        "start": 21,
+        "end": 28
+      },
+      {
+        "title": "Jesus Heals Many at Simon’s House",
+        "start": 29,
+        "end": 34
+      },
+      {
+        "title": "A Preaching Tour in Galilee",
+        "start": 35,
+        "end": 39
+      },
+      {
+        "title": "Jesus Cleanses a Leper",
+        "start": 40,
+        "end": 45
+      }
+    ]
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "urdu": "یسُوؔع مسیح اِبنِ خُدا کی اِنجیل کا شرُوعO̲",
+      "english": "The beginning of the good news of Jesus Christ, the Son of God.\n\n"
+    },
+    {
+      "verse": 2,
+      "urdu": "جیسا اِشعَیا نبی کی کِتاب میں لِکھا ہَے کہ\nSPدیکھ مَیں اپنا پیامبر تیرے آگے بھیجتا ہُوں۔\nجو تیرے آگے تیری راہ تیّار کرے گاO̲EP\n",
+      "english": "As it is written in the prophet Isaiah,\n\nSP“See, I am sending my messenger ahead of you,\n\twho will prepare your way;EP\n"
+    },
+    {
+      "verse": 3,
+      "urdu": "\nSPپُکارنے والے کی آواز۔ بِیابان میں۔\nخُداوند کی راہ کو تیّار کرو۔\nاُس کی شاہراہ کو سِیدھا بناؤO̲EP\n",
+      "english": "\nSPthe voice of one crying out in the wilderness:\n\t‘Prepare the way of the Lord,\n\tmake his paths straight,’”EP\n\n"
+    },
+    {
+      "verse": 4,
+      "urdu": "یُوحنّا اِصطِباغی بِیابان میں آیا۔ اَور گُناہوں کی مُعافی کے لئے توبہ کا بپتسمہ کی مُنادی کرتا تھاO̲",
+      "english": "John the baptizer appeared in the wilderness, proclaiming a baptism of repentance for the forgiveness of sins. "
+    },
+    {
+      "verse": 5,
+      "urdu": "اَور یہُودیہ کا تما مُلک اَور سب یرُوشلِیمی نِکل کر اُس کے پاس آئے۔ اَور اُنہوں نے اپنے گُناہوں کا اِقرار کر کے دریائے اُردن میں اُس سے بپتسمہ لِیاO̲",
+      "english": "And people from the whole Judean countryside and all the people of Jerusalem were going out to him, and were baptized by him in the river Jordan, confessing their sins. "
+    },
+    {
+      "verse": 6,
+      "urdu": "اَور یُوحنّا اُونٹ کے بالوں کی پوشاک پہنے اَور چمڑے کا کَمربند اپنی کَمر میں باندھے تھا۔ اَور ٹِڈّیاں اَور جنگلی شہر کھاتا تھاO̲",
+      "english": "Now John was clothed with camel’s hair, with a leather belt around his waist, and he ate locusts and wild honey. "
+    },
+    {
+      "verse": 7,
+      "urdu": "اَور وعظ کرتے ہُوئے کہتا تھا کہ وہ آتا ہَے جو مُجھ سے زور آور ہَے۔ اَور مَیں اِس لائق نہیں کہ جُھک کر اُس کی جُوتیوں کا تسمہ کھولُوںO̲",
+      "english": "He proclaimed, “The one who is more powerful than I is coming after me; I am not worthy to stoop down and untie the thong of his sandals. "
+    },
+    {
+      "verse": 8,
+      "urdu": "مَیں نے تو تُمہیں پانی سے بپتسمہ دِیا۔ لیکن وہ تُمہیں رُوحُ القُدس میں بپتسمہ دے گاO̲",
+      "english": "I have baptized you with water; but he will baptize you with the Holy Spirit.”"
+    },
+    {
+      "verse": 9,
+      "urdu": "اَور اُن دِنوں میں ایسا ہُؤا کہ یسُوؔع نے جلِیل کے ناصرت سے آ کر اُردن میں یُوحنّا سے بپتسمہ پایاO̲",
+      "english": "In those days Jesus came from Nazareth of Galilee and was baptized by John in the Jordan. "
+    },
+    {
+      "verse": 10,
+      "urdu": "اَور جُونہی وہ پانی سے باہر آیا تو اُس نے آسمان کی پھٹتا اَور رُوح کو کبُوتر کی مانند اپنے اُوپر اُترتے دیکھاO̲",
+      "english": "And just as he was coming up out of the water, he saw the heavens torn apart and the Spirit descending like a dove on him. "
+    },
+    {
+      "verse": 11,
+      "urdu": "اَور آسمان سے آواز آئی کہ ” تُو میرا بیٹا ہَے المحبُوب تُجھ سے مَیں خُوش ہُوں “O̲",
+      "english": "And a voice came from heaven, “You are my Son, the Beloved; with you I am well pleased.”"
+    },
+    {
+      "verse": 12,
+      "urdu": "اَور رُوح نے فو الفور اُسے بِیابان میں بھیج دِیاO̲",
+      "english": "And the Spirit immediately drove him out into the wilderness. "
+    },
+    {
+      "verse": 13,
+      "urdu": "اَور وہ بِیابان میں چالیس دِن شیطان سے آزمایا گیا۔ اَور جنگلی جانوروں کے ساتھ رہا اَور فرِشتے اُس کی خدمت کرتے تھےO̲",
+      "english": "He was in the wilderness forty days, tempted by Satan; and he was with the wild beasts; and the angels waited on him."
+    },
+    {
+      "verse": 14,
+      "urdu": "یُوحنّا کی گِرفتاری کے بعد یسُوؔع جلِیل میں آیا۔ اَور خُدا کی بادشاہی کی خُوشخبری کی مُنادی کیO̲",
+      "english": "Now after John was arrested, Jesus came to Galilee, proclaiming the good news of God, "
+    },
+    {
+      "verse": 15,
+      "urdu": "اَور کہا کہ وقت پُورا ہُؤا اَور خُدا کی بادشاہی نزدِیک آ گئی ہَے توبہ کرو اَور اِنجیل پر اِیمان لاؤO̲\n",
+      "english": "and saying, “The time is fulfilled, and the kingdom of God has come near; repent, and believe in the good news.”"
+    },
+    {
+      "verse": 16,
+      "urdu": "اَور جلِیل کی جِھیل کے کِنارے کِنارے جاتے ہُوئے اُس نے شمعُون اَور شمعُون کے بھائی اندریاس کو جِھیل میں جال ڈالتے دیکھا۔ کیونکہ وہ ماہی گِیر تھےO̲",
+      "english": "As Jesus passed along the Sea of Galilee, he saw Simon and his brother Andrew casting a net into the sea—for they were fishermen. "
+    },
+    {
+      "verse": 17,
+      "urdu": "اَور یسُوؔع نے اُن سے کہا۔ میرے پیچھے ہو لو۔ تو مَیں تُمہیں آدم گِیر بناؤُں گاO̲",
+      "english": "And Jesus said to them, “Follow me and I will make you fish for people.” "
+    },
+    {
+      "verse": 18,
+      "urdu": "اَور وہ وَہیں اپنے جالوں کو چھوڑ کر اُس کے پیچھے ہو لئےO̲",
+      "english": "And immediately they left their nets and followed him. "
+    },
+    {
+      "verse": 19,
+      "urdu": "اَور وہاں سے تھوڑی دُور آگے بڑھ کر اُس نے یَعقُوب بِن زبدی اَور اُس کا بھائی یُوحنّا کو بھی کشتی پر دیکھا جو جالوں کی مَرمّت کرتے تھےO̲",
+      "english": "As he went a little farther, he saw James son of Zebedee and his brother John, who were in their boat mending the nets. "
+    },
+    {
+      "verse": 20,
+      "urdu": "اُس نے فوراََ اُنہیں بُلایا۔ اَور وہ اپنے باپ زبدی کو کشتی پر مزدُوروں کے ساتھ چھوڑ کر اُس کے پیچھے ہو لئےO̲",
+      "english": "Immediately he called them; and they left their father Zebedee in the boat with the hired men, and followed him."
+    },
+    {
+      "verse": 21,
+      "urdu": "تب وہ کفر نحُوم میں داخِل ہُوئے اَور وہ فوراََ سبت کے دِن عِبادَت خانہ میں جا کر تعلیم دینے لگاO̲",
+      "english": "They went to Capernaum; and when the sabbath came, he entered the synagogue and taught. "
+    },
+    {
+      "verse": 22,
+      "urdu": "اَور لوگ اُس کی تعلیم سے حیران ہُوئے۔ کیونکہ وہ اُنہیں فقیہوں کی مانند نہیں بلکہ صاحبِ اِختیار کی طرح تعلیم دیتا تھاO̲",
+      "english": "They were astounded at his teaching, for he taught them as one having authority, and not as the scribes. "
+    },
+    {
+      "verse": 23,
+      "urdu": "اَور اُن کے عِبادَت خانے میں ایک شخص تھا۔ جِس میں ناپاک رُوح تھی۔ جِس نے چلّا کرO̲",
+      "english": "Just then there was in their synagogue a man with an unclean spirit, "
+    },
+    {
+      "verse": 24,
+      "urdu": "کہا۔ اَے یسُوؔع ناصری تُجھے ہم سے کیا کام؟ کیا تُو ہمیں ہلاک کرنے آیا ہَےO̲",
+      "english": "and he cried out, “What have you to do with us, Jesus of Nazareth? Have you come to destroy us? I know who you are, the Holy One of God.” "
+    },
+    {
+      "verse": 25,
+      "urdu": "مَیں تُجھے جانتا ہُوں کہ تُو کون ہَے۔ قُدُّوس خُدا۔ یسُوؔع نے اُسے ڈانٹا اَور کہا کہ چُپ رہ اَور اِس میں سے نِکل جاO̲",
+      "english": "But Jesus rebuked him, saying, “Be silent, and come out of him!” "
+    },
+    {
+      "verse": 26,
+      "urdu": "تب ناپاک رُوح اُسے مروڑ کر اَور بڑی آواز سے چِلّا کر اُس میں سے نِکل گئیO̲",
+      "english": "And the unclean spirit, convulsing him and crying with a loud voice, came out of him. "
+    },
+    {
+      "verse": 27,
+      "urdu": "اَور وہ سب حیران ہو کر آپس میں یہ کہتے ہُوئے بحث کرنے لگے  کہ یہ کیا ہَے؟ ایک نئی تعلیم بااِختیار۔ وہ ناپاک رُوحوں کو بھی حُکم دیتا ہَے۔ اَور وہ اُس کی مانتی ہَیںO̲",
+      "english": "They were all amazed, and they kept on asking one another, “What is this? A new teaching—with authority! He commands even the unclean spirits, and they obey him.” "
+    },
+    {
+      "verse": 28,
+      "urdu": "فوراََ اُس کی شہُرت جلِیل کے سارے علاقے میں پھیل گئیO̲",
+      "english": "At once his fame began to spread throughout the surrounding region of Galilee."
+    },
+    {
+      "verse": 29,
+      "urdu": "اَور وہ فوراََ عِبادَت کانے سے نِکل کر یَعقُوب اَور یُوحنّا  کے ساتھ شمعُون اَور اندریاس کے گھر آئےO̲",
+      "english": "As soon as they left the synagogue, they entered the house of Simon and Andrew, with James and John. "
+    },
+    {
+      "verse": 30,
+      "urdu": "اَور شمعُون کی ساس تَپ سے پڑی تھی۔ اَور اُنہوں نے فوراََ اُس کی خبر اُسے دیO̲",
+      "english": "Now Simon’s mother-in-law was in bed with a fever, and they told him about her at once. "
+    },
+    {
+      "verse": 31,
+      "urdu": "اُس نے پاس جا کر اَور اُس کا ہاتھ پکڑ کر اُسے اُٹھایا اَور اُس  ہاتھ پکڑ کر اُسے اُٹھایا اَور اُس کی تَپ اُسی دَم اُتر گئی اَور وہ اُن کی خدمت کرنے لگیO̲\n",
+      "english": "He came and took her by the hand and lifted her up. Then the fever left her, and she began to serve them.\n\n"
+    },
+    {
+      "verse": 32,
+      "urdu": "شام کو جب سُورج ڈُوب گیا۔ تو لوگ سب بیماروں اَور آسیب ذَدوں کو اُس کے پاس لائےO̲",
+      "english": "That evening, at sunset, they brought to him all who were sick or possessed with demons. "
+    },
+    {
+      "verse": 33,
+      "urdu": "اَور سارا شہر دروازے پر جمع ہو گیاO̲",
+      "english": "And the whole city was gathered around the door. "
+    },
+    {
+      "verse": 34,
+      "urdu": "اُس نے بہُتیروں کو شِفا بخشی جو طرح طرح کی بیماریوں میں مُبتلا تھے۔ اَور بہُت سے بَد رُوحوں کی نِکالا۔ اَور بَدرُوحوں کو بولنے نہ دِیا۔ اِس لئے کہ وہ اُسے پہچانتی تھیںO̲",
+      "english": "And he cured many who were sick with various diseases, and cast out many demons; and he would not permit the demons to speak, because they knew him."
+    },
+    {
+      "verse": 35,
+      "urdu": "اَور علی الصباح پَو پھٹنے سے پہلے وہ اُٹھ کر نِکلا اَور ایک وِیران جگہ میں گیا اَور وہاں دُعا کیO̲",
+      "english": "In the morning, while it was still very dark, he got up and went out to a deserted place, and there he prayed. "
+    },
+    {
+      "verse": 36,
+      "urdu": "اَور شمعُون اَور اُس کے ساتھی اُس کے پیچھے گئےO̲",
+      "english": "And Simon and his companions hunted for him. "
+    },
+    {
+      "verse": 37,
+      "urdu": "جب اُنہوں نے اُسے پایا تو کہا کہ تُجھے ڈُھونڈ رہے ہَیںO̲",
+      "english": "When they found him, they said to him, “Everyone is searching for you.” "
+    },
+    {
+      "verse": 38,
+      "urdu": "اَور اُس نے اُن سے کہا۔ آؤ ہم اَور کہیں آس پاس کے شہروں میں چلیں۔ تاکہ مَیں وہاں بھی مُنادی کرُوں کیونکہ مَیں اِسی لئے آیا ہُوںO̲",
+      "english": "He answered, “Let us go on to the neighboring towns, so that I may proclaim the message there also; for that is what I came out to do.” "
+    },
+    {
+      "verse": 39,
+      "urdu": "اَور وہ تمام جلِیل میں اُن کے عِبادَت خانوں میں جا جا کر مُنادی کرتا اَور بَدرُوحوں کی نِکالتا رہاO̲",
+      "english": "And he went throughout Galilee, proclaiming the message in their synagogues and casting out demons."
+    },
+    {
+      "verse": 40,
+      "urdu": "اَور ایک کوڑھی نے اُس کے پاس آ کر اُس کی مِنّت کی اَور گھُٹنے ٹیک کر اُس سے کہا کہ اگر تُو چاہے تو مُجھے پاک صاف کر سکتا ہَےO̲",
+      "english": "A leper came to him begging him, and kneeling he said to him, “If you choose, you can make me clean.” "
+    },
+    {
+      "verse": 41,
+      "urdu": "اُس نے ترس کھا کر اپنا ہاتھ بڑھایااَور اُسے چُھو کر اُس سے کہا۔ مَیں چاہتا ہُوں تُو پاک صاف ہو جاO̲",
+      "english": "Moved with pity, Jesus stretched out his hand and touched him, and said to him, “I do choose. Be made clean!” "
+    },
+    {
+      "verse": 42,
+      "urdu": "اَور یہ بات کہتے ہی اُس کا کوڑھ جاتا رہا۔ اَور وہ پاک صاف ہو گیاO̲",
+      "english": "Immediately the leprosy left him, and he was made clean. "
+    },
+    {
+      "verse": 43,
+      "urdu": "اَور اُس نے اُسے تاکِید کر کے فوراََ رُخصت کِیاO̲",
+      "english": "After sternly warning him he sent him away at once, "
+    },
+    {
+      "verse": 44,
+      "urdu": "اَور اُس سے کہا۔ خبردار۔ کِسی سے کُچھ نہ کہنا۔ بلکہ جا۔ اپنے آپ کو کاہِن کو دِکھا۔ اَور اپنے پاک صاف ہونے کی بابت وہ چیزیں گُزران جو مُوسیٰ نے اِن کی گواہی کے لئے مُقرّر کِیںO̲",
+      "english": "saying to him, “See that you say nothing to anyone; but go, show yourself to the priest, and offer for your cleansing what Moses commanded, as a testimony to them.” "
+    },
+    {
+      "verse": 45,
+      "urdu": "لیکن وہ باہر جا کر اُس کی بات کو پھیلانے اَور ایسا مشہُور کرنے لگا کہ یسُوؔع پِھر ظاہراََ کِسی شہر میں داخِل نہ ہو سکا۔ لیکن باہر وِیران جگہوں میں رہا اَور لوگ ہر طرف سے اُس کے پاس آتے تھے +",
+      "english": "But he went out and began to proclaim it freely, and to spread the word, so that Jesus could no longer go into a town openly, but stayed out in the country; and people came to him from every quarter."
+    }
+  ]
+}
