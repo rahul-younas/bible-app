@@ -1,0 +1,187 @@
+{
+  "book": "mark",
+  "chapter": 2,
+  "sections": {
+    "urdu": [
+      {
+        "title": "شِفائے مفلُوج",
+        "start": 1,
+        "end": 12
+      },
+      {
+        "title": "لاوی کی دعوتِ رسالت",
+        "start": 13,
+        "end": 22
+      },
+      {
+        "title": "اِبنِ اِنسان سبت کا مالِک",
+        "start": 23,
+        "end": 28
+      }
+    ],
+    "english": [
+      {
+        "title": "Jesus Heals a Paralytic",
+        "start": 1,
+        "end": 12
+      },
+      {
+        "title": "Jesus Calls Levi",
+        "start": 13,
+        "end": 17
+      },
+      {
+        "title": "The Question about Fasting",
+        "start": 18,
+        "end": 22
+      },
+      {
+        "title": "Pronouncement about the Sabbath",
+        "start": 23,
+        "end": 28
+      }
+    ]
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "urdu": "اَور کئی دِن بعد وہ کفر نحُوم میں پِھر آیا۔ اَور سُنا گیا کہ وہ گھر میں ہَےO̲",
+      "english": "When he returned to Capernaum after some days, it was reported that he was at home. "
+    },
+    {
+      "verse": 2,
+      "urdu": "اَور وہاں اِتنے لوگ جمع ہو گئے کہ دروازے کے پاس بھی جگہ نہ رہی۔ اَور وہ اُنہیں کلام سُنا رہا تھاO̲",
+      "english": "So many gathered around that there was no longer room for them, not even in front of the door; and he was speaking the word to them. "
+    },
+    {
+      "verse": 3,
+      "urdu": "اَور لوگ ایک مفلُوج کو چار آدمیوں سے اُٹھوا کر اُس کے پاس لائےO̲",
+      "english": "Then some people came, bringing to him a paralyzed man, carried by four of them. "
+    },
+    {
+      "verse": 4,
+      "urdu": "اَور جب وہ ہجُوم کے سبب سے اُسے اُس کے سامنے پیش نہ کر سکے۔ تو اُنہوں نے جہاں وہ تھا وہاں چھت کھول دی۔ اَور اُسے کُشادہ کر کے وہ چارپائی جِس پر مفلُوج لیٹ تھا لٹکا دیO̲",
+      "english": "And when they could not bring him to Jesus because of the crowd, they removed the roof above him; and after having dug through it, they let down the mat on which the paralytic lay. "
+    },
+    {
+      "verse": 5,
+      "urdu": "یسُوؔع نے اُن کا اِیمان دیکھ کر اُس مفلُوج سے کہا۔ بیٹا تیرے گُناہ مُعاف ہُوئےO̲\n",
+      "english": "When Jesus saw their faith, he said to the paralytic, “Son, your sins are forgiven.” "
+    },
+    {
+      "verse": 6,
+      "urdu": "مگر وہاں رفقیہہ بیٹھے تھے وہ اپنے دِلوں میں خیال کرنے لگے کہO̲",
+      "english": "Now some of the scribes were sitting there, questioning in their hearts, "
+    },
+    {
+      "verse": 7,
+      "urdu": "یہ کیوں ایسا کہتا ہَے؟ کُفر بکتا ہَے۔ گُناہ کون مُعاف کر سکتا ہَے سِوائے ایک یعنی خُدا کے؟O̲",
+      "english": "“Why does this fellow speak in this way? It is blasphemy! Who can forgive sins but God alone?” "
+    },
+    {
+      "verse": 8,
+      "urdu": "اَور فوراََ یسُوؔع نے رُوح سے جانتے ہُوئے کہ وہ اپنے دِلوں میں ایسا خیال کرتے ہیں اُن سے کہا کہ تُم کیوں اپنے دِلوں میں ایسی باتیں سوچتے ہو؟O̲ ",
+      "english": "At once Jesus perceived in his spirit that they were discussing these questions among themselves; and he said to them, “Why do you raise such questions in your hearts? "
+    },
+    {
+      "verse": 9,
+      "urdu": "آسان کیا ہَے۔ مفلُوج سے کہنا کہ تیرے گُناہ مُعاف ہُوئے یا کہنا کہ کھڑا ہو اپنی چارپائی اُٹھا اَور چلا جا؟O̲",
+      "english": "Which is easier, to say to the paralytic, ‘Your sins are forgiven,’ or to say, ‘Stand up and take your mat and walk’? "
+    },
+    {
+      "verse": 10,
+      "urdu": "پس تاکہ جانو کہ اِبنِ اِنسان امین پر گُناہوں کے مُعاف کرنے کا اِختیار رکھتا ہَے (اُس نے اُس مفلُوج سے کہا)O̲",
+      "english": "But so that you may know that the Son of Man has authority on earth to forgive sins”—he said to the paralytic— "
+    },
+    {
+      "verse": 11,
+      "urdu": "مَیں تُجھ سے کہتا ہُوں اُٹھ اپنی چارپائی اُٹھا کر اپنے گھر چلا جاO̲",
+      "english": "“I say to you, stand up, take your mat and go to your home.” "
+    },
+    {
+      "verse": 12,
+      "urdu": "اَور وہ اُٹھا۔ اَور فوراََ چارپائی اُٹھا کر اُن سب کے سامنے باہر چلا گیا۔ چُنانچہ سب حیران ہو گئے اَور خُدا کی تعریف کرکے کہنے لگے کہ ہم نے ایسا کبھی نہیں دیکھاO̲",
+      "english": "And he stood up, and immediately took the mat and went out before all of them; so that they were all amazed and glorified God, saying, “We have never seen anything like this!”"
+    },
+    {
+      "verse": 13,
+      "urdu": "اَور پِھر وہ باہر حِھیل کے کِنارے گیا اَور سارا ہجُوم اُس کے پاس آیا۔ اَور وہ اُنہیں تعلیم دینے لگاO̲",
+      "english": "Jesus went out again beside the sea; the whole crowd gathered around him, and he taught them. "
+    },
+    {
+      "verse": 14,
+      "urdu": "اَور جاتے ہُوئے حلفائی کے بیٹے لاوی کو محصُول کی چوکی پر بیٹھے دیکھا اَور اُس سے کہا میرے پیچھے ہو لے اَور وہ اُٹھ کر اُس کے پیچھے ہو لِیاO̲",
+      "english": "As he was walking along, he saw Levi son of Alphaeus sitting at the tax booth, and he said to him, “Follow me.” And he got up and followed him.\n"
+    },
+    {
+      "verse": 15,
+      "urdu": "اَور یُوں ہُؤا کہ جب وہ اُس کے گھر میں کھانا کھانے بیٹھا تو بہُت سے مُحصِّل اَور گُنہگار یسُوؔع اَور اُس کے شاگِردوں کے ساتھ کھانے بیٹھے کیونکہ وہ بہُت تھے جو اُس کے پیچھے چلے آئے تھےO̲",
+      "english": "And as he sat at dinner in Levi’s house, many tax collectors and sinners were also sitting with Jesus and his disciples—for there were many who followed him. "
+    },
+    {
+      "verse": 16,
+      "urdu": "اَور جب فریسیوں اَور فقیہوں نے اُسے مُحصِّلوں اَور گُنہہگاروں کے ساتھ کھاتے دیکھا۔ تو اُس کے شاگِردوں سے کہا کہ تُمہارا اُستاد مُحصِّلوں اَور گُنہگاروں کے ساتھ کِس لئے کھاتا پِیتا ہَے؟O̲",
+      "english": "When the scribes of the Pharisees saw that he was eating with sinners and tax collectors, they said to his disciples, “Why does he eat with tax collectors and sinners?” "
+    },
+    {
+      "verse": 17,
+      "urdu": "یسُوؔع نے سُن کر اُن سے کہا تندرُستوں کو طبِیت درکار نہیں بلکہ مریضوں کو کیونکہ مَیں راستبازوں کو نہیں بلکہ گُنہگاروں کو بُلانے آیا ہُوںO̲\n",
+      "english": "When Jesus heard this, he said to them, “Those who are well have no need of a physician, but those who are sick; I have come to call not the righteous but sinners.”"
+    },
+    {
+      "verse": 18,
+      "urdu": "اَور یُوحنّا کے شاگِرد اَور فریسی روزہ سے تھے۔ اُنہوں نے آ کر اُس سے کہا۔ کہ اِس کا کیا سبب ہَے کہ یُوحنّا کے شاگِرد اَور فریسیوں کے شاگِرد تو روزہ رکھتے ہَیں لیکن تیرے شاگِرد روزہ نہیں رکھتے؟O̲",
+      "english": "Now John’s disciples and the Pharisees were fasting; and people came and said to him, “Why do John’s disciples and the disciples of the Pharisees fast, but your disciples do not fast?” "
+    },
+    {
+      "verse": 19,
+      "urdu": "یسُوؔع نے اُن سے کہا کہ کیا براتی جب تک کہ دُلہا اُن کے ساتھ ہَے روزہ رکھّ سکتے ہَیں؟ جب تک کہ وہ دُلہا کے ساتھ ہَیں وہ روزہ نہیں رکھّ سکتےO̲",
+      "english": "Jesus said to them, “The wedding guests cannot fast while the bridegroom is with them, can they? As long as they have the bridegroom with them, they cannot fast. "
+    },
+    {
+      "verse": 20,
+      "urdu": "لیکن وہ دِن آئیں گے۔ جب دُلہا اُن سے جُدا کِیا جائے گا۔ اُس وقت وہ روزہ رکھیں گےO̲\n",
+      "english": "The days will come when the bridegroom is taken away from them, and then they will fast on that day.\n"
+    },
+    {
+      "verse": 21,
+      "urdu": "کورے کپڑے کا پَیوند پُرانی پوشاک پو کوئی نہیں لگاتا نہیں تو نیا پَیوند اُس پُرانی میں سے کُچھ کھینچ لے گا۔ اَور وہ زیادہ پھٹ جائے گیO̲",
+      "english": "“No one sews a piece of unshrunk cloth on an old cloak; otherwise, the patch pulls away from it, the new from the old, and a worse tear is made. "
+    },
+    {
+      "verse": 22,
+      "urdu": "اَور نئی مَے کو پُرانی مَشکوں میں کوئی نہیں بھرتا نہیں تو مَشکیں مَے سے پھٹ جائیں گی اَور مَے اَور مَشکیں دونوں برباد ہو جائیں گی۔ پس نئی مَے نئی مَشکوں میں بھرتے ہَیںO̲",
+      "english": "And no one puts new wine into old wineskins; otherwise, the wine will burst the skins, and the wine is lost, and so are the skins; but one puts new wine into fresh wineskins.”"
+    },
+    {
+      "verse": 23,
+      "urdu": "اَور یُوں ہُؤا کہ وہ سبت کے دِن کھیتوں میں سے گُزر رہا تھا اَور اُس کے شاگِرد راہ میں چلتے ہُوئے بالیں توڑنے لگےO̲",
+      "english": "One sabbath he was going through the grainfields; and as they made their way his disciples began to pluck heads of grain. "
+    },
+    {
+      "verse": 24,
+      "urdu": "تب فریسیوں نے اُس سے کہا۔ دیکھ سبت کے دِن یہ کیوں ایسا کام کرتے ہیں جو رَوا نہیںO̲",
+      "english": "The Pharisees said to him, “Look, why are they doing what is not lawful on the sabbath?” "
+    },
+    {
+      "verse": 25,
+      "urdu": "اُس نے اُن سے کہا۔ کیا تُم نے کبھی نہیں پڑھا کہ داؔؤد نے کیا کِیا جب اُسے ضرُورت ہُوئی۔ اَور وہ اَور اُس کے ساتھی بُھوکے تھے؟O̲",
+      "english": "And he said to them, “Have you never read what David did when he and his companions were hungry and in need of food? "
+    },
+    {
+      "verse": 26,
+      "urdu": "وہ کیونکر سردار کاہِنِ اعظم ابی یاتار کے دِنوں میں خُدا کے گھر میں گیا اَور نَذَر کی روٹیاں کھائِیں جِن کا کھانا کاہِنوں کے سِوا اَور کِسی کو رَوا نہیں۔ اَور اپنے ساتھیوں کو بھِ دِیںO̲",
+      "english": "He entered the house of God, when Abiathar was high priest, and ate the bread of the Presence, which it is not lawful for any but the priests to eat, and he gave some to his companions.” "
+    },
+    {
+      "verse": 27,
+      "urdu": "اَور اُس نے اُن سے کہا کہ سبت اِنسان کے لئے بنایا گیا تھا نہ کہ اِنسان سبت کے لئے۔O̲",
+      "english": "Then he said to them, “The sabbath was made for humankind, and not humankind for the sabbath; "
+    },
+    {
+      "verse": 28,
+      "urdu": "پس اِبنِ اِنسان سبت کا بھی مالِک ہَے +",
+      "english": "so the Son of Man is lord even of the sabbath.”"
+    }
+  ]
+}
