@@ -1,0 +1,232 @@
+{
+  "book": "mark",
+  "chapter": 3,
+  "sections": {
+    "urdu": [
+      {
+        "title": "",
+        "start": 1,
+        "end": 6
+      },
+      {
+        "title": "رسُولوں کا تقّرر",
+        "start": 7,
+        "end": 21
+      },
+      {
+        "title": "فریسیوں کی کُفر گوئی",
+        "start": 22,
+        "end": 30
+      },
+      {
+        "title": "یسُوؔع کے رِشتہ دار",
+        "start": 31,
+        "end": 35
+      }
+    ],
+    "english": [
+      {
+        "title": "The Man with a Withered Hand",
+        "start": 1,
+        "end": 6
+      },
+      {
+        "title": "A Multitude at the Seaside",
+        "start": 7,
+        "end": 12
+      },
+      {
+        "title": "Jesus Appoints the Twelve",
+        "start": 13,
+        "end": 19
+      },
+      {
+        "title": "Jesus and Beelzebul",
+        "start": 20,
+        "end": 30
+      },
+      {
+        "title": "The True Kindred of Jesus",
+        "start": 31,
+        "end": 35
+      }
+    ]
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "urdu": "اَور وہ عِبادَت خانے میں پھر داخِل ہُؤا۔ اَور وہاں ایک آدمی تھا جِس کا ہاتھ سُوکھا ہُؤا تھاO̲",
+      "english": "Again he entered the synagogue, and a man was there who had a withered hand. "
+    },
+    {
+      "verse": 2,
+      "urdu": "اَور وہ اُس کی تاک میں رہے کہ اگر وہ اُسے سبت کے دِن شِفا بخشے تو اُس پر اِلزام لگائیںO̲",
+      "english": "They watched him to see whether he would cure him on the sabbath, so that they might accuse him. "
+    },
+    {
+      "verse": 3,
+      "urdu": "اَور اُس نے اُس آدمی سے جِس کا ہاتھ سُکھا ہُؤا تھا کہا بِیچ میں کھڑا ہوO̲",
+      "english": "And he said to the man who had the withered hand, “Come forward.” "
+    },
+    {
+      "verse": 4,
+      "urdu": "اَور اُس نے اُن سے کہا کہ سبت کے دِن نیکی کرنا رَوا ہَے یا بَدی کرنا۔ جان بچانا یا ہلاک کرنا؟ مگر وہ چُپ رہ گئےO̲",
+      "english": "Then he said to them, “Is it lawful to do good or to do harm on the sabbath, to save life or to kill?” But they were silent. "
+    },
+    {
+      "verse": 5,
+      "urdu": "اَور اُس نے اُن پر غُصّے سے نظر دوڑا کر اَور اُن کی سنگ دِلی کے سبب غمگِین ہو کر اُس آدمی سے کہا۔ اپنا ہاتھ بڑھا۔ اُس نے بڑھا دِیا۔ اَور اُس کا ہاتھ بَحال ہو گیاO̲",
+      "english": "He looked around at them with anger; he was grieved at their hardness of heart and said to the man, “Stretch out your hand.” He stretched it out, and his hand was restored. "
+    },
+    {
+      "verse": 6,
+      "urdu": "تب فریسی باہر جا کر فی الفور ہیرودیوں کے ساتھ اُس کے خلاف مشورہ کرنے لگے کہ کِس طرح اُسے ہلاک کریںO̲",
+      "english": "The Pharisees went out and immediately conspired with the Herodians against him, how to destroy him."
+    },
+    {
+      "verse": 7,
+      "urdu": "اَور یسُوؔع اپنے شاگِردوں کے ساتھ جِھیل کی طرف چلا گیا اَور جلِیل سے ایک بڑا ہجُوم پیچھے ہو لِیا۔ اَور یہُودیہO̲",
+      "english": "Jesus departed with his disciples to the sea, and a great multitude from Galilee followed him; "
+    },
+    {
+      "verse": 8,
+      "urdu": "اَور یرُوشلِیم اَور اِدوم اَور اُردن کے پار اَور صُور اَور صیدُون کے گِردونواح سے بھی بہُت خلقت اُس کے بڑے کاموں کی خبر سُن کر اُس کے پاس آئیO̲",
+      "english": "hearing all that he was doing, they came to him in great numbers from Judea, Jerusalem, Idumea, beyond the Jordan, and the region around Tyre and Sidon. "
+    },
+    {
+      "verse": 9,
+      "urdu": "تب اُس نے اپنے شاگِردوں سے کہا ہجُوم کے سبب سے ایک چھوٹی کشتی میرے لئے تیّار رہے تاکہ وہ مُجھے دَبانہ ڈالیںO̲",
+      "english": "He told his disciples to have a boat ready for him because of the crowd, so that they would not crush him; "
+    },
+    {
+      "verse": 10,
+      "urdu": "کیونکہ وہ بہُت لوگوں کو شِفا دیتا تھا۔ اِس لئے کہ جِتنے بیماریوں میں مُبتلا تھے۔ وہ اُس پر گِرے پڑتے تھے کہ اُسے چُھولیںO̲",
+      "english": "for he had cured many, so that all who had diseases pressed upon him to touch him. "
+    },
+    {
+      "verse": 11,
+      "urdu": "اَور ناپاک رُوحیں جب اُسے دیکھتی تھیں۔ اُس کے آگے گِر پڑتی اَور پُکار کر کہتے تھیں کہ تُو خُدا کا بیٹا ہَےO̲",
+      "english": "Whenever the unclean spirits saw him, they fell down before him and shouted, “You are the Son of God!” "
+    },
+    {
+      "verse": 12,
+      "urdu": "اَور وہ اُنہیں بہُت دھمکاتا تھی کہ مُجھے مشہُور نہ کرناO̲\n",
+      "english": "But he sternly ordered them not to make him known."
+    },
+    {
+      "verse": 13,
+      "urdu": "پِھر وہ پہاڑ پر چڑھ گیا اَور جِنہیں وہ آپ چاہتا تھا اُنہیں اپنے پاس بُلایا۔ تو وہ اُس کے پاس آ گئےO̲",
+      "english": "He went up the mountain and called to him those whom he wanted, and they came to him. "
+    },
+    {
+      "verse": 14,
+      "urdu": "اَور اُس نے بارہ کو مُقرّر کِیا جو اُس کے ساتھ رہیں اَور جِنہیں وہ مُنادی کے لئے بھیجےO̲",
+      "english": "And he appointed twelve, whom he also named apostles,[a] to be with him, and to be sent out to proclaim the message, "
+    },
+    {
+      "verse": 15,
+      "urdu": "اَور جو بیماروں کو اچھّا کرنے اَور بَدرُوحوں کو نِکالنے کا اِختیار رکھیںO̲",
+      "english": "and to have authority to cast out demons. "
+    },
+    {
+      "verse": 16,
+      "urdu": "اَور اُس نے یہ بارہ مُقرّر کِئے۔ شمعُون جِس کا نام اُس نے پطرس رکھّاO̲",
+      "english": "So he appointed the twelve:[b] Simon (to whom he gave the name Peter); "
+    },
+    {
+      "verse": 17,
+      "urdu": "اَور یَعقُوب بِن زبدی۔ اَور یَعقُوب کا بھائی یُوحنّا جِن کا نام اُس نے بُوانَرجِس یعنی پِسران تُندُر رکھّاO̲",
+      "english": "James son of Zebedee and John the brother of James (to whom he gave the name Boanerges, that is, Sons of Thunder); "
+    },
+    {
+      "verse": 18,
+      "urdu": "اَور اندریاس اَور فَیلبُوس اَور بَرتُلمائی اَور متّی اَور تُوما اَور یَعقُوب بِن حلفائی اَور تدّائی اَور شمعُون قانویO̲",
+      "english": "and Andrew, and Philip, and Bartholomew, and Matthew, and Thomas, and James son of Alphaeus, and Thaddaeus, and Simon the Cananaean, "
+    },
+    {
+      "verse": 19,
+      "urdu": "اَور یہُودہ اِسخایوطی جِس نے اُسے پکڑوادِیاO̲\n",
+      "english": "and Judas Iscariot, who betrayed him."
+    },
+    {
+      "verse": 20,
+      "urdu": "اَور وہ ایک گھر میں آئے اَور اِتنا ہجُوم جمع ہو گیا کہ وہ روٹی بھی نہ کھا سکےO̲",
+      "english": "Then he went home; and the crowd came together again, so that they could not even eat. "
+    },
+    {
+      "verse": 21,
+      "urdu": "جب اُس کے مُتعلِّقین نے یہ سُنا تو اُس پر قابُو پانے نِکلے۔ کیونکہ کہتے تھے کہ وہ دِیوانہ ہو گیا ہےO̲",
+      "english": "When his family heard it, they went out to restrain him, for people were saying, “He has gone out of his mind.” "
+    },
+    {
+      "verse": 22,
+      "urdu": "اَور فقیہہ اَور یرُوشلِیم سے آئے تھے کہتے تھے کہ اِس میں بَعلَ زبُول ہَے۔ اَور یہ کہ یہ بَدرُوحوں کے سردار کی مدد سے بَدرُوحوں کو نِکالتا ہَےO̲",
+      "english": "And the scribes who came down from Jerusalem said, “He has Beelzebul, and by the ruler of the demons he casts out demons.” "
+    },
+    {
+      "verse": 23,
+      "urdu": "اَور وہ اُنہیں پاس بُلا کر اُن سے تمثِیلوں میں کہنے لگا کہ شیطان کو شیطان کیوں کر نِکال سکتا ہَےO̲",
+      "english": "And he called them to him, and spoke to them in parables, “How can Satan cast out Satan? "
+    },
+    {
+      "verse": 24,
+      "urdu": "اَور اگر کِسی بادشاہی میں پُھوٹ پڑے تو وہ بادشاہی قائم نہیں رہ سکتیO̲",
+      "english": "If a kingdom is divided against itself, that kingdom cannot stand. "
+    },
+    {
+      "verse": 25,
+      "urdu": "اَور اگر کِسی گھرانے میں پُھوٹ پڑے تو وہ گھرانہ قائم نہیں رہ سکتاO̲",
+      "english": "And if a house is divided against itself, that house will not be able to stand. "
+    },
+    {
+      "verse": 26,
+      "urdu": "اَور اگر شیطان اپنا ہی مُخالِف ہو اَور اُس میں پُھوٹ پڑے تو وہ قائم نہیں رہ سکتا۔ بلکہ اُس کا خاتمہ ہو جاتا ہَےO̲",
+      "english": "And if Satan has risen up against himself and is divided, he cannot stand, but his end has come. "
+    },
+    {
+      "verse": 27,
+      "urdu": "کوئی آدمی کِسی زورآور کے گھر میں گُھس کر اُس کے اسباب کو لُوٹ نہیں سکتا۔ جب تک کہ وہ پہلے اُس زورآور کو نہ باندھ لے۔ اَور پِھر اُس کے گھر کو لُوٹ لے گاO̲\n",
+      "english": "But no one can enter a strong man’s house and plunder his property without first tying up the strong man; then indeed the house can be plundered.\n"
+    },
+    {
+      "verse": 28,
+      "urdu": "مَیں تُم سے سچ کہتا ہُوں کہ آدم زاد کو سب کُچھ مُعاف کِیا جائے گا۔ گُناہ بلکہ کُفر بھی جو وہ بکتے ہیں، مُعاف کِئے جائیں گےO̲",
+      "english": "“Truly I tell you, people will be forgiven for their sins and whatever blasphemies they utter; "
+    },
+    {
+      "verse": 29,
+      "urdu": "لیکن جو رُوحُ القُدس کے خلاف کُفر بکے وہ کبھی مُعافی نہ پائے گا۔ بلکہ اَبدی قصُور کا مُجرم ہَےO̲",
+      "english": "but whoever blasphemes against the Holy Spirit can never have forgiveness, but is guilty of an eternal sin”— "
+    },
+    {
+      "verse": 30,
+      "urdu": "کیونکہ وہ کہتے تھے کہ اُس میں ناپاک رُوح ہَےO̲",
+      "english": "for they had said, “He has an unclean spirit.”"
+    },
+    {
+      "verse": 31,
+      "urdu": "تب اُس کی ماں اَور اُس کے بھائی آئے اَور باہر کھڑے ہو کر اُسے بُلوا بھیجاO̲",
+      "english": "Then his mother and his brothers came; and standing outside, they sent to him and called him. "
+    },
+    {
+      "verse": 32,
+      "urdu": "اَور بِھیڑ اُس کے آس پاس بیٹھی تھی۔ اَور وہ کہنے لگے۔ دیکھ تیری ماں اَور تیرے بھائی اَور تیری بہنیں باہر تُجھے پُوچھتے ہیںO̲",
+      "english": "A crowd was sitting around him; and they said to him, “Your mother and your brothers and sisters[c] are outside, asking for you.” "
+    },
+    {
+      "verse": 33,
+      "urdu": "اُس نے اُن کے جَواب میں کہا کہ۔ کون ہَے میری ماں اَور میرے بھائی؟O̲",
+      "english": "And he replied, “Who are my mother and my brothers?” "
+    },
+    {
+      "verse": 34,
+      "urdu": "اَور اُن پر جو اُس کے گِرد بیٹھے تھے نظر دوڑا کر کہا۔ دیکھو میری ماں اَور میرے بھائیO̲",
+      "english": "And looking at those who sat around him, he said, “Here are my mother and my brothers! "
+    },
+    {
+      "verse": 35,
+      "urdu": "کیونکہ جو کوئی خُدا کی مرضی پر چلے وہی میرا بھائی اَور بہن اَور ماں ہَے +",
+      "english": "Whoever does the will of God is my brother and sister and mother.”"
+    }
+  ]
+}
