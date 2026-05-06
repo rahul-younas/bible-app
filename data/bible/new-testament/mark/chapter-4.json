@@ -1,0 +1,277 @@
+{
+  "book": "mark",
+  "chapter": 4,
+  "sections": {
+    "urdu": [
+      {
+        "title": "بونے والے کی تمثِیل",
+        "start": 1,
+        "end": 20
+      },
+      {
+        "title": "نُورِ مسیحیت",
+        "start": 21,
+        "end": 25
+      },
+      {
+        "title": "بِیج کی تمثِیل",
+        "start": 26,
+        "end": 29
+      },
+      {
+        "title": "رائی کے دانے کی تمثِیل",
+        "start": 30,
+        "end": 34
+      },
+      {
+        "title": "تسکِینِ طُوفان",
+        "start": 35,
+        "end": 41
+      }
+    ],
+    "english": [
+      {
+        "title": "The Parable of the Sower",
+        "start": 1,
+        "end": 9
+      },
+      {
+        "title": "The Purpose of the Parables",
+        "start": 10,
+        "end": 20
+      },
+      {
+        "title": "A Lamp under a Bushel Basket",
+        "start": 21,
+        "end": 25
+      },
+      {
+        "title": "The Parable of the Growing Seed",
+        "start": 26,
+        "end": 29
+      },
+      {
+        "title": "The Parable of the Mustard Seed",
+        "start": 30,
+        "end": 32
+      },
+      {
+        "title": "The Use of Parables",
+        "start": 33,
+        "end": 34
+      },
+      {
+        "title": "Jesus Stills a Storm",
+        "start": 35,
+        "end": 41
+      }
+    ]
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "urdu": "وہ پِھر جِھیل کے کِنارے تعلیم دینے لگا۔ اَور ایسا بڑا ہجُوم اُس کے پاس جمع ہو گیا۔ کہ وہ جِھیل میں ایک کشتی پر چڑھ بیٹھا اَور سارا ہجُوم خُشکی پر جِھیل کے کِنارے رہاO̲",
+      "english": "Again he began to teach beside the sea. Such a very large crowd gathered around him that he got into a boat on the sea and sat there, while the whole crowd was beside the sea on the land. "
+    },
+    {
+      "verse": 2,
+      "urdu": "اَور وہ اُنہیں تمثِیلوں میں بہُت سی باتیں سِکھانے لگا۔ اَور اپنی تعلیم میں اُن سے کہاO̲\n",
+      "english": "He began to teach them many things in parables, and in his teaching he said to them: "
+    },
+    {
+      "verse": 3,
+      "urdu": "سُنو۔ دیکھو بِیج بونے والا بونے نِکلاO̲",
+      "english": "“Listen! A sower went out to sow. "
+    },
+    {
+      "verse": 4,
+      "urdu": "اَور بوتے وقت یُوں ہُوا کہ کُچھ راہ کے کِنارے گِرا اَور پرندوں نے آ کر اُسے چُگ لِیاO̲",
+      "english": "And as he sowed, some seed fell on the path, and the birds came and ate it up. "
+    },
+    {
+      "verse": 5,
+      "urdu": "اَور کُچھ پتّھریلی زمین پر گِرا اَور گہری مِٹّی نہ مِلنے کے سبب سے جلد اُگاO̲",
+      "english": "Other seed fell on rocky ground, where it did not have much soil, and it sprang up quickly, since it had no depth of soil. "
+    },
+    {
+      "verse": 6,
+      "urdu": "اَور جب سُورج نِکلا تو وہ جَل گیا اَور جَڑ نہ رکھنے کے سبب سے سُوکھ گیاO̲",
+      "english": "And when the sun rose, it was scorched; and since it had no root, it withered away. "
+    },
+    {
+      "verse": 7,
+      "urdu": "اَور کُچھ خاردار جھاڑیوں میں گِرا اَور خاردار جھاڑیوں نے بڑھ کر اُسے دبا لِیا۔ اَور وہ پَھل نہ لایاO̲",
+      "english": "Other seed fell among thorns, and the thorns grew up and choked it, and it yielded no grain. "
+    },
+    {
+      "verse": 8,
+      "urdu": "اَور کُچھ اچھّی زمین میں گِرا۔ اَور پَھل دِیا۔ یعنی وہ اُگا اَور بڑھا اَور تیس گُنا پَھل لایا اَور کوئی کوئی ساٹھ گُنا اَور کوئی کوئی سَو گُنا بھیO̲",
+      "english": "Other seed fell into good soil and brought forth grain, growing up and increasing and yielding thirty and sixty and a hundredfold.” "
+    },
+    {
+      "verse": 9,
+      "urdu": "پِھر اُس نے کہا۔ جس کے سُننے کے کان ہوں وہ سُن لےO̲\n",
+      "english": "And he said, “Let anyone with ears to hear listen!”"
+    },
+    {
+      "verse": 10,
+      "urdu": "اَور جب وہ اکیلا رہ گیا۔ تو اُنہوں نے جو اُن بارہ سمیت اُس کے ساتھ تھے تمثِیلوں کی بابت اُس سے پُوچھاO̲",
+      "english": "When he was alone, those who were around him along with the twelve asked him about the parables. "
+    },
+    {
+      "verse": 11,
+      "urdu": "تو اُس نے اُن سے کہا کہ خُدا کی بادشاہی کا بھید تُمہیں دِیا گیا ہَے۔ لیکن جو باہر ہَیں اُن کے لئے سب باتیں تمثِیلوں میں ہوتی ہَیںO̲\n",
+      "english": "And he said to them, “To you has been given the secret[a] of the kingdom of God, but for those outside, everything comes in parables; "
+    },
+    {
+      "verse": 12,
+      "urdu": "\nSPتاکہ دیکھتے ہُوئے دیکھیں پر نہ پہچانیں۔\nاَور سُنتے ہُوئے سُنیں پر نہ سمجھیں۔\nایسا نہ ہو کہ رجُوع لائیں۔\nاَور مَغفِرت حاصِل کریںO̲EP\n",
+      "english": "in order that\n\nSP‘they may indeed look, but not perceive,\n\tand may indeed listen, but not understand;\nso that they may not turn again and be forgiven.’”EP\n\n"
+    },
+    {
+      "verse": 13,
+      "urdu": "پِھر اُس نے اُن سے کہا۔ کیا تُم یہ تمثِیل نہیں سمجھے۔ تو سب تمثِیلوں کو کیونکر سمجھو گے؟O̲",
+      "english": "And he said to them, “Do you not understand this parable? Then how will you understand all the parables? "
+    },
+    {
+      "verse": 14,
+      "urdu": "بونے والا کلام بوتا ہَےO̲",
+      "english": "The sower sows the word. "
+    },
+    {
+      "verse": 15,
+      "urdu": "جو راہ کے کِنارے ہَیں۔ جہاں کلام بویا جاتا ہَے۔ یہ وہ ہَیں کہ جب اُنہوں نے سُنا تو شیطان فوراََ آ کر اُس کلام کو جو اُن میں بویا گیا تھا۔ اُٹھا لے جاتا ہَےO̲",
+      "english": "These are the ones on the path where the word is sown: when they hear, Satan immediately comes and takes away the word that is sown in them. "
+    },
+    {
+      "verse": 16,
+      "urdu": "اَور اِسی طرح جو پتّھریلی زمین میں بوئے گئے یہ وہ ہَیں جو کلام کو سُن کر جلد خُوشی سے قبُول کر لیتے ہَیںO̲",
+      "english": "And these are the ones sown on rocky ground: when they hear the word, they immediately receive it with joy. "
+    },
+    {
+      "verse": 17,
+      "urdu": "لیکن اپنے میں جَڑ نہیں رکھتے۔ بلکہ چند روزہ ہَیں۔ اَور جس وقت کلام کے سبب سے مُصِیبت یا اِیذا بَرپا ہوتی ہَے تو فوراََ ٹھوکر کھاتے ہَیںO̲",
+      "english": "But they have no root, and endure only for a while; then, when trouble or persecution arises on account of the word, immediately they fall away. "
+    },
+    {
+      "verse": 18,
+      "urdu": "اَور دُوسرے وہ جو خاردار جھاڑیوں میں بوئے جاتے ہیں۔ یہ وہ ہَیں جو کلام سُنتے تو ہَیںO̲",
+      "english": "And others are those sown among the thorns: these are the ones who hear the word, "
+    },
+    {
+      "verse": 19,
+      "urdu": "مگر دُنیا کی فِکریں اَور دولت کا فریب اَور چیزوں کا لالچ حائِل ہو کر کلام کو دَبا دیتا ہَے اَور وہ بے پَھل رہ جاتا ہَےO̲",
+      "english": "but the cares of the world, and the lure of wealth, and the desire for other things come in and choke the word, and it yields nothing. "
+    },
+    {
+      "verse": 20,
+      "urdu": "اَور جو اچھّی زمین میں بوئے گئے یہ وہ ہیں جو کلام کو سُنتے ہیں اَور قبُول کرکے پَھل لاتے ہَیں۔ کوئی تیس گُنا کوئی ساٹھ گُنا اَور کوئی سَو گُناO̲",
+      "english": "And these are the ones sown on the good soil: they hear the word and accept it and bear fruit, thirty and sixty and a hundredfold.”"
+    },
+    {
+      "verse": 21,
+      "urdu": "اَور اُس نے اُن سے کہا۔ کیا چراغ اِس لئے لایا جاتا ہَے کہ پیمانے یا پلنگ کے نیچے رکھّا جائے؟ کیا اِس لئے نہیں کہ چراغ دان پر رکھّا جائے؟O̲",
+      "english": "He said to them, “Is a lamp brought in to be put under the bushel basket, or under the bed, and not on the lampstand? "
+    },
+    {
+      "verse": 22,
+      "urdu": "کیونکہ کوئی بات پوشِیدہ نہیں جو ظاہر نہ کی جائے گی۔ اَور نہ ہی پوشِیدہ کی گئی۔ مگر اِس لئے کہ ظاہر ہو جائےO̲",
+      "english": "For there is nothing hidden, except to be disclosed; nor is anything secret, except to come to light. "
+    },
+    {
+      "verse": 23,
+      "urdu": "جس کے سُننے کے کان ہوں وہ سُن لےO̲\n",
+      "english": "Let anyone with ears to hear listen!” "
+    },
+    {
+      "verse": 24,
+      "urdu": "پِھر اُس نے اُن سے کہا۔ کہ غور کرو جو سُنتے ہو۔ جِس پیمانے سے تُم ناپتے ہو اُسی سے تُمہارے لئے ناپا جائے گا اَور تُمہیں زیادہ دِیا جائے گاO̲",
+      "english": "And he said to them, “Pay attention to what you hear; the measure you give will be the measure you get, and still more will be given you. "
+    },
+    {
+      "verse": 25,
+      "urdu": "جس کے پاس ہَے۔ اُسے دِیا جائے گا۔ اَور جس کے پاس نہیں ہَے۔ اُس سے وہ بھی لے لِیا جائے گا جو اُس کے پاس ہَےO̲",
+      "english": "For to those who have, more will be given; and from those who have nothing, even what they have will be taken away.”"
+    },
+    {
+      "verse": 26,
+      "urdu": "اَور اُس نے کہا خُدا کی بادشاہی ایسی ہَے۔ جیسے کوئی آدمی زمین میں بِیج ڈالےO̲",
+      "english": "He also said, “The kingdom of God is as if someone would scatter seed on the ground, "
+    },
+    {
+      "verse": 27,
+      "urdu": "اَور رات کو سوئے اَور دِن کو اُٹھے۔ اَور بِیج اُگے اَور بڑھے اَور وہ جانے بھی نہ کہ یہ کیسے ہوتا ہَےO̲",
+      "english": "and would sleep and rise night and day, and the seed would sprout and grow, he does not know how. "
+    },
+    {
+      "verse": 28,
+      "urdu": "زمین خُود بہ خُود پَھل لاتی ہَے۔ پہلے پتّی پِھر بال میں پُورے دانےO̲",
+      "english": "The earth produces of itself, first the stalk, then the head, then the full grain in the head. "
+    },
+    {
+      "verse": 29,
+      "urdu": "اَور جب پَھل پک جاتا ہَے تو وہ فوراََ درانتی لگاتا ہَے۔ کیونکہ کاٹنے کا وقت آ پہُنچاO̲",
+      "english": "But when the grain is ripe, at once he goes in with his sickle, because the harvest has come.”"
+    },
+    {
+      "verse": 30,
+      "urdu": "پِھر اُس نے کہا کہ ہم خُدا کی بادشاہی کو کِس سے تشبیہہ دیں یا کِس تمثِیل سے اُسے بیان کریں؟O̲",
+      "english": "He also said, “With what can we compare the kingdom of God, or what parable will we use for it? "
+    },
+    {
+      "verse": 31,
+      "urdu": "وہ رائی کے دانے کی مانند ہَے۔ کہ جب زمین میں بویا جاتا ہَے تو زمین کے سب بِیجوں سے چھوٹا ہوتا ہَےO̲",
+      "english": "It is like a mustard seed, which, when sown upon the ground, is the smallest of all the seeds on earth; "
+    },
+    {
+      "verse": 32,
+      "urdu": "لیکن جب بویا گیا تو اُگتا اَور سب ترکاریوں سے بڑا ہو جاتا اَور ایسی بڑی ڈالیاں نِکالتا ہَے کہ آسمان کے پرندے اُس کے سائے میں بسیرا کر سکتے ہَیںO̲\n",
+      "english": "yet when it is sown it grows up and becomes the greatest of all shrubs, and puts forth large branches, so that the birds of the air can make nests in its shade.”"
+    },
+    {
+      "verse": 33,
+      "urdu": "اَور وہ ایسی ہی بہُت سی تمثِیلوں میں اُن کی سمجھ کے مُوافِق اُن سے کلام کرتا تھاO̲",
+      "english": "With many such parables he spoke the word to them, as they were able to hear it; "
+    },
+    {
+      "verse": 34,
+      "urdu": "اَور بے تمثِیل اُن سے کُچھ نہ کہتا تھا لیکن تنہائی میں اپنے شاگِردوں کو سب باتوں کے معنی بتاتا تھاO̲",
+      "english": "he did not speak to them except in parables, but he explained everything in private to his disciples."
+    },
+    {
+      "verse": 35,
+      "urdu": "اَور اُسی دِن شام ہُوئی اُس نے اُن سے کہا۔ آؤ پار چلیںO̲",
+      "english": "On that day, when evening had come, he said to them, “Let us go across to the other side.” "
+    },
+    {
+      "verse": 36,
+      "urdu": "اَور وہ  ہجُوم کو رُخصت کر کے اُسے جس طرح کہ وہ کشتی پر تھا لے چلے اَور اُس کے ساتھ اَور بھی کشتیاں تھیںO̲",
+      "english": "And leaving the crowd behind, they took him with them in the boat, just as he was. Other boats were with him. "
+    },
+    {
+      "verse": 37,
+      "urdu": "اَور بڑی آندھی چلی اَور لہریں کشتی پر یہاں تک لگیں کہ کشتی پانی سے بھر چلی تھیO̲",
+      "english": "A great windstorm arose, and the waves beat into the boat, so that the boat was already being swamped. "
+    },
+    {
+      "verse": 38,
+      "urdu": "اَور وہ پچھلی طرف گدّی پر سو رہا تھا۔ تب اُنہوں نے اُسے جَگا کر کہا۔ اَے اُستاد تُجھے فِکر نہیں کہ ہم ہلاک ہونے کو ہیںO̲",
+      "english": "But he was in the stern, asleep on the cushion; and they woke him up and said to him, “Teacher, do you not care that we are perishing?” "
+    },
+    {
+      "verse": 39,
+      "urdu": "اَور اُس نے اُٹھ کر ہَوا کو جِھڑکا اَور جِھیل سے کہا۔ خاموش۔ ساکت ہو۔ تو ہَوا بند ہو گئی اَور بڑا اَمن ہو گیاO̲",
+      "english": "He woke up and rebuked the wind, and said to the sea, “Peace! Be still!” Then the wind ceased, and there was a dead calm. "
+    },
+    {
+      "verse": 40,
+      "urdu": "اَور اُس نے اُن سے کہا کیوں ڈرتے ہو؟ اَب تک اِیمان نہیں رکھتے؟O̲",
+      "english": "He said to them, “Why are you afraid? Have you still no faith?” "
+    },
+    {
+      "verse": 41,
+      "urdu": "وہ نہایت ڈر گئے اَور آپس میں کہنے لگے۔ یہ کون ہَے؟ کہ ہَوا اَور جِھیل بھی اِس کی اِطاعت کرتے ہَیں +",
+      "english": "And they were filled with great awe and said to one another, “Who then is this, that even the wind and the sea obey him?”"
+    }
+  ]
+}
