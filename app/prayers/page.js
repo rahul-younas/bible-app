@@ -20,7 +20,7 @@ export default function PrayersPage() {
   return (
     <div className="px-4 py-6 max-w-6xl mx-auto">
       <div
-        className="sticky top-12 z-40 -mx-4 mb-8 border-b border-border bg-background/95 px-4 py-2 backdrop-blur-sm supports-[backdrop-filter]:bg-background/80"
+        className="sticky top-8 z-40 -mx-4 mb-8 border-b border-border bg-background/95 px-4 py-2 backdrop-blur-sm supports-[backdrop-filter]:bg-background/80"
       >
         <div className="mx-auto flex max-w-6xl flex-row flex-nowrap items-end gap-4 md:gap-6">
           <label className="flex w-36 shrink-0 flex-col gap-1.5 text-sm font-medium text-foreground md:w-44">
